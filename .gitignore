@@ -7,3 +7,6 @@
 /target/
 /log/
 nbactions.xml
+.idea/
+*.iml
+.DS_Store
