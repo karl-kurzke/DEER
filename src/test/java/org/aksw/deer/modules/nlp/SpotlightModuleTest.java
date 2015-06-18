@@ -53,7 +53,8 @@ public class SpotlightModuleTest {
         assertTrue( "Resources have to be a key in result HashMap. ", result.containsKey("Resources"));
         ArrayList<HashMap<String, String>> resources = (ArrayList<HashMap<String, String>>) result.get("Resources");
         assertTrue("Two Resources have to be found", resources.size() == 3);
-//        System.out.println(result.toString());
+        System.out.println("Return from Rest:");
+        System.out.println(result.toString());
     }
 
     @Test
@@ -137,9 +138,9 @@ public class SpotlightModuleTest {
         Model testModel = ModelFactory.createDefaultModel();
         testModel.add(subject, descriptionProp, description);
         SpotlightModule slmProcess = new SpotlightModule( );
-
-
-        Model resultModel = slmProcess.process(testModel, new HashMap<String, String>());
+        HashMap<String, String> props = new HashMap<String, String>();
+        props.put("output", "testfile2.ttl");
+        Model resultModel = slmProcess.process(testModel, props);
         System.out.println("Ergebnisse:");
         System.out.println(resultModel.toString());
 

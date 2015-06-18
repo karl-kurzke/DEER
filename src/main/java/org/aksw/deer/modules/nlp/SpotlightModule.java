@@ -2,6 +2,8 @@ package org.aksw.deer.modules.nlp;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.hp.hpl.jena.datatypes.RDFDatatype;
+import com.hp.hpl.jena.datatypes.xsd.XSDDatatype;
 import com.hp.hpl.jena.rdf.model.*;
 import org.aksw.deer.helper.vacabularies.SCMSANN;
 import org.aksw.deer.helper.vacabularies.SPECS;
@@ -257,6 +259,7 @@ public class SpotlightModule implements DeerModule{
 		// Model From Spotlight
 		Model newModel = getNewTripleAsModel();
 		model = model.union(newModel);
+		model.setNsPrefixes(newModel.getNsPrefixMap());
 
 		if( parameters.containsKey("output")){
 			String outputFile = parameters.get("output");
@@ -312,7 +315,8 @@ public class SpotlightModule implements DeerModule{
 			try{
 				if(object.isLiteral()){
 					Model namedEntityModel = getModelFromSpotlightRest((Resource) subject, object.toString());
-					resultModel = resultModel.union(namedEntityModel);
+					resultModel = namedEntityModel.union(resultModel);
+					resultModel.setNsPrefixes(namedEntityModel.getNsPrefixMap());
 
 				}
 			}catch (Exception e) {
@@ -320,6 +324,8 @@ public class SpotlightModule implements DeerModule{
 				logger.error(object.toString());
 			}
 		}
+		System.out.println("should not be empty");
+		System.out.println(resultModel.getNsPrefixMap());
 		return resultModel;
 	}
 
@@ -331,7 +337,7 @@ public class SpotlightModule implements DeerModule{
 
 
 	/**
-	 * Get new to subject related Properties in given text.
+	 * Get new to Subject related Properties in given text.
 	 *
 	 * @param subject The Subject to whom the found Entities are related
 	 * @param text Text in which related Resources should be found
@@ -396,32 +402,92 @@ public class SpotlightModule implements DeerModule{
 
 
 	public Model HashMapAnswerToModel(Resource subject, HashMap<String, Object> entities){
+		/**
+		 * 	Fragment of example entities object:
+		 * 	{	@confidence=0.2,
+		 *		@text=Queen Elizabeth is the Queen of Great Britain,
+		 *		@support=20,
+		 *		@types=,
+		 *		Resources=
+		 *		[
+		 *			{	@URI=http://dbpedia.org/resource/RMS_Queen_Elizabeth,
+		 *				@support=121,
+		 *				@types=	DBpedia:Ship,
+		 *						DBpedia:MeanOfTransportation,
+		 *						...
+		 *				@surfaceForm=Queen Elizabeth,
+		 *				@offset=0,
+		 *				@similarityScore=0.27637702226638794,
+		 *				@percentageOfSecondRank=0.7642967609169785
+		 *			}, ...
+		 *		],
+		 *		@sparql=,
+		 *		@policy=whitelist
+		 *	}
+		 */
+		HashMap<String, String> prefMap = new HashMap<String, String>();
+		prefMap.put("rdf", "http://www.w3.org/1999/02/22-rdf-syntax-ns#");
+		prefMap.put("ann", "http://www.w3.org/2000/10/annotation-ns#");
+		prefMap.put("dbpedia-res", "http://dbpedia.org/resource/");
+		prefMap.put("dbpedia-ont", "http://dbpedia.org/ontology/");
+		prefMap.put("geo", "http://geoknow.org/ontology/");
+		prefMap.put("scms", "http://ns.aksw.org/scms/");
+		prefMap.put("xsd", "http://www.w3.org/2001/XMLSchema#");
+		// The Model to return
 		Model namedEntitymodel = ModelFactory.createDefaultModel();
+		namedEntitymodel.setNsPrefixes(prefMap);
+		// The Model for annotational Information
+		Model annotationModel = ModelFactory.createDefaultModel();
+		annotationModel.setNsPrefixes(prefMap);
 		ArrayList<HashMap<String, String>> resources = (ArrayList<HashMap<String, String>>) entities.get("Resources");
+		String annotatedText = (String) entities.get("@text");
 		Property relationProperty = ResourceFactory.createProperty(usedParam.get(ADDED_PROPERTY));
 		for (HashMap<String, String> resource: resources) {
 //			logger.info( subject.getURI() + " " + relationProperty.getLocalName()  + " " + resource.get("@URI"));
-
 			Resource newObject = ResourceFactory.createResource(resource.get("@URI"));
 			namedEntitymodel.add(subject, relationProperty, newObject);
 			// add types from resources
 			String allTypes = resource.get("@types");
 			List<String> typeList = new ArrayList<String>(Arrays.asList(allTypes.split("\\s*,\\s*")));
-			Property typeProp = ResourceFactory.createProperty("owl:a");
+			Property typeProp = ResourceFactory.createProperty(prefMap.get("rdf") + "type");
 			for (String type:typeList) {
 				//filter: only dbpedia types
 //				logger.info(type);
-				if (type.startsWith("DBpedia")){
-					Resource typeRes = ResourceFactory.createResource(type);
+				if (type.startsWith("DBpedia:")){
+					Resource typeRes = ResourceFactory.createResource(prefMap.get("dbpedia-ont") + type.substring(8));
 					namedEntitymodel.add(newObject, typeProp, typeRes);
 				}
-
 			}
-
-
-
+			String surfaceForm = resource.get("@surfaceForm");
+			Integer offset = Integer.parseInt(resource.get("@offset"));
+			Integer endIndex = offset + surfaceForm.length();
+			Resource annotation = annotationModel.createResource();
+			annotationModel.add( annotation,
+					ResourceFactory.createProperty(prefMap.get("rdf") + "type"),
+					ResourceFactory.createResource(prefMap.get("ann") + "Annotation"));
+			annotationModel.add(annotation,
+					ResourceFactory.createProperty(prefMap.get("scms"), "body"),
+					ResourceFactory.createTypedLiteral(surfaceForm, XSDDatatype.XSDstring));
+			annotationModel.add(annotation,
+					ResourceFactory.createProperty(prefMap.get("scms") + "beginIndex"),
+					ResourceFactory.createTypedLiteral(offset.toString(), XSDDatatype.XSDint));
+			annotationModel.add( annotation,
+					ResourceFactory.createProperty(prefMap.get("scms"), "endIndex"),
+					ResourceFactory.createTypedLiteral(endIndex.toString(), XSDDatatype.XSDint));
+			annotationModel.add(annotation,
+					ResourceFactory.createProperty(prefMap.get("scms"), "means"),
+					newObject);
+			annotationModel.add(annotation,
+					ResourceFactory.createProperty(prefMap.get("scms"), "source"),
+					ResourceFactory.createResource(prefMap.get("scms") + "tools/spotlight"));
+			annotationModel.add( annotation,
+					ResourceFactory.createProperty(prefMap.get("ann"), "annotates"),
+					ResourceFactory.createTypedLiteral(annotatedText, XSDDatatype.XSDstring));
 		}
-		return namedEntitymodel;
+		Model returnModel = namedEntitymodel.union(annotationModel);
+		returnModel.setNsPrefixes(prefMap);
+		System.out.println(returnModel.getNsPrefixMap());
+		return returnModel;
 	}
 
 
@@ -526,7 +592,7 @@ public class SpotlightModule implements DeerModule{
 
 	@Override
 	public Resource getType(){
-
+		//TODO wrong add this module to specs
 		return SPECS.NLPModule;
 	}
 
