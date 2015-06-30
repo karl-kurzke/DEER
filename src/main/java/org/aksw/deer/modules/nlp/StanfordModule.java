@@ -37,9 +37,7 @@ import edu.stanford.nlp.pipeline.Annotation;
 import edu.stanford.nlp.pipeline.RelationExtractorAnnotator;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.util.CoreMap;
-
-
-
+import org.jgap.gp.terminal.True;
 
 
 /**
@@ -90,6 +88,79 @@ public class StanfordModule implements DeerModule{
 	private Model model = null;
 
 	private HashMap<String, String> usedParam;
+
+
+//	EvaluationThings
+	private Boolean evaluationMetaData = Boolean.TRUE;
+	private Model extractedTriples = ModelFactory.createDefaultModel();
+	private Integer doubleExtraction = 0;
+	public Integer getNumberOfDoubleExtraction() {
+		return doubleExtraction;
+	}
+	private void addExtractedTriple(Statement triple) {
+		if (extractedTriples.contains(triple)) {
+			this.doubleExtraction += 1;
+		} else {
+			extractedTriples.add(triple);
+		}
+	}
+	private Model mappedExtractedTriples = null;
+
+	/**
+	 * get all StanfordRessources from extractionModel and add them to mappedExtractedTriples
+	 */
+	private void addMappedExtractesTriplesFromModel (Model extractionModel) {
+		mappedExtractedTriples = ModelFactory.createDefaultModel();
+		StmtIterator statementIterator = extractionModel.listStatements(null, null, (RDFNode) null);
+		while (statementIterator.hasNext()) {
+			Statement currentStatement = statementIterator.nextStatement();
+			Property currentProperty = currentStatement.getPredicate();
+			if(currentProperty.getURI().startsWith("http://ns.aksw.org/scms/annotations/stanford/")) {
+				mappedExtractedTriples.add(currentStatement);
+			}
+		}
+	}
+
+	public Model getMappedExtractedTriples() {
+		return this.mappedExtractedTriples;
+	}
+
+	public HashMap<String,Integer> getStatementAnalyse() {
+		HashMap<String,Integer> answerMap = new HashMap<String,Integer>();
+		answerMap.put("onlyDBpedia", 0);
+		answerMap.put("onlydbPediaObject", 0);
+		answerMap.put("onlydbPediaSubject", 0);
+		answerMap.put("onlyStanford", 0);
+		answerMap.put("literalAsObject", 0);
+		if(mappedExtractedTriples == null) {
+			return answerMap;
+		}
+		StmtIterator statementIterator = mappedExtractedTriples.listStatements(null, null, (RDFNode) null);
+		while (statementIterator.hasNext()) {
+			Statement currentStatement = statementIterator.nextStatement();
+			RDFNode object = currentStatement.getObject();
+			if (object.isLiteral()){
+				answerMap.put("literalAsObject",(answerMap.get("literalAsObject")+1));
+			} else {
+				if (currentStatement.getSubject().getURI().startsWith("http://dbpedia")) {
+					if (object.asResource().getURI().startsWith("http://dbpedia")) {
+						answerMap.put("onlyDBpedia",(answerMap.get("onlyDBpedia")+1));
+					} else {
+						answerMap.put("onlyDBpediaSubject", (answerMap.get("onlyDBpediaSubject") + 1));
+					}
+				} else {
+					if (currentStatement.getSubject().getURI().startsWith("http://dbpedia")) {
+						answerMap.put("onlyDBpediaObject", (answerMap.get("onlyDBpediaObject") + 1));
+					} else {
+						answerMap.put("onlyStanford", (answerMap.get("onlyStanford") + 1));
+					}
+				}
+			}
+		}
+		return answerMap;
+	}
+
+
 
 
 	private StanfordCoreNLP stanfordNLP = null;
@@ -268,6 +339,16 @@ public class StanfordModule implements DeerModule{
 				logger.info("No Literal Properties!, return input model.");
 				return resultModel;
 			}
+			//mostly the ann:annotate Property is selected as first, when other NLP Module are Used
+			// but we do not want to use text used for previous Annotations, so select second best one.
+			if(topRankedProp.getURI().equals("http://www.w3.org/2000/10/annotation-ns#annotates")) {
+				Property secondBest = lpr.getTopNRankedLiteralProperty(2).lastEntry().getValue();
+				if(secondBest == null){
+					logger.info("No Literal Properties except ann:annotates !, return input model.");
+					return resultModel;
+				}
+				topRankedProp = secondBest;
+			}
 			logger.info("Top ranked Literal Property: " + topRankedProp);
 			usedParam.put(LITERAL_PROPERTY, topRankedProp.getURI());
 		}
@@ -284,9 +365,12 @@ public class StanfordModule implements DeerModule{
 			RDFNode subject = st.getSubject();
 			try{
 				if(object.isLiteral()){
-					Model namedEntityModel = getModelFromStanfordRE((Resource) subject, object.toString());
-					resultModel = resultModel.union(namedEntityModel);
-					resultModel.setNsPrefixes(namedEntityModel.getNsPrefixMap());
+					Literal text = object.asLiteral();
+					if (text.getLanguage().equals("en")) {
+						Model namedEntityModel = getModelFromStanfordRE((Resource) subject, text.getString());
+						resultModel = resultModel.union(namedEntityModel);
+						resultModel.setNsPrefixes(namedEntityModel.getNsPrefixMap());
+					}
 				}
 			}catch (Exception e) {
 				logger.error(e);
@@ -295,6 +379,7 @@ public class StanfordModule implements DeerModule{
 		}
 		//replace Entities with prefered annotation from preferences PREFERED_ANNOTATION
 		//delete all annotation if said so in Preferences FILTER_ANNOTATIONS
+
 		logger.info("Replace annotated Entities and delete all annotations if FILTER_ANNOTATIONS is set in Prefs. ");
 		resultModel = mapResourcesOnPreferedAnnotationModel(resultModel);
 
@@ -422,9 +507,9 @@ public class StanfordModule implements DeerModule{
 				for (RelationMention relationMention : relationMentions) {
 //					if (checkrules(relationMention)) {
 					if (!relationMention.getType().equals("_NR") ) { //No Relation is best matching relation
-						Model newRelationModel = getModelFromRelationMention(relationMention);
-						namedEntitymodel = namedEntitymodel.union(newRelationModel);
-						namedEntitymodel.setNsPrefixes(newRelationModel.getNsPrefixMap());
+						Model newRelationModel = getModelFromRelationMention(relationMention, text);
+						namedEntitymodel = ModelFactory.createUnion(namedEntitymodel,newRelationModel);
+//						namedEntitymodel.setNsPrefixes(newRelationModel.getNsPrefixMap());
 						if (logger.isDebugEnabled()) {
 							logger.debug(relationMention);
 						}
@@ -440,7 +525,7 @@ public class StanfordModule implements DeerModule{
 	}
 
 
-	private Model getModelFromRelationMention(RelationMention relationMention) {
+	private Model getModelFromRelationMention(RelationMention relationMention, String originalText) {
 		Boolean metaInfo = true;
 		//Prefixes
 		HashMap<String, String> prefMap = new HashMap<String, String>();
@@ -474,7 +559,7 @@ public class StanfordModule implements DeerModule{
 
 		//AGENS
 		EntityMention agensMention = relationMention.getEntityMentionArgs().get(0);
-		Resource agens = ResourceFactory.createResource(agensMention.getExtentString());
+		Resource agens = ResourceFactory.createResource(prefMap.get("stanford") + agensMention.getExtentString());
 		Resource agensType = ResourceFactory.createResource(prefMap.get("stanford") + agensMention.getType());
 		relationModel.add(agens, rdfType, agensType);
 
@@ -495,12 +580,14 @@ public class StanfordModule implements DeerModule{
 					Integer.toString(agensMention.getSyntacticHeadToken().endPosition()),
 					XSDDatatype.XSDint);
 		annotationModel.add(agensAnnotation, extractedBy, extractor);
-		annotationModel.add(agensAnnotation, annotates, relationMention.getSentence().toString(), XSDDatatype.XSDstring);
+		annotationModel.add(agensAnnotation, annotates, originalText, XSDDatatype.XSDstring);
+//		One original Sentence. Can not be used for Matching. It have to be the whole text string.
+//		relationMention.getSentence().toString()
 
 
 		//PATIENS
 		EntityMention patiensMention = relationMention.getEntityMentionArgs().get(1);
-		Resource patiens = ResourceFactory.createResource(patiensMention.getValue());
+		Resource patiens = ResourceFactory.createResource(prefMap.get("stanford") + patiensMention.getValue());
 		Resource patiensType = ResourceFactory.createResource(prefMap.get("stanford") + patiensMention.getType());
 		relationModel.add(patiens, rdfType, patiensType);
 
@@ -520,13 +607,17 @@ public class StanfordModule implements DeerModule{
 				Integer.toString(patiensMention.getSyntacticHeadToken().endPosition()),
 				XSDDatatype.XSDint);
 		annotationModel.add(patiensAnnotation, extractedBy, extractor);
-		annotationModel.add(patiensAnnotation, annotates, relationMention.getSentence().toString(), XSDDatatype.XSDstring);
+		annotationModel.add(patiensAnnotation, annotates, originalText, XSDDatatype.XSDstring);
 
 		//add relation
 		relationModel.add(agens, relation, patiens);
+		if (evaluationMetaData) {
+			addExtractedTriple(ResourceFactory.createStatement(agens, relation, patiens));
+		}
 
 		//add Annotation Info to result model
-		relationModel = relationModel.union(annotationModel);
+		logger.info(annotationModel);
+        relationModel = ModelFactory.createUnion(relationModel, annotationModel);
 		relationModel.setNsPrefixes(annotationModel.getNsPrefixMap());
 
 
@@ -601,7 +692,6 @@ public class StanfordModule implements DeerModule{
 				row.getResource("annToFilter").removeProperties();
 
 			}
-
 		}
 		// if any Annotation have to be filtered do this.
 		if (usedParam.get(FILTER_ANNOTATIONS) != null && usedParam.get(FILTER_ANNOTATIONS).toLowerCase().equals("true")) {
@@ -614,6 +704,11 @@ public class StanfordModule implements DeerModule{
 			for (Resource resToDel: annotationBlanknodes) {
 				resToDel.removeProperties();
 			}
+		}
+		if(evaluationMetaData) {
+			logger.info("Evaluation: store all extracted Triples seperate. start...");
+			addMappedExtractesTriplesFromModel(annotatedModel);
+			logger.info("Evaluation: store all extracted Triples seperate. end");
 		}
 
 		return annotatedModel;

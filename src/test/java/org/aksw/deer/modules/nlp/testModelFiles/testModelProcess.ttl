@@ -9,4 +9,4 @@
 @prefix stanford: <http://ns.aksw.org/scms/stanford/ontology/> .
 
 
-mykb:fritz mykb:says "The philosopher and mathematician Leibniz was born in Leipzig in 1646 and attended the University of Leipzig from 1661-1666. The current chancellor of Germany, Angela Merkel, also attended this university."^^xsd:string .
+mykb:fritz mykb:says "The philosopher and mathematician Leibniz was born in Leipzig in 1646 and attended the University of Leipzig from 1661-1666. The current chancellor of Germany, Angela Merkel, also attended this university."@en .

@@ -89,6 +89,7 @@
 					<configuration>
 						<source>1.7</source>
 						<target>1.7</target>
+						<argLine>-Xmx2048m</argLine>
 						<compilerArgument></compilerArgument>
         				<encoding>UTF-8</encoding>
 					</configuration>

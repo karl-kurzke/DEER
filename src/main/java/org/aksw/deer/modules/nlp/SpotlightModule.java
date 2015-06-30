@@ -32,6 +32,15 @@ public class SpotlightModule implements DeerModule{
 	private static final Logger logger = Logger.getLogger(SpotlightModule.class.getName());
 
 	//GENERAL CONFIGURATION
+	public static final String INPUT 	= "input";
+	public static final String INPUT_DESC =
+			"If you want to load data from file define the filename in INPUT";
+	public static final String INPUT_DEFAULT = null;
+	public static final String OUTPUT 	= "output";
+	public static final String OUTPUT_DESC =
+			"If you want to save all data after extraction into file define the filename in OUTPUT";
+	public static final String OUTPUT_DEFAULT = null;
+
 	public static final String LITERAL_PROPERTY 	= "literalProperty";
 	public static final String LITERAL_PROPERTY_DESC =
 			"Literal property used by Spotlight for NER. " +
@@ -61,7 +70,7 @@ public class SpotlightModule implements DeerModule{
 			"Defines the used spotlight rest endpoint." +
 					"Default: \"http://spotlight.dbpedia.org/rest/annotate\"";
 	public static final String SPOTLIGHT_API_URL_DEFAULT =
-			"http://spotlight.dbpedia.org/rest/annotate";
+			"http://spotlight.dbpedia.org/rest/annotate/";
 
 	// SPOTLIGHT CONFIGURATION
 	public static final String SPOTLIGHT_CONFIDENCE = "spotlightConfidence";
@@ -117,6 +126,10 @@ public class SpotlightModule implements DeerModule{
 
 	private Model model;
 
+	//For Evaluation
+	private Integer numberOfExtractedEntities = 0;
+	private Set<String> extractedElements = new HashSet<String>();
+
 	private HashMap<String, String> usedParam;
 
 	private void initDefaultParams() {
@@ -130,6 +143,8 @@ public class SpotlightModule implements DeerModule{
 		usedParam.put(SPOTLIGHT_POLICY, SPOTLIGHT_POLICY_DEFAULT);
 		usedParam.put(SPOTLIGHT_TYPES, SPOTLIGHT_TYPES_DEFAULT);
 		usedParam.put(SPOTLIGHT_SPRQL, SPOTLIGHT_SPRQL_DEFAULT);
+		usedParam.put(INPUT, INPUT_DEFAULT);
+		usedParam.put(OUTPUT, OUTPUT_DEFAULT);
 	}
 
 	public void addParams(HashMap<String, String> newParams){
@@ -191,6 +206,19 @@ public class SpotlightModule implements DeerModule{
 
 	// SETTER, GETTER
 	// ______________
+
+	/**
+	 * For Evaluation Purpose
+	 * @return the relatedToProperty
+	 */
+	public Integer getNumberOfExtractedEntities() {
+		return numberOfExtractedEntities;
+	}
+	public Integer getNumberOfDistinctExtractedEntities() {
+		return extractedElements.size();
+	}
+	public Set<String> getExtractedElements() {return extractedElements;}
+
 	/**
 	 * @return the relatedToProperty
 	 */
@@ -250,19 +278,19 @@ public class SpotlightModule implements DeerModule{
 	public Model process(Model inputModel, Map<String, String> parameters){
 		logger.info("--------------- SPOTLIGHT NLP Module ---------------");
 		model = inputModel;
-		if( parameters.containsKey("input")){
-			model = Reader.readModel(parameters.get("input"));
+		if( parameters.containsKey(INPUT) && parameters.get(INPUT) != null){
+			model = Reader.readModel(parameters.get(INPUT));
 		}
 		//import parameters
 		this.addParams((HashMap) parameters);
 
 		// Model From Spotlight
 		Model newModel = getNewTripleAsModel();
-		model = model.union(newModel);
-		model.setNsPrefixes(newModel.getNsPrefixMap());
+		model = ModelFactory.createUnion(model, newModel);
+//		model.setNsPrefixes(newModel.getNsPrefixMap());
 
-		if( parameters.containsKey("output")){
-			String outputFile = parameters.get("output");
+		if( parameters.containsKey(OUTPUT) && parameters.get(OUTPUT) != null){
+			String outputFile = parameters.get(OUTPUT);
 			FileWriter outFile = null;
 			try {
 				outFile = new FileWriter(outputFile);
@@ -304,6 +332,7 @@ public class SpotlightModule implements DeerModule{
 
 
 		Property literalProperty = ResourceFactory.createProperty(usedParam.get(LITERAL_PROPERTY));
+		logger.info("Used Literal Property: " + literalProperty.toString());
 		//find new Relations in this related Literals
 		StmtIterator stItr = model.listStatements(null, literalProperty, (RDFNode) null);
 		logger.info("--------------- Added triples through SPOTLIGHT NLP ---------------");
@@ -314,9 +343,9 @@ public class SpotlightModule implements DeerModule{
 			RDFNode subject = st.getSubject();
 			try{
 				if(object.isLiteral()){
-					Model namedEntityModel = getModelFromSpotlightRest((Resource) subject, object.toString());
-					resultModel = namedEntityModel.union(resultModel);
-					resultModel.setNsPrefixes(namedEntityModel.getNsPrefixMap());
+					Model namedEntityModel = getModelFromSpotlightRest((Resource) subject, object.asLiteral().getString());
+					resultModel = ModelFactory.createUnion(namedEntityModel, resultModel);
+//					resultModel.setNsPrefixes(namedEntityModel.getNsPrefixMap());
 
 				}
 			}catch (Exception e) {
@@ -324,8 +353,8 @@ public class SpotlightModule implements DeerModule{
 				logger.error(object.toString());
 			}
 		}
-		System.out.println("should not be empty");
-		System.out.println(resultModel.getNsPrefixMap());
+//		System.out.println("should not be empty");
+//		System.out.println(resultModel.getNsPrefixMap());
 		return resultModel;
 	}
 
@@ -359,8 +388,9 @@ public class SpotlightModule implements DeerModule{
 			String buffer = "", line;
 //			text=refineString(text);
 
-			// Construct data
-			String data = 	"?text=" 		+ URLEncoder.encode(text, "UTF-8");
+//			Construct data
+			String data = "disambiguator=Document";
+			data += 	"&text=" 		+ URLEncoder.encode(text, "UTF-8");
 			if (usedParam.get(SPOTLIGHT_CONFIDENCE) != null) {
 				data += "&confidence=" + URLEncoder.encode(usedParam.get(SPOTLIGHT_CONFIDENCE), "UTF-8");
 			}
@@ -373,10 +403,25 @@ public class SpotlightModule implements DeerModule{
 //			data += 		"&sparql=" 	+ URLEncoder.encode(support, "UTF-8");
 
 			// Send data
-			URL url = new URL(usedParam.get(SPOTLIGHT_API_URL) + data);
+			URL url = new URL(usedParam.get(SPOTLIGHT_API_URL));
 //			logger.info("Spotlight Request:" + url.toString());
-			URLConnection conn = url.openConnection();
+			HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+
+
+			//add request header
+			conn.setRequestMethod("POST");
 			conn.setRequestProperty("Accept", "application/json");
+			conn.setRequestProperty("content-type","application/x-www-form-urlencoded");
+			// Send post request
+			conn.setDoOutput(true);
+			DataOutputStream wr = new DataOutputStream(conn.getOutputStream());
+			wr.writeBytes(data);
+			wr.flush();
+			wr.close();
+
+
+
+
 
 			// Get the response
 			BufferedReader rd = new BufferedReader(new InputStreamReader(conn.getInputStream()));
@@ -436,26 +481,38 @@ public class SpotlightModule implements DeerModule{
 		// The Model to return
 		Model namedEntitymodel = ModelFactory.createDefaultModel();
 		namedEntitymodel.setNsPrefixes(prefMap);
+		//No Resources Found
+		if(!entities.containsKey("Resources")){
+			return namedEntitymodel;
+		}
 		// The Model for annotational Information
 		Model annotationModel = ModelFactory.createDefaultModel();
 		annotationModel.setNsPrefixes(prefMap);
+
 		ArrayList<HashMap<String, String>> resources = (ArrayList<HashMap<String, String>>) entities.get("Resources");
 		String annotatedText = (String) entities.get("@text");
 		Property relationProperty = ResourceFactory.createProperty(usedParam.get(ADDED_PROPERTY));
 		for (HashMap<String, String> resource: resources) {
-//			logger.info( subject.getURI() + " " + relationProperty.getLocalName()  + " " + resource.get("@URI"));
+
 			Resource newObject = ResourceFactory.createResource(resource.get("@URI"));
 			namedEntitymodel.add(subject, relationProperty, newObject);
+//			logger.info( subject.getURI() + " " + relationProperty.getLocalName()  + " " + newObject.getURI());
+			logger.info(subject.getURI());
+			numberOfExtractedEntities += 1;
+			extractedElements.add(newObject.getURI());
 			// add types from resources
 			String allTypes = resource.get("@types");
 			List<String> typeList = new ArrayList<String>(Arrays.asList(allTypes.split("\\s*,\\s*")));
+
 			Property typeProp = ResourceFactory.createProperty(prefMap.get("rdf") + "type");
+
 			for (String type:typeList) {
 				//filter: only dbpedia types
 //				logger.info(type);
 				if (type.startsWith("DBpedia:")){
 					Resource typeRes = ResourceFactory.createResource(prefMap.get("dbpedia-ont") + type.substring(8));
 					namedEntitymodel.add(newObject, typeProp, typeRes);
+//					logger.info( newObject.getURI() + " " + typeProp.getLocalName()  + " " + typeRes.getURI());
 				}
 			}
 			String surfaceForm = resource.get("@surfaceForm");
@@ -484,9 +541,9 @@ public class SpotlightModule implements DeerModule{
 					ResourceFactory.createProperty(prefMap.get("ann"), "annotates"),
 					ResourceFactory.createTypedLiteral(annotatedText, XSDDatatype.XSDstring));
 		}
-		Model returnModel = namedEntitymodel.union(annotationModel);
-		returnModel.setNsPrefixes(prefMap);
-		System.out.println(returnModel.getNsPrefixMap());
+		Model returnModel = ModelFactory.createUnion(namedEntitymodel, annotationModel);
+//		returnModel.setNsPrefixes(prefMap);
+//		System.out.println(returnModel.getNsPrefixMap());
 		return returnModel;
 	}
 
@@ -564,14 +621,14 @@ public class SpotlightModule implements DeerModule{
 //				System.exit(0);
 //			}
 		}
-		if(!parameters.containsKey("input")){
+		if(!parameters.containsKey(INPUT)){
 			logger.error("No input file/URI, Exit with error!!");
 			System.exit(1);
 		}
 
 		Model enrichedModel = spotlightEnricher.process(null, parameters);
 
-		if(!parameters.containsKey("output")){
+		if(!parameters.containsKey(OUTPUT)){
 			logger.info("Enriched MODEL:");
 			logger.info("---------------");
 			enrichedModel.write(System.out,"TTL");

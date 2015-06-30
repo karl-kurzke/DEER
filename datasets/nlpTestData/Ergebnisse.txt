@@ -1,0 +1,7 @@
+Number Of Triples before Extraction: 1
+New Triples after SpotlightExtraction: 3
+Number of extracted Entities with spotlight nominal: 1
+Number of extracted Entities with spotlight distinct: 1
+Statement Analyse: {onlydbPediaSubject=0, literalAsObject=0, onlyDBpedia=0, onlyStanford=4, onlydbPediaObject=0}
+New Triples through StanfordExtraction: 9
+Double Triples through StanfordExtraction: 0

@@ -19,6 +19,8 @@ import org.aksw.deer.modules.authorityconformation.AuthorityConformationModule;
 import org.aksw.deer.modules.filter.FilterModule;
 import org.aksw.deer.modules.linking.LinkingModule;
 import org.aksw.deer.modules.nlp.NLPModule;
+import org.aksw.deer.modules.nlp.SpotlightModule;
+import org.aksw.deer.modules.nlp.StanfordModule;
 import org.aksw.deer.modules.predicateconformation.PredicateConformationModule;
 import org.aksw.deer.operators.MergeOperator;
 import org.aksw.deer.operators.CloneOperator;
@@ -99,6 +101,16 @@ public class RDFConfigExecuter {
 			}
 			if(type.equals(SPECS.NLPModule)){
 				NLPModule enricher = new NLPModule();
+				enrichedModel = enricher.process(inputDatasets.get(0), moduleParameters);
+				return enrichedModel;
+			}
+			if(type.equals(SPECS.SpotlightModule)){
+				SpotlightModule enricher = new SpotlightModule();
+				enrichedModel = enricher.process(inputDatasets.get(0), moduleParameters);
+				return enrichedModel;
+			}
+			if(type.equals(SPECS.StanfordModule)){
+				StanfordModule enricher = new StanfordModule();
 				enrichedModel = enricher.process(inputDatasets.get(0), moduleParameters);
 				return enrichedModel;
 			}

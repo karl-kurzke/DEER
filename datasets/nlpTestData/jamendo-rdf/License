@@ -1,0 +1,19 @@
+
+The plain Jamendo RDF data is available under the same license terms
+as the Jamendo DB dumps themselves.
+
+http://developer.jamendo.com/fr/wiki/DatabaseDumps#
+
+The links towards Geonames (embedded in "jamendo.rdf") are licensed
+under a Creative Commons Attribution/Non-Commercial/Sharealike license.
+
+The links towards Musicbrainz ("mbz_jamendo.rdf") are licensed under
+a Creative Commons Attribution/Non-Commercial/Sharealike license.
+
+
+yves.raimond (at) elec (dot) qmul (dot) ac (dot) uk
+
+Copyright Yves Raimond, Centre for Digital, Queen Mary, University of London (c) 2007
+
+
+

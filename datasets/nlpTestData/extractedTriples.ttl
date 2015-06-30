@@ -1,0 +1,11 @@
+<http://ns.aksw.org/scms/annotations/stanford/Leibniz>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Leipzig> , <http://ns.aksw.org/scms/annotations/stanford/1646> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Leipzig>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Leibniz> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Angela Merkel>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Germany> .
