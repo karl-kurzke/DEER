@@ -1,0 +1,85 @@
+@prefix ann:   <http://www.w3.org/2000/10/annotation-ns#> .
+@prefix geo:   <http://geoknow.org/ontology/> .
+@prefix dbpedia-ont: <http://dbpedia.org/ontology/> .
+@prefix scms:  <http://ns.aksw.org/scms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix stanford: <http://ns.aksw.org/scms/annotations/stanford/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dbpedia-res: <http://dbpedia.org/resource/> .
+
+<Germany>  a    stanford:LOCATION .
+
+<Angela Merkel>  a           stanford:PEOPLE ;
+        stanford:Located_In  <Germany> .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "151"^^xsd:int ;
+  scms:endIndex    "158"^^xsd:int ;
+  scms:means       <Germany> ;
+  scms:source      <http://ns.aksw.org/scms/tools/StanfordRE> ;
+  ann:annotate     "The current chancellor of Germany, Angela Merkel, also attended this university."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "54"^^xsd:int ;
+  scms:endIndex    "61"^^xsd:int ;
+  scms:means       <Leipzig> ;
+  scms:source      <http://ns.aksw.org/scms/tools/StanfordRE> ;
+  ann:annotate     "The philosopher and mathematician Leibniz was born in Leipzig in 1646 and attended the University of Leipzig from 1661-1666."^^xsd:string
+] .
+
+<Leipzig>  a              stanford:LOCATION ;
+        stanford:Live_In  <Leibniz> .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "54"^^xsd:int ;
+  scms:endIndex    "61"^^xsd:int ;
+  scms:means       <Leipzig> ;
+  scms:source      <http://ns.aksw.org/scms/tools/StanfordRE> ;
+  ann:annotate     "The philosopher and mathematician Leibniz was born in Leipzig in 1646 and attended the University of Leipzig from 1661-1666."^^xsd:string
+] .
+
+<Leibniz>  a              stanford:PEOPLE ;
+        stanford:Live_In  <1646> , <Leipzig> .
+
+<1646>  a       stanford:O .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "160"^^xsd:int ;
+  scms:endIndex    "173"^^xsd:int ;
+  scms:means       <Angela Merkel> ;
+  scms:source      <http://ns.aksw.org/scms/tools/StanfordRE> ;
+  ann:annotate     "The current chancellor of Germany, Angela Merkel, also attended this university."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "65"^^xsd:int ;
+  scms:endIndex    "69"^^xsd:int ;
+  scms:means       <1646> ;
+  scms:source      <http://ns.aksw.org/scms/tools/StanfordRE> ;
+  ann:annotate     "The philosopher and mathematician Leibniz was born in Leipzig in 1646 and attended the University of Leipzig from 1661-1666."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "34"^^xsd:int ;
+  scms:endIndex    "41"^^xsd:int ;
+  scms:means       <Leibniz> ;
+  scms:source      <http://ns.aksw.org/scms/tools/StanfordRE> ;
+  ann:annotate     "The philosopher and mathematician Leibniz was born in Leipzig in 1646 and attended the University of Leipzig from 1661-1666."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "34"^^xsd:int ;
+  scms:endIndex    "41"^^xsd:int ;
+  scms:means       <Leibniz> ;
+  scms:source      <http://ns.aksw.org/scms/tools/StanfordRE> ;
+  ann:annotate     "The philosopher and mathematician Leibniz was born in Leipzig in 1646 and attended the University of Leipzig from 1661-1666."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "34"^^xsd:int ;
+  scms:endIndex    "41"^^xsd:int ;
+  scms:means       <Leibniz> ;
+  scms:source      <http://ns.aksw.org/scms/tools/StanfordRE> ;
+  ann:annotate     "The philosopher and mathematician Leibniz was born in Leipzig in 1646 and attended the University of Leipzig from 1661-1666."^^xsd:string
+] .

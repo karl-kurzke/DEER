@@ -1,0 +1,34 @@
+@prefix ann:   <http://www.w3.org/2000/10/annotation-ns#> .
+@prefix geo:   <http://geoknow.org/ontology/> .
+@prefix dbpedia-ont: <http://dbpedia.org/ontology/> .
+@prefix scms:  <http://ns.aksw.org/scms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dbpedia-res: <http://dbpedia.org/resource/> .
+@prefix mykb: <http://wolf-otto.de/resource/> .
+@prefix stanford: <http://ns.aksw.org/scms/stanford/ontology/> .
+
+mykb:fritz mykb:says "Bernd wohnt in Bruessel"^^xsd:string .
+mykb:fritz mykb:is_connected_to dbpedia-res:Bernd .
+mykb:fritz mykb:is_connected_to mykb:stanfordResBerndOther .
+dbpedia-res:Bernd rdf:type dbpedia-ont:Person .
+mykb:stanfordResBerndOther rdf:type stanford:Person .
+mykb:stanfordResBerndOther stanford:liveIn mykb:Bruessel .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "0"^^xsd:int ;
+  scms:endIndex    "5"^^xsd:int ;
+  scms:means       dbpedia-res:Bernd ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Bernd wohnt in Bruessel"^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "0"^^xsd:int ;
+  scms:endIndex    "5"^^xsd:int ;
+  scms:means       mykb:stanfordResBerndOther ;
+  scms:source      <http://ns.aksw.org/scms/tools/Other> ;
+  ann:annotates    "Bernd wohnt in Bruessel"^^xsd:string
+] .
+
+

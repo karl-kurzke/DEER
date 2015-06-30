@@ -1,0 +1,15 @@
+@prefix ann:   <http://www.w3.org/2000/10/annotation-ns#> .
+@prefix geo:   <http://geoknow.org/ontology/> .
+@prefix mykb:  <http://wolf-otto.de/resource/> .
+@prefix dbpedia-ont: <http://dbpedia.org/ontology/> .
+@prefix scms:  <http://ns.aksw.org/scms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix stanford: <http://ns.aksw.org/scms/stanford/ontology/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dbpedia-res: <http://dbpedia.org/resource/> .
+
+dbpedia-res:Bernd  a     dbpedia-ont:Person ;
+        stanford:liveIn  mykb:Bruessel .
+
+mykb:fritz  mykb:is_connected_to  dbpedia-res:Bernd ;
+        mykb:says             "Bernd wohnt in Bruessel"^^xsd:string .
