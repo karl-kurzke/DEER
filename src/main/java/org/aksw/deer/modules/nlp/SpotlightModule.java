@@ -285,8 +285,11 @@ public class SpotlightModule implements DeerModule{
 		this.addParams((HashMap) parameters);
 
 		// Model From Spotlight
+
 		Model newModel = getNewTripleAsModel();
+
 		model = ModelFactory.createUnion(model, newModel);
+
 //		model.setNsPrefixes(newModel.getNsPrefixMap());
 
 		if( parameters.containsKey(OUTPUT) && parameters.get(OUTPUT) != null){
@@ -299,6 +302,7 @@ public class SpotlightModule implements DeerModule{
 			}
 			model.write(outFile,"TURTLE");
 		}
+
 		return model;
 	}
 
@@ -352,7 +356,9 @@ public class SpotlightModule implements DeerModule{
 				logger.error(e);
 				logger.error(object.toString());
 			}
+
 		}
+		logger.info("All Text Extracted.");
 //		System.out.println("should not be empty");
 //		System.out.println(resultModel.getNsPrefixMap());
 		return resultModel;
@@ -373,7 +379,8 @@ public class SpotlightModule implements DeerModule{
 	 * @return Model with all new Entities and Relations
 	 */
 	public Model getModelFromSpotlightRest(Resource subject, String text) {
-		return HashMapAnswerToModel(subject, getEntityHashMapFromSpotlightRest(text));
+		Model enrichedModel = HashMapAnswerToModel(subject, getEntityHashMapFromSpotlightRest(text));
+		return enrichedModel;
 
 	}
 
@@ -385,9 +392,9 @@ public class SpotlightModule implements DeerModule{
 	public HashMap<String, Object> getEntityHashMapFromSpotlightRest(String text){
 		HashMap<String,Object> result = null;
 		try {
+
 			String buffer = "", line;
 //			text=refineString(text);
-
 //			Construct data
 			String data = "disambiguator=Document";
 			data += 	"&text=" 		+ URLEncoder.encode(text, "UTF-8");
@@ -429,6 +436,7 @@ public class SpotlightModule implements DeerModule{
 				buffer = buffer + line + "\n";
 			}
 			rd.close();
+
 			//		Get HashMap out of json
 			result = new ObjectMapper().readValue(buffer, HashMap.class);
 			//todo use jena riot to get modelfrom json
@@ -447,6 +455,7 @@ public class SpotlightModule implements DeerModule{
 
 
 	public Model HashMapAnswerToModel(Resource subject, HashMap<String, Object> entities){
+
 		/**
 		 * 	Fragment of example entities object:
 		 * 	{	@confidence=0.2,
@@ -492,12 +501,13 @@ public class SpotlightModule implements DeerModule{
 		ArrayList<HashMap<String, String>> resources = (ArrayList<HashMap<String, String>>) entities.get("Resources");
 		String annotatedText = (String) entities.get("@text");
 		Property relationProperty = ResourceFactory.createProperty(usedParam.get(ADDED_PROPERTY));
+
 		for (HashMap<String, String> resource: resources) {
 
 			Resource newObject = ResourceFactory.createResource(resource.get("@URI"));
 			namedEntitymodel.add(subject, relationProperty, newObject);
 //			logger.info( subject.getURI() + " " + relationProperty.getLocalName()  + " " + newObject.getURI());
-			logger.info(subject.getURI());
+			logger.info(subject.getURI() + " " + newObject.getURI());
 			numberOfExtractedEntities += 1;
 			extractedElements.add(newObject.getURI());
 			// add types from resources
@@ -507,13 +517,15 @@ public class SpotlightModule implements DeerModule{
 			Property typeProp = ResourceFactory.createProperty(prefMap.get("rdf") + "type");
 
 			for (String type:typeList) {
+
 				//filter: only dbpedia types
-//				logger.info(type);
+
 				if (type.startsWith("DBpedia:")){
 					Resource typeRes = ResourceFactory.createResource(prefMap.get("dbpedia-ont") + type.substring(8));
 					namedEntitymodel.add(newObject, typeProp, typeRes);
 //					logger.info( newObject.getURI() + " " + typeProp.getLocalName()  + " " + typeRes.getURI());
 				}
+
 			}
 			String surfaceForm = resource.get("@surfaceForm");
 			Integer offset = Integer.parseInt(resource.get("@offset"));
@@ -536,15 +548,19 @@ public class SpotlightModule implements DeerModule{
 					newObject);
 			annotationModel.add(annotation,
 					ResourceFactory.createProperty(prefMap.get("scms"), "source"),
-					ResourceFactory.createResource(prefMap.get("scms") + "tools/spotlight"));
+					ResourceFactory.createResource(prefMap.get("scms") + "tools/Spotlight"));
 			annotationModel.add( annotation,
 					ResourceFactory.createProperty(prefMap.get("ann"), "annotates"),
 					ResourceFactory.createTypedLiteral(annotatedText, XSDDatatype.XSDstring));
+
 		}
+
 		Model returnModel = ModelFactory.createUnion(namedEntitymodel, annotationModel);
 //		returnModel.setNsPrefixes(prefMap);
 //		System.out.println(returnModel.getNsPrefixMap());
+
 		return returnModel;
+
 	}
 
 

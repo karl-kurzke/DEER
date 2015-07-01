@@ -1,24 +1,430 @@
 @prefix ann:   <http://www.w3.org/2000/10/annotation-ns#> .
 @prefix geo:   <http://geoknow.org/ontology/> .
-@prefix mykb:  <http://wolf-otto.de/resource/> .
 @prefix dbpedia-ont: <http://dbpedia.org/ontology/> .
+@prefix dbpedia-owl: <http://dbpedia.org/ontology/> .
 @prefix scms:  <http://ns.aksw.org/scms/> .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix stanford: <http://ns.aksw.org/scms/stanford/ontology/> .
 @prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dbpedia: <http://dbpedia.org/resource/> .
 @prefix dbpedia-res: <http://dbpedia.org/resource/> .
 
-mykb:fritz  dbpedia-ont:abstract  "The philosopher and mathematician Leibniz was born in Leipzig in 1646 and attended the University of Leipzig from 1661-1666. The current chancellor of Germany, Angela Merkel, also attended this university. This are to english sentences."@en ;
-        geo:relatedTo         dbpedia-res:Angela_Merkel .
+dbpedia-res:Amuri_County
+        dbpedia-owl:abstract  "Amuri County is one of the former counties of New Zealand, in the area that is now the north of Canterbury Region. During the period, 1853 to 1876, Amuri was administrated as part of the Nelson Province. The county council was based in Culverden from 1890 until 1989. Other towns in the county include Hanmer Springs and Waiau. It was amalgamated with Cheviot County, Hurunui County and part of Kaikoura County into the Hurunui District as part of the local Government reforms of 1989. The last chairman of the county, John Chaffey, became the first mayor of Hurunui District.Although there is no settlement named Amuri, the name lives on in a number of forms: The Amuri Community Arts Council, Amuri Area School in Culverden, and the Amuri ski field near Hanmer Springs."@en .
 
-dbpedia-res:Angela_Merkel
-        a       dbpedia-ont:Person , dbpedia-ont:OfficeHolder .
+dbpedia-res:Ampelakia
+        dbpedia-owl:abstract  "Ampelakia (Greek: Αμπελάκια, meaning vineyards) is a town and a former municipality of Salamis Island, Greece. Since the 2011 local government reform it is part of the municipality Salamis, of which it is a municipal unit.It lies on the central east coast of the island and has a land area of 15.169 km², comprising about one-sixth of the island's area (with the balance belonging to the Salamina (city)). It has a population of 7,060 inhabitants (2001 census). Its largest town is also named Ampelakia, and has a population of 4,537. The other significant town is Selínia (pop. 2,346). The only other settlements are Kynosoúra (pop. 137) and Spithári (40)."@en ;
+        geo:relatedTo         dbpedia-res:Area , dbpedia-res:Municipality .
+
+dbpedia-res:Kokhav_Michael
+        dbpedia-owl:abstract  "Kokhav Michael (Hebrew: כּוֹכַב מִיכָאֵל, lit. Star of Michael) is a moshav in southern Israel. Located between Kiryat Gat and Ashkelon, it falls under the jurisdiction of Hof Ashkelon Regional Council. In 2006 it had a population of 579."@en .
+
+dbpedia-res:Kranea  dbpedia-owl:abstract
+                "Kranea (Greek: Κρανέα) is an Aromanian village and a former community in the Preveza regional unit, Epirus, Greece. Since the 2011 local government reform it is part of the municipality Ziros, of which it is a municipal unit. Population 1,052 (2001)."@en ;
+        geo:relatedTo         dbpedia-res:Municipality , <http://dbpedia.org/resource/Epirus_%28periphery%29> .
+
+<http://dbpedia.org/resource/Perivoli,_Grevena>
+        dbpedia-owl:abstract  "Perivoli (Greek: Περιβόλι,Aromanian: Pirivoli) is an alpine village and a former community in Grevena regional unit, West Macedonia, Greece. Since the 2011 local government reform it is part of the municipality Grevena, of which it is a municipal unit. Its population was 21 inhabitants as of 2011. It was the least densely populated municipality or community in the least densely populated regional unit of Greece. It is also the sixth-least densely populated in all of Greece (behind Gramos, Sidironero, Paranesti, Antikythira, and Gavdos). The village is inhabited during winter by only 10-20 people due to extreme snow. However, the population rises to 4,000 people during the summer. There are many restored houses, inns, restaurants and cafes in the village. The inhabitants are mainly native Aromanians (Greek: Βλάχοι)."@en ;
+        geo:relatedTo         dbpedia-res:West_Macedonia .
+
+<http://dbpedia.org/resource/Shire_of_South_Gippsland_(former)>
+        dbpedia-owl:abstract  "The Shire of South Gippsland was a local government area about 170 kilometres (106 mi) south-southeast of Melbourne, the state capital of Victoria, Australia. The shire covered an area of 1,432.26 square kilometres (553.0 sq mi), and existed from 1894 until 1994."@en ;
+        geo:relatedTo         dbpedia-res:Area , dbpedia-res:Sutherland_Shire .
+
+dbpedia-res:Zabaykalsky_Krai
+        dbpedia-owl:abstract  "Zabaykalsky Krai (Russian: Забайкальский край, IPA: [zəbɐjˈkalʲskʲɪj kraj], lit. Transbaikal krai) is a federal subject of Russia (a krai) that was created on March 1, 2008 as a result of a merger of Chita Oblast and Agin-Buryat Autonomous Okrug, after a referendum held on the issue on March 11, 2007. The administrative center of the krai is located in the city of Chita. Population: 1,107,107 (2010 Census).Ravil Geniatulin, the Governor of Chita Oblast, was elected Governor of Zabaykalsky Krai on February 5, 2008 by the majority of the deputies of both Chita Oblast Duma and Agin-Buryat Autonomous Okrug Duma. He assumed the post on March 1, 2008."@en .
+
+<http://dbpedia.org/resource/Kranea,_Grevena>
+        dbpedia-owl:abstract  "Kranea or Krania (Greek: Κρανέα or Κρανιά, Aromanian: Turia) is an Aromanian village and a community of the Grevena municipality. Before the 2011 local government reform it was a part of the municipality of Gorgiani, of which it was a municipal district. The 2011 census recorded 385 residents in the village. The community of Kranea covers an area of 70.929 km2."@en .
+
+<http://dbpedia.org/resource/Ampelakia,_Larissa>
+        dbpedia-owl:abstract  "Ampelakia (Greek: Αμπελάκια) is a former community in the Larissa regional unit, Thessaly, Greece. Since the 2011 local government reform it is part of the municipality Tempi, of which it is a municipal unit and a municipal community. Ampelakia is also regarded as the historical seat of the municipality."@en .
+
+<http://dbpedia.org/resource/Perivoli,_Corfu>
+        dbpedia-owl:abstract  "Perivoli (Greek: Περιβόλι) is a village in the southern part of the island of Corfu, Greece. It is part of the municipal unit of Korissia. In 2001 its population was 1406 for the village, and 1429 for the community, including the village Potamia. Perivoli is 1 km northwest of Vitalades, 4 km west of Lefkimmi, 4 km southeast of Argyrades and 24 km south of the city of Corfu. The Greek National Road 25 (Corfu - Argyrades - Lefkimmi) passes through the village. The small fishing port Kalyviotis is to the north, and the Agia Varvara beach is to the southwest."@en .
+
+dbpedia-res:Episcopal_Diocese_of_Puerto_Rico
+        dbpedia-owl:abstract  "The Episcopal Diocese of Puerto Rico (Spanish: Iglesia Episcopal Puertorriqueña) is an Anglican diocese in Puerto Rico. It separated from the Episcopal Church in the USA (ECUSA) in 1978 but was reinstated in 2002, and it now forms part of Province IX. The current provisional bishop is Wilfrido Ramos-Orench who will remain bishop of the diocese until the successor to David Andres Alvarez-Velazquez who retired on 31 October, 2013. The Diocesan Assembly met on December 7 to elect the new Diocesan Bishop, among five candidates, including three from the Diocese of Puerto Rico, and one each from the Dioceses of the Republic of Colombia and the Commonwealth of Pennsylvania. On January 25, 2014, the appointment of Bishop Ramos as Provisional Bishop of Puerto Rico was ratified by the Diocesan Assembly."@en .
+
+<http://dbpedia.org/resource/Amatzia,_Israel>
+        dbpedia-owl:abstract  "Amatzia (Hebrew: אֲמַצְיָה) is a moshav with both secular and religious Israelis, about 8 km southeast of Lakhish in south-central Israel. It belongs to the Lakhish Regional Council. It can be reached via Route 3556.The community was founded in 1955. It is located on the land of the depopulated Palestinian village of Al-Dawayima, the scene of the 1948 Al-Dawayima massacre.It is named for King Amaziah of Judah, who according to the Book of Kings was killed in the Lakhish region. In the past the community was a moshav shitufi but it has undergone a process of privatization and abandoned its communal nature.In 2006, temporary housing was built in the area of the moshav to absorb evacuees from Katif who lived in Gush Katif but were evacuated under Israel's unilateral disengagement plan."@en .
+
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Felipe,_Venezuela>
+        dbpedia-owl:abstract  "The Roman Catholic Diocese of San Felipe (Latin: Dioecesis Sancti Philippi in Venetiola) is a diocese located in the city of San Felipe in the Ecclesiastical province of Barquisimeto in Venezuela."@en ;
+        geo:relatedTo         dbpedia-res:Ecclesiastical_province , dbpedia-res:Diocese .
+
+dbpedia-res:Kokhav_HaShahar
+        dbpedia-owl:abstract  "Kokhav HaShahar (Hebrew: כּוֹכַב הַשַּׁחַר, also spelt Kochav Shachar and Kochav HaShachar, trans. Morning Star) is an Israeli settlement in the Binyamin region of northern West Bank. It is located on a mountain ridge overlooking the Jordan Valley, and is accessible via the Allon Road. Kokhav HaShahar falls under the municipal jurisdiction of the Matte Binyamin Regional Council. The international community considers Israeli settlements in the West Bank illegal under international law, but the Israeli government disputes this.The settlement was founded by some nine young couples in 1979 on the site of an Israel Defense Forces outpost. As of 2011, it is home to about three hundred and fifty families; close to 2000 people.North of Kokhav HaShahar and east of Ramallah is the Maoz Esther outpost. The outpost was established in 2005 by residents of Kokhav HaShahar, and was named after Ester Galia, a Kokhav HaShahar resident who was murdered at Rimonim junction. Consisting of seven huts, it was destroyed by Israel Police in May 2009. Maoz Esther has been repeatedly rebuilt and destroyed. The most recent destruction event occurred 13 October 2010."@en ;
+        geo:relatedTo         dbpedia-res:West_Bank , dbpedia-res:Israeli_settlement .
+
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Santa_Mar%C3%ADa_de_Los_%C3%81ngeles>
+        dbpedia-owl:abstract  "The Roman Catholic Diocese of Santa María de Los Ángeles (Latin: Sanctae Mariae Angelorum) is a diocese located in the city of Los Ángeles in the Ecclesiastical province of Concepción in Chile."@en ;
+        geo:relatedTo         dbpedia-res:Ecclesiastical_province , dbpedia-res:Diocese .
+
+<http://dbpedia.org/resource/Andros_(town)>
+        dbpedia-owl:abstract  "Andros (Greek: Άνδρος), also called Chora (Χώρα, \"main town\"), is a town and a former municipality on the island of Andros, in the Cyclades, Greece. Since the 2011 local government reform it is part of the municipality Andros, of which it is a municipal unit, and shares the island of Andros with the municipal units of Korthio and Ydrousa. Its population was 4,107 inhabitants at the 2001 census.It has a mix of post-World War I neoclassical mansions with vernacular Cycladic houses. The town squares are paved with marble. At the end of the headland are two islands. The first, linked to the mainland by a brick bridge, with a ruined Venetian castle and the second with a lighthouse. There are four museums: the extensive Archaeological Museum, Museum of Modern Art, a Nautical Museum and a Folklore Museum."@en ;
+        geo:relatedTo         dbpedia-res:Island , dbpedia-res:New_England_town .
+
+<http://dbpedia.org/resource/Kokhav_Ya'akov>
+        dbpedia-owl:abstract  "Kokhav Ya'akov (Hebrew: כּוֹכַב יַעֲקֹב, literally, \"Star of Jacob\") is a religious communal Israeli settlement in the West Bank. It is located between Ramah in Benjamin and Bet-El near al-Bireh, and is about 10 minutes away by car from the Jerusalem neighborhoods of Pisgat Ze'ev and Neve Yaakov. It falls under the jurisdiction of Mateh Binyamin Regional Council. In 2007 it had a population of 5,600. The international community considers Israeli settlements in the West Bank illegal under international law, but the Israeli government disputes this."@en .
+
+<http://dbpedia.org/resource/Agros,_Greece>
+        dbpedia-owl:abstract  "Agros (Greek: Αγρός) is a village and a community in the western part of the island of Corfu. It was the seat of the municipality of Agios Georgios. Agros is located west of the city of Corfu. The community consists of the villages Agros, Aspiotades, Manatades and Rafalades."@en .
+
+<http://dbpedia.org/resource/Ahva,_Israel>
+        dbpedia-owl:abstract  "Ahva (Hebrew: אַחֲוָה, Aḥava, lit. Brotherhood) is a village in the northern Negev desert of southern Israel. It falls under the jurisdiction of Be'er Tuvia Regional Council and had a population of 168 in 2012.The village was established in 1976 for civil servants of the regional council. It is adjacent to the Ahva Academic College and acts as a service center for the surrounding settlements, including Kfar Ahim, Kfar HaRif, Talmei Yehiel and Yenon."@en ;
+        geo:relatedTo         <http://dbpedia.org/resource/Regional_council_%28Israel%29> , dbpedia-res:Village .
+
+dbpedia-res:Zabaykalsky_District
+        dbpedia-owl:abstract  "Zabaykalsky District (Russian: Забайка́льский райо́н) is an administrative and municipal district (raion), one of the thirty-one in Zabaykalsky Krai, Russia. It is located in the southeast of the krai. The area of the district is 5,253.6 square kilometers (2,028.4 sq mi).[citation needed] Its administrative center is the urban locality (an urban-type settlement) of Zabaykalsk. Population: 20,485 (2010 Census); 20,343 (2002 Census); 22,121 (1989 Census). The population of Zabaykalsk accounts for 57.5% of the district's total population."@en ;
+        geo:relatedTo         dbpedia-res:Urban-type_settlement , dbpedia-res:Krai , dbpedia-res:Raion .
+
+<http://dbpedia.org/resource/American_River,_South_Australia>
+        dbpedia-owl:abstract  "American River is a town situated on the western shore of Eastern Cove, on Australia's third largest island, Kangaroo Island."@en ;
+        geo:relatedTo         dbpedia-res:Island .
+
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Felipe,_Chile>
+        dbpedia-owl:abstract  "The Roman Catholic Diocese of San Felipe (Latin: Sancti Philippi) is a diocese located in the city of San Felipe in the Ecclesiastical province of Santiago de Chile in Chile."@en ;
+        geo:relatedTo         dbpedia-res:Ecclesiastical_province .
+
+dbpedia-res:Petrovsk-Zabaykalsky_District
+        dbpedia-owl:abstract  "Petrovsk-Zabaykalsky District (Russian: Петро́вск-Забайка́льский райо́н) is an administrative district (raion), one of the thirty-one in Zabaykalsky Krai, Russia. It is located in the southwest of the krai. The area of the district is 9,110 square kilometers (3,520 sq mi).[citation needed] Its administrative center is the town of Petrovsk-Zabaykalsky. Population: 37,900 (2010 Census); 21,110 (2002 Census); 24,657 (1989 Census). The population of the administrative center accounts for 48.9% of the district's total population."@en ;
+        geo:relatedTo         dbpedia-res:Krai , dbpedia-res:Raion .
+
+dbpedia-res:Amursky_District
+        dbpedia-owl:abstract  "Amursky District (Russian: Аму́рский райо́н) is an administrative and municipal district (raion), one of the seventeen in Khabarovsk Krai, Russia. It is located in the southwest of the krai. The area of the district is 16,720 square kilometers (6,460 sq mi).[citation needed] Its administrative center is the town of Amursk (which is not administratively a part of the district). Population: 22,669 (2010 Census); 27,273 (2002 Census); 32,288 (1989 Census)."@en .
+
+dbpedia-res:Anangu_Pitjantjatjara_Yankunytjatjara
+        dbpedia-owl:abstract  "Anangu Pitjantjatjara Yankunytjatjara (APY) is a large Aboriginal local government area located in the remote north west of South Australia. It consists of the Pitjantjatjara, Yankunytjatjara and Ngaanyatjarra peoples (or Anangu), and has a population of around 2500 people."@en .
+
+dbpedia-res:Area  a  dbpedia-owl:TopicalConcept .
+
+dbpedia-res:Municipality
+        a       dbpedia-owl:TopicalConcept .
 
 [ a                ann:Annotation ;
-  scms:beginIndex  "160"^^xsd:int ;
-  scms:body        "Angela Merkel"^^xsd:string ;
-  scms:endIndex    "173"^^xsd:int ;
-  scms:means       dbpedia-res:Angela_Merkel ;
-  scms:source      <http://ns.aksw.org/scms/tools/spotlight> ;
-  ann:annotates    "The philosopher and mathematician Leibniz was born in Leipzig in 1646 and attended the University of Leipzig from 1661-1666. The current chancellor of Germany, Angela Merkel, also attended this university. This are to english sentences."^^xsd:string
+  scms:beginIndex  "348"^^xsd:int ;
+  scms:body        "area"^^xsd:string ;
+  scms:endIndex    "352"^^xsd:int ;
+  scms:means       dbpedia-res:Area ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Ampelakia (Greek: Αμπελάκια, meaning vineyards) is a town and a former municipality of Salamis Island, Greece. Since the 2011 local government reform it is part of the municipality Salamis, of which it is a municipal unit.It lies on the central east coast of the island and has a land area of 15.169 km², comprising about one-sixth of the island's area (with the balance belonging to the Salamina (city)). It has a population of 7,060 inhabitants (2001 census). Its largest town is also named Ampelakia, and has a population of 4,537. The other significant town is Selínia (pop. 2,346). The only other settlements are Kynosoúra (pop. 137) and Spithári (40)."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "207"^^xsd:int ;
+  scms:body        "municipal"^^xsd:string ;
+  scms:endIndex    "216"^^xsd:int ;
+  scms:means       dbpedia-res:Municipality ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Ampelakia (Greek: Αμπελάκια, meaning vineyards) is a town and a former municipality of Salamis Island, Greece. Since the 2011 local government reform it is part of the municipality Salamis, of which it is a municipal unit.It lies on the central east coast of the island and has a land area of 15.169 km², comprising about one-sixth of the island's area (with the balance belonging to the Salamina (city)). It has a population of 7,060 inhabitants (2001 census). Its largest town is also named Ampelakia, and has a population of 4,537. The other significant town is Selínia (pop. 2,346). The only other settlements are Kynosoúra (pop. 137) and Spithári (40)."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "285"^^xsd:int ;
+  scms:body        "area"^^xsd:string ;
+  scms:endIndex    "289"^^xsd:int ;
+  scms:means       dbpedia-res:Area ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Ampelakia (Greek: Αμπελάκια, meaning vineyards) is a town and a former municipality of Salamis Island, Greece. Since the 2011 local government reform it is part of the municipality Salamis, of which it is a municipal unit.It lies on the central east coast of the island and has a land area of 15.169 km², comprising about one-sixth of the island's area (with the balance belonging to the Salamina (city)). It has a population of 7,060 inhabitants (2001 census). Its largest town is also named Ampelakia, and has a population of 4,537. The other significant town is Selínia (pop. 2,346). The only other settlements are Kynosoúra (pop. 137) and Spithári (40)."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "168"^^xsd:int ;
+  scms:body        "municipality"^^xsd:string ;
+  scms:endIndex    "180"^^xsd:int ;
+  scms:means       dbpedia-res:Municipality ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Ampelakia (Greek: Αμπελάκια, meaning vineyards) is a town and a former municipality of Salamis Island, Greece. Since the 2011 local government reform it is part of the municipality Salamis, of which it is a municipal unit.It lies on the central east coast of the island and has a land area of 15.169 km², comprising about one-sixth of the island's area (with the balance belonging to the Salamina (city)). It has a population of 7,060 inhabitants (2001 census). Its largest town is also named Ampelakia, and has a population of 4,537. The other significant town is Selínia (pop. 2,346). The only other settlements are Kynosoúra (pop. 137) and Spithári (40)."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "71"^^xsd:int ;
+  scms:body        "municipality"^^xsd:string ;
+  scms:endIndex    "83"^^xsd:int ;
+  scms:means       dbpedia-res:Municipality ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Ampelakia (Greek: Αμπελάκια, meaning vineyards) is a town and a former municipality of Salamis Island, Greece. Since the 2011 local government reform it is part of the municipality Salamis, of which it is a municipal unit.It lies on the central east coast of the island and has a land area of 15.169 km², comprising about one-sixth of the island's area (with the balance belonging to the Salamina (city)). It has a population of 7,060 inhabitants (2001 census). Its largest town is also named Ampelakia, and has a population of 4,537. The other significant town is Selínia (pop. 2,346). The only other settlements are Kynosoúra (pop. 137) and Spithári (40)."^^xsd:string
+] .
+
+dbpedia-res:Israeli_settlement
+        a       dbpedia-owl:TopicalConcept .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "420"^^xsd:int ;
+  scms:body        "Israeli settlements in the West Bank"^^xsd:string ;
+  scms:endIndex    "456"^^xsd:int ;
+  scms:means       dbpedia-res:Israeli_settlement ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Kokhav HaShahar (Hebrew: כּוֹכַב הַשַּׁחַר, also spelt Kochav Shachar and Kochav HaShachar, trans. Morning Star) is an Israeli settlement in the Binyamin region of northern West Bank. It is located on a mountain ridge overlooking the Jordan Valley, and is accessible via the Allon Road. Kokhav HaShahar falls under the municipal jurisdiction of the Matte Binyamin Regional Council. The international community considers Israeli settlements in the West Bank illegal under international law, but the Israeli government disputes this.The settlement was founded by some nine young couples in 1979 on the site of an Israel Defense Forces outpost. As of 2011, it is home to about three hundred and fifty families; close to 2000 people.North of Kokhav HaShahar and east of Ramallah is the Maoz Esther outpost. The outpost was established in 2005 by residents of Kokhav HaShahar, and was named after Ester Galia, a Kokhav HaShahar resident who was murdered at Rimonim junction. Consisting of seven huts, it was destroyed by Israel Police in May 2009. Maoz Esther has been repeatedly rebuilt and destroyed. The most recent destruction event occurred 13 October 2010."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "119"^^xsd:int ;
+  scms:body        "Israeli settlement"^^xsd:string ;
+  scms:endIndex    "137"^^xsd:int ;
+  scms:means       dbpedia-res:Israeli_settlement ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Kokhav HaShahar (Hebrew: כּוֹכַב הַשַּׁחַר, also spelt Kochav Shachar and Kochav HaShachar, trans. Morning Star) is an Israeli settlement in the Binyamin region of northern West Bank. It is located on a mountain ridge overlooking the Jordan Valley, and is accessible via the Allon Road. Kokhav HaShahar falls under the municipal jurisdiction of the Matte Binyamin Regional Council. The international community considers Israeli settlements in the West Bank illegal under international law, but the Israeli government disputes this.The settlement was founded by some nine young couples in 1979 on the site of an Israel Defense Forces outpost. As of 2011, it is home to about three hundred and fifty families; close to 2000 people.North of Kokhav HaShahar and east of Ramallah is the Maoz Esther outpost. The outpost was established in 2005 by residents of Kokhav HaShahar, and was named after Ester Galia, a Kokhav HaShahar resident who was murdered at Rimonim junction. Consisting of seven huts, it was destroyed by Israel Police in May 2009. Maoz Esther has been repeatedly rebuilt and destroyed. The most recent destruction event occurred 13 October 2010."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "173"^^xsd:int ;
+  scms:body        "West Bank"^^xsd:string ;
+  scms:endIndex    "182"^^xsd:int ;
+  scms:means       dbpedia-res:West_Bank ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Kokhav HaShahar (Hebrew: כּוֹכַב הַשַּׁחַר, also spelt Kochav Shachar and Kochav HaShachar, trans. Morning Star) is an Israeli settlement in the Binyamin region of northern West Bank. It is located on a mountain ridge overlooking the Jordan Valley, and is accessible via the Allon Road. Kokhav HaShahar falls under the municipal jurisdiction of the Matte Binyamin Regional Council. The international community considers Israeli settlements in the West Bank illegal under international law, but the Israeli government disputes this.The settlement was founded by some nine young couples in 1979 on the site of an Israel Defense Forces outpost. As of 2011, it is home to about three hundred and fifty families; close to 2000 people.North of Kokhav HaShahar and east of Ramallah is the Maoz Esther outpost. The outpost was established in 2005 by residents of Kokhav HaShahar, and was named after Ester Galia, a Kokhav HaShahar resident who was murdered at Rimonim junction. Consisting of seven huts, it was destroyed by Israel Police in May 2009. Maoz Esther has been repeatedly rebuilt and destroyed. The most recent destruction event occurred 13 October 2010."^^xsd:string
+] .
+
+dbpedia-res:Raion  a  dbpedia-owl:TopicalConcept .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "104"^^xsd:int ;
+  scms:body        "raion"^^xsd:string ;
+  scms:endIndex    "109"^^xsd:int ;
+  scms:means       dbpedia-res:Raion ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Petrovsk-Zabaykalsky District (Russian: Петро́вск-Забайка́льский райо́н) is an administrative district (raion), one of the thirty-one in Zabaykalsky Krai, Russia. It is located in the southwest of the krai. The area of the district is 9,110 square kilometers (3,520 sq mi).[citation needed] Its administrative center is the town of Petrovsk-Zabaykalsky. Population: 37,900 (2010 Census); 21,110 (2002 Census); 24,657 (1989 Census). The population of the administrative center accounts for 48.9% of the district's total population."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "201"^^xsd:int ;
+  scms:body        "krai"^^xsd:string ;
+  scms:endIndex    "205"^^xsd:int ;
+  scms:means       dbpedia-res:Krai ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Petrovsk-Zabaykalsky District (Russian: Петро́вск-Забайка́льский райо́н) is an administrative district (raion), one of the thirty-one in Zabaykalsky Krai, Russia. It is located in the southwest of the krai. The area of the district is 9,110 square kilometers (3,520 sq mi).[citation needed] Its administrative center is the town of Petrovsk-Zabaykalsky. Population: 37,900 (2010 Census); 21,110 (2002 Census); 24,657 (1989 Census). The population of the administrative center accounts for 48.9% of the district's total population."^^xsd:string
+] .
+
+dbpedia-res:Sutherland_Shire
+        a       dbpedia-owl:Place , dbpedia-owl:PopulatedPlace , dbpedia-owl:AdministrativeRegion .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "163"^^xsd:int ;
+  scms:body        "shire"^^xsd:string ;
+  scms:endIndex    "168"^^xsd:int ;
+  scms:means       dbpedia-res:Sutherland_Shire ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "The Shire of South Gippsland was a local government area about 170 kilometres (106 mi) south-southeast of Melbourne, the state capital of Victoria, Australia. The shire covered an area of 1,432.26 square kilometres (553.0 sq mi), and existed from 1894 until 1994."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "180"^^xsd:int ;
+  scms:body        "area"^^xsd:string ;
+  scms:endIndex    "184"^^xsd:int ;
+  scms:means       dbpedia-res:Area ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "The Shire of South Gippsland was a local government area about 170 kilometres (106 mi) south-southeast of Melbourne, the state capital of Victoria, Australia. The shire covered an area of 1,432.26 square kilometres (553.0 sq mi), and existed from 1894 until 1994."^^xsd:string
+] .
+
+<http://dbpedia.org/resource/Regional_council_%28Israel%29>
+        a       dbpedia-owl:TopicalConcept .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "214"^^xsd:int ;
+  scms:body        "village"^^xsd:string ;
+  scms:endIndex    "221"^^xsd:int ;
+  scms:means       dbpedia-res:Village ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Ahva (Hebrew: אַחֲוָה, Aḥava, lit. Brotherhood) is a village in the northern Negev desert of southern Israel. It falls under the jurisdiction of Be'er Tuvia Regional Council and had a population of 168 in 2012.The village was established in 1976 for civil servants of the regional council. It is adjacent to the Ahva Academic College and acts as a service center for the surrounding settlements, including Kfar Ahim, Kfar HaRif, Talmei Yehiel and Yenon."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "272"^^xsd:int ;
+  scms:body        "regional council"^^xsd:string ;
+  scms:endIndex    "288"^^xsd:int ;
+  scms:means       <http://dbpedia.org/resource/Regional_council_%28Israel%29> ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Ahva (Hebrew: אַחֲוָה, Aḥava, lit. Brotherhood) is a village in the northern Negev desert of southern Israel. It falls under the jurisdiction of Be'er Tuvia Regional Council and had a population of 168 in 2012.The village was established in 1976 for civil servants of the regional council. It is adjacent to the Ahva Academic College and acts as a service center for the surrounding settlements, including Kfar Ahim, Kfar HaRif, Talmei Yehiel and Yenon."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "53"^^xsd:int ;
+  scms:body        "village"^^xsd:string ;
+  scms:endIndex    "60"^^xsd:int ;
+  scms:means       dbpedia-res:Village ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Ahva (Hebrew: אַחֲוָה, Aḥava, lit. Brotherhood) is a village in the northern Negev desert of southern Israel. It falls under the jurisdiction of Be'er Tuvia Regional Council and had a population of 168 in 2012.The village was established in 1976 for civil servants of the regional council. It is adjacent to the Ahva Academic College and acts as a service center for the surrounding settlements, including Kfar Ahim, Kfar HaRif, Talmei Yehiel and Yenon."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "96"^^xsd:int ;
+  scms:body        "diocese"^^xsd:string ;
+  scms:endIndex    "103"^^xsd:int ;
+  scms:means       dbpedia-res:Diocese ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "The Roman Catholic Diocese of Santa María de Los Ángeles (Latin: Sanctae Mariae Angelorum) is a diocese located in the city of Los Ángeles in the Ecclesiastical province of Concepción in Chile."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "146"^^xsd:int ;
+  scms:body        "Ecclesiastical province"^^xsd:string ;
+  scms:endIndex    "169"^^xsd:int ;
+  scms:means       dbpedia-res:Ecclesiastical_province ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "The Roman Catholic Diocese of Santa María de Los Ángeles (Latin: Sanctae Mariae Angelorum) is a diocese located in the city of Los Ángeles in the Ecclesiastical province of Concepción in Chile."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "19"^^xsd:int ;
+  scms:body        "Diocese"^^xsd:string ;
+  scms:endIndex    "26"^^xsd:int ;
+  scms:means       dbpedia-res:Diocese ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "The Roman Catholic Diocese of Santa María de Los Ángeles (Latin: Sanctae Mariae Angelorum) is a diocese located in the city of Los Ángeles in the Ecclesiastical province of Concepción in Chile."^^xsd:string
+] .
+
+dbpedia-res:New_England_town
+        a       dbpedia-owl:TopicalConcept .
+
+dbpedia-res:Island  a  dbpedia-owl:TopicalConcept .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "275"^^xsd:int ;
+  scms:body        "island"^^xsd:string ;
+  scms:endIndex    "281"^^xsd:int ;
+  scms:means       dbpedia-res:Island ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Andros (Greek: Άνδρος), also called Chora (Χώρα, \"main town\"), is a town and a former municipality on the island of Andros, in the Cyclades, Greece. Since the 2011 local government reform it is part of the municipality Andros, of which it is a municipal unit, and shares the island of Andros with the municipal units of Korthio and Ydrousa. Its population was 4,107 inhabitants at the 2001 census.It has a mix of post-World War I neoclassical mansions with vernacular Cycladic houses. The town squares are paved with marble. At the end of the headland are two islands. The first, linked to the mainland by a brick bridge, with a ruined Venetian castle and the second with a lighthouse. There are four museums: the extensive Archaeological Museum, Museum of Modern Art, a Nautical Museum and a Folklore Museum."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "55"^^xsd:int ;
+  scms:body        "town"^^xsd:string ;
+  scms:endIndex    "59"^^xsd:int ;
+  scms:means       dbpedia-res:New_England_town ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Andros (Greek: Άνδρος), also called Chora (Χώρα, \"main town\"), is a town and a former municipality on the island of Andros, in the Cyclades, Greece. Since the 2011 local government reform it is part of the municipality Andros, of which it is a municipal unit, and shares the island of Andros with the municipal units of Korthio and Ydrousa. Its population was 4,107 inhabitants at the 2001 census.It has a mix of post-World War I neoclassical mansions with vernacular Cycladic houses. The town squares are paved with marble. At the end of the headland are two islands. The first, linked to the mainland by a brick bridge, with a ruined Venetian castle and the second with a lighthouse. There are four museums: the extensive Archaeological Museum, Museum of Modern Art, a Nautical Museum and a Folklore Museum."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "106"^^xsd:int ;
+  scms:body        "island"^^xsd:string ;
+  scms:endIndex    "112"^^xsd:int ;
+  scms:means       dbpedia-res:Island ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Andros (Greek: Άνδρος), also called Chora (Χώρα, \"main town\"), is a town and a former municipality on the island of Andros, in the Cyclades, Greece. Since the 2011 local government reform it is part of the municipality Andros, of which it is a municipal unit, and shares the island of Andros with the municipal units of Korthio and Ydrousa. Its population was 4,107 inhabitants at the 2001 census.It has a mix of post-World War I neoclassical mansions with vernacular Cycladic houses. The town squares are paved with marble. At the end of the headland are two islands. The first, linked to the mainland by a brick bridge, with a ruined Venetian castle and the second with a lighthouse. There are four museums: the extensive Archaeological Museum, Museum of Modern Art, a Nautical Museum and a Folklore Museum."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "560"^^xsd:int ;
+  scms:body        "islands"^^xsd:string ;
+  scms:endIndex    "567"^^xsd:int ;
+  scms:means       dbpedia-res:Island ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Andros (Greek: Άνδρος), also called Chora (Χώρα, \"main town\"), is a town and a former municipality on the island of Andros, in the Cyclades, Greece. Since the 2011 local government reform it is part of the municipality Andros, of which it is a municipal unit, and shares the island of Andros with the municipal units of Korthio and Ydrousa. Its population was 4,107 inhabitants at the 2001 census.It has a mix of post-World War I neoclassical mansions with vernacular Cycladic houses. The town squares are paved with marble. At the end of the headland are two islands. The first, linked to the mainland by a brick bridge, with a ruined Venetian castle and the second with a lighthouse. There are four museums: the extensive Archaeological Museum, Museum of Modern Art, a Nautical Museum and a Folklore Museum."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "68"^^xsd:int ;
+  scms:body        "town"^^xsd:string ;
+  scms:endIndex    "72"^^xsd:int ;
+  scms:means       dbpedia-res:New_England_town ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Andros (Greek: Άνδρος), also called Chora (Χώρα, \"main town\"), is a town and a former municipality on the island of Andros, in the Cyclades, Greece. Since the 2011 local government reform it is part of the municipality Andros, of which it is a municipal unit, and shares the island of Andros with the municipal units of Korthio and Ydrousa. Its population was 4,107 inhabitants at the 2001 census.It has a mix of post-World War I neoclassical mansions with vernacular Cycladic houses. The town squares are paved with marble. At the end of the headland are two islands. The first, linked to the mainland by a brick bridge, with a ruined Venetian castle and the second with a lighthouse. There are four museums: the extensive Archaeological Museum, Museum of Modern Art, a Nautical Museum and a Folklore Museum."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "196"^^xsd:int ;
+  scms:body        "krai"^^xsd:string ;
+  scms:endIndex    "200"^^xsd:int ;
+  scms:means       dbpedia-res:Krai ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Zabaykalsky District (Russian: Забайка́льский райо́н) is an administrative and municipal district (raion), one of the thirty-one in Zabaykalsky Krai, Russia. It is located in the southeast of the krai. The area of the district is 5,253.6 square kilometers (2,028.4 sq mi).[citation needed] Its administrative center is the urban locality (an urban-type settlement) of Zabaykalsk. Population: 20,485 (2010 Census); 20,343 (2002 Census); 22,121 (1989 Census). The population of Zabaykalsk accounts for 57.5% of the district's total population."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "342"^^xsd:int ;
+  scms:body        "urban-type settlement"^^xsd:string ;
+  scms:endIndex    "363"^^xsd:int ;
+  scms:means       dbpedia-res:Urban-type_settlement ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Zabaykalsky District (Russian: Забайка́льский райо́н) is an administrative and municipal district (raion), one of the thirty-one in Zabaykalsky Krai, Russia. It is located in the southeast of the krai. The area of the district is 5,253.6 square kilometers (2,028.4 sq mi).[citation needed] Its administrative center is the urban locality (an urban-type settlement) of Zabaykalsk. Population: 20,485 (2010 Census); 20,343 (2002 Census); 22,121 (1989 Census). The population of Zabaykalsk accounts for 57.5% of the district's total population."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "99"^^xsd:int ;
+  scms:body        "raion"^^xsd:string ;
+  scms:endIndex    "104"^^xsd:int ;
+  scms:means       dbpedia-res:Raion ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Zabaykalsky District (Russian: Забайка́льский райо́н) is an administrative and municipal district (raion), one of the thirty-one in Zabaykalsky Krai, Russia. It is located in the southeast of the krai. The area of the district is 5,253.6 square kilometers (2,028.4 sq mi).[citation needed] Its administrative center is the urban locality (an urban-type settlement) of Zabaykalsk. Population: 20,485 (2010 Census); 20,343 (2002 Census); 22,121 (1989 Census). The population of Zabaykalsk accounts for 57.5% of the district's total population."^^xsd:string
+] .
+
+<http://dbpedia.org/resource/Epirus_%28periphery%29>
+        a       dbpedia-owl:Place , dbpedia-owl:PopulatedPlace , dbpedia-owl:Settlement .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "173"^^xsd:int ;
+  scms:body        "municipality"^^xsd:string ;
+  scms:endIndex    "185"^^xsd:int ;
+  scms:means       dbpedia-res:Municipality ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Kranea (Greek: Κρανέα) is an Aromanian village and a former community in the Preveza regional unit, Epirus, Greece. Since the 2011 local government reform it is part of the municipality Ziros, of which it is a municipal unit. Population 1,052 (2001)."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "100"^^xsd:int ;
+  scms:body        "Epirus, Greece"^^xsd:string ;
+  scms:endIndex    "114"^^xsd:int ;
+  scms:means       <http://dbpedia.org/resource/Epirus_%28periphery%29> ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Kranea (Greek: Κρανέα) is an Aromanian village and a former community in the Preveza regional unit, Epirus, Greece. Since the 2011 local government reform it is part of the municipality Ziros, of which it is a municipal unit. Population 1,052 (2001)."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "210"^^xsd:int ;
+  scms:body        "municipal"^^xsd:string ;
+  scms:endIndex    "219"^^xsd:int ;
+  scms:means       dbpedia-res:Municipality ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Kranea (Greek: Κρανέα) is an Aromanian village and a former community in the Preveza regional unit, Epirus, Greece. Since the 2011 local government reform it is part of the municipality Ziros, of which it is a municipal unit. Population 1,052 (2001)."^^xsd:string
+] .
+
+dbpedia-res:West_Macedonia
+        a       dbpedia-owl:TopicalConcept , dbpedia-owl:Place , dbpedia-owl:PopulatedPlace , dbpedia-owl:Settlement .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "117"^^xsd:int ;
+  scms:body        "West Macedonia"^^xsd:string ;
+  scms:endIndex    "131"^^xsd:int ;
+  scms:means       dbpedia-res:West_Macedonia ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "Perivoli (Greek: Περιβόλι,Aromanian: Pirivoli) is an alpine village and a former community in Grevena regional unit, West Macedonia, Greece. Since the 2011 local government reform it is part of the municipality Grevena, of which it is a municipal unit. Its population was 21 inhabitants as of 2011. It was the least densely populated municipality or community in the least densely populated regional unit of Greece. It is also the sixth-least densely populated in all of Greece (behind Gramos, Sidironero, Paranesti, Antikythira, and Gavdos). The village is inhabited during winter by only 10-20 people due to extreme snow. However, the population rises to 4,000 people during the summer. There are many restored houses, inns, restaurants and cafes in the village. The inhabitants are mainly native Aromanians (Greek: Βλάχοι)."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "120"^^xsd:int ;
+  scms:body        "Ecclesiastical province"^^xsd:string ;
+  scms:endIndex    "143"^^xsd:int ;
+  scms:means       dbpedia-res:Ecclesiastical_province ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "The Roman Catholic Diocese of San Felipe (Latin: Sancti Philippi) is a diocese located in the city of San Felipe in the Ecclesiastical province of Santiago de Chile in Chile."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "101"^^xsd:int ;
+  scms:body        "island"^^xsd:string ;
+  scms:endIndex    "107"^^xsd:int ;
+  scms:means       dbpedia-res:Island ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "American River is a town situated on the western shore of Eastern Cove, on Australia's third largest island, Kangaroo Island."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "94"^^xsd:int ;
+  scms:body        "diocese"^^xsd:string ;
+  scms:endIndex    "101"^^xsd:int ;
+  scms:means       dbpedia-res:Diocese ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "The Roman Catholic Diocese of San Felipe (Latin: Dioecesis Sancti Philippi in Venetiola) is a diocese located in the city of San Felipe in the Ecclesiastical province of Barquisimeto in Venezuela."^^xsd:string
+] .
+
+[ a                ann:Annotation ;
+  scms:beginIndex  "143"^^xsd:int ;
+  scms:body        "Ecclesiastical province"^^xsd:string ;
+  scms:endIndex    "166"^^xsd:int ;
+  scms:means       dbpedia-res:Ecclesiastical_province ;
+  scms:source      <http://ns.aksw.org/scms/tools/Spotlight> ;
+  ann:annotates    "The Roman Catholic Diocese of San Felipe (Latin: Dioecesis Sancti Philippi in Venetiola) is a diocese located in the city of San Felipe in the Ecclesiastical province of Barquisimeto in Venezuela."^^xsd:string
 ] .

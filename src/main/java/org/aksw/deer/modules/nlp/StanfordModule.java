@@ -93,6 +93,7 @@ public class StanfordModule implements DeerModule{
 //	EvaluationThings
 	private Boolean evaluationMetaData = Boolean.TRUE;
 	private Model extractedTriples = ModelFactory.createDefaultModel();
+	public Model getExtractedTriple() { return extractedTriples;}
 	private Integer doubleExtraction = 0;
 	public Integer getNumberOfDoubleExtraction() {
 		return doubleExtraction;
@@ -128,8 +129,8 @@ public class StanfordModule implements DeerModule{
 	public HashMap<String,Integer> getStatementAnalyse() {
 		HashMap<String,Integer> answerMap = new HashMap<String,Integer>();
 		answerMap.put("onlyDBpedia", 0);
-		answerMap.put("onlydbPediaObject", 0);
-		answerMap.put("onlydbPediaSubject", 0);
+		answerMap.put("onlyDBpediaObject", 0);
+		answerMap.put("onlyDBpediaSubject", 0);
 		answerMap.put("onlyStanford", 0);
 		answerMap.put("literalAsObject", 0);
 		if(mappedExtractedTriples == null) {
@@ -300,7 +301,10 @@ public class StanfordModule implements DeerModule{
 
 		// Model From Spotlight
 		Model newModel = getNewTripleAsModel();
-		model = model.union(newModel);
+		model = ModelFactory.createUnion(model, newModel);
+
+		logger.info("Replace annotated Entities and delete all annotations if FILTER_ANNOTATIONS is set in Prefs. ");
+		model = mapResourcesOnPreferedAnnotationModel(model);
 
 		if( parameters.containsKey("output")){
 			String outputFile = parameters.get("output");
@@ -358,8 +362,12 @@ public class StanfordModule implements DeerModule{
 		//find new Relations in this related Literals
 		StmtIterator stItr = model.listStatements(null, literalProperty, (RDFNode) null);
 		logger.info("--------------- Added triples through STANFORD NLP ---------------");
+		Integer currentTextNr = 0;
 		while (stItr.hasNext()) {
-
+			if(currentTextNr % 10 == 0) {
+				logger.info(currentTextNr.toString() + " text label extracted");
+			}
+			currentTextNr ++;
 			Statement st = stItr.nextStatement();
 			RDFNode object = st.getObject();
 			RDFNode subject = st.getSubject();
@@ -380,8 +388,7 @@ public class StanfordModule implements DeerModule{
 		//replace Entities with prefered annotation from preferences PREFERED_ANNOTATION
 		//delete all annotation if said so in Preferences FILTER_ANNOTATIONS
 
-		logger.info("Replace annotated Entities and delete all annotations if FILTER_ANNOTATIONS is set in Prefs. ");
-		resultModel = mapResourcesOnPreferedAnnotationModel(resultModel);
+
 
 		return resultModel;
 	}
@@ -494,7 +501,7 @@ public class StanfordModule implements DeerModule{
 		// find relations
 		// ----------------------------------------------------------------------------
 		try {
-			logger.info("Start...");
+			logger.debug("Start...");
 			Annotation doc = new Annotation(text);
 			logger.debug("Annotate the doc...");
 			stanfordNLP.annotate(doc);
@@ -504,11 +511,11 @@ public class StanfordModule implements DeerModule{
 			for (CoreMap sentenceAnnotation : doc.get(CoreAnnotations.SentencesAnnotation.class)) {
 				List<RelationMention> relationMentions = (sentenceAnnotation.get(RelationMentionsAnnotation.class));
 				logger.debug("relationMentions.size():" + relationMentions.size());
-				for (RelationMention relationMention : relationMentions) {
+ 				for (RelationMention relationMention : relationMentions) {
 //					if (checkrules(relationMention)) {
 					if (!relationMention.getType().equals("_NR") ) { //No Relation is best matching relation
 						Model newRelationModel = getModelFromRelationMention(relationMention, text);
-						namedEntitymodel = ModelFactory.createUnion(namedEntitymodel,newRelationModel);
+						namedEntitymodel = ModelFactory.createUnion(namedEntitymodel, newRelationModel);
 //						namedEntitymodel.setNsPrefixes(newRelationModel.getNsPrefixMap());
 						if (logger.isDebugEnabled()) {
 							logger.debug(relationMention);
@@ -516,7 +523,7 @@ public class StanfordModule implements DeerModule{
 					}
 				}
 			}
-			logger.info("Relations done.");
+			logger.debug("Relations done.");
 		} catch (Exception e) {
 			logger.error(e.getLocalizedMessage(), e);
 		}
@@ -553,13 +560,14 @@ public class StanfordModule implements DeerModule{
 		Property extractedBy = ResourceFactory.createProperty(prefMap.get("scms"), "source");
 		Resource extractor = ResourceFactory.createResource(prefMap.get("scms") + "tools/StanfordRE");
 		Resource annotationClass = ResourceFactory.createResource(prefMap.get("ann") + "Annotation");
-		Property annotates = ResourceFactory.createProperty(prefMap.get("ann") + "annotate");
+		Property annotates = ResourceFactory.createProperty(prefMap.get("ann") + "annotates");
 		//RELATION
 		Property relation = ResourceFactory.createProperty(prefMap.get("stanford"), relationMention.getType());
 
 		//AGENS
 		EntityMention agensMention = relationMention.getEntityMentionArgs().get(0);
-		Resource agens = ResourceFactory.createResource(prefMap.get("stanford") + agensMention.getExtentString());
+		String agensName = agensMention.getExtentString().replace(" ", "_");
+		Resource agens = ResourceFactory.createResource(prefMap.get("stanford") + agensName);
 		Resource agensType = ResourceFactory.createResource(prefMap.get("stanford") + agensMention.getType());
 		relationModel.add(agens, rdfType, agensType);
 
@@ -587,7 +595,8 @@ public class StanfordModule implements DeerModule{
 
 		//PATIENS
 		EntityMention patiensMention = relationMention.getEntityMentionArgs().get(1);
-		Resource patiens = ResourceFactory.createResource(prefMap.get("stanford") + patiensMention.getValue());
+		String patiensName = patiensMention.getValue().replace(" ","_");
+		Resource patiens = ResourceFactory.createResource(prefMap.get("stanford") + patiensName);
 		Resource patiensType = ResourceFactory.createResource(prefMap.get("stanford") + patiensMention.getType());
 		relationModel.add(patiens, rdfType, patiensType);
 
@@ -613,10 +622,11 @@ public class StanfordModule implements DeerModule{
 		relationModel.add(agens, relation, patiens);
 		if (evaluationMetaData) {
 			addExtractedTriple(ResourceFactory.createStatement(agens, relation, patiens));
+
 		}
 
+
 		//add Annotation Info to result model
-		logger.info(annotationModel);
         relationModel = ModelFactory.createUnion(relationModel, annotationModel);
 		relationModel.setNsPrefixes(annotationModel.getNsPrefixMap());
 
@@ -628,18 +638,28 @@ public class StanfordModule implements DeerModule{
 	public Model mapResourcesOnPreferedAnnotationModel(Model annotatedModel) {
 		if (usedParam.get(PREFERED_ANNOTATION) != null) {
 			Property preferedAnnotation = ResourceFactory.createProperty("http://ns.aksw.org/scms/tools/Spotlight");
+
+//			[ a                ann:Annotation ;
+//			scms:beginIndex  "160"^^xsd:int ;
+//			scms:endIndex    "173"^^xsd:int ;
+//			scms:means       <http://ns.aksw.org/scms/annotations/stanford/Angela Merkel> ;
+//			scms:source      <http://ns.aksw.org/scms/tools/StanfordRE> ;
+//			ann:annotate     "The philosopher and mathematician Leibniz was born in Leipzig in 1646 and attended the University of Leipzig from 1661-1666. The current chancellor of Germany, Angela Merkel, also attended this university. This are to english sentences."^^xsd:string
+//			] .
+
+
 			String queryString =
 					"PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> "+
-							"PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>  "+
-							"PREFIX scms: <http://ns.aksw.org/scms/>" +
-							"PREFIX ann: <http://www.w3.org/2000/10/annotation-ns#>" +
-							"select  ?entityToDelete ?typeToDelete ?annToFilter ?entityToPrefere "  +
-							"{ ?annPref rdf:type ann:Annotation . " +
+							"PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> "+
+							"PREFIX scms: <http://ns.aksw.org/scms/> " +
+							"PREFIX ann: <http://www.w3.org/2000/10/annotation-ns#> " +
+							"SELECT  ?entityToDelete ?typeToDelete ?annToFilter ?entityToPrefere "  +
+							"WHERE { ?annPref rdf:type ann:Annotation . " +
 							"	?annPref ann:annotates ?textBase . " +
 							"	?annPref scms:beginIndex ?beginning ." +
 							"	?annPref scms:endIndex ?ending ." +
 							"	?annPref scms:means ?entityToPrefere ." +
-							"	?annPref scms:source <" + preferedAnnotation.getNameSpace() + preferedAnnotation.getLocalName() + "> ." +
+							"	?annPref scms:source <" + preferedAnnotation.getURI() + "> ." +
 							"	?annToFilter rdf:type ann:Annotation . " +
 							"	?annToFilter ann:annotates ?textBase . " +
 							"	?annToFilter scms:beginIndex ?beginning ." +
@@ -649,14 +669,16 @@ public class StanfordModule implements DeerModule{
 							"   FILTER (?entityToPrefere != ?entityToDelete)" +
 							"}\n ";
 			Query query = QueryFactory.create(queryString);
-//			"http://ns.aksw.org/scms/tools/Spotlight";
-
+//			logger.info(queryString);
+//			extractedTriples = ModelFactory.createUnion(extractedTriples, annotatedModel);
 			// Execute the query and obtain results
 			QueryExecution qe = QueryExecutionFactory.create(query, annotatedModel);
 			ResultSet results =  qe.execSelect();
 			//Delete all Annotations with entityToDelete as means
 			List<QuerySolution> rows = ResultSetFormatter.toList(results);
 			qe.close();
+			logger.info("Number of Entities to Replace because of better Annotation. ");
+			logger.info(rows.size());
 			for (QuerySolution row:rows) {
 				//Delete the type of the entityToDelete
 				annotatedModel.remove(
@@ -693,6 +715,7 @@ public class StanfordModule implements DeerModule{
 
 			}
 		}
+
 		// if any Annotation have to be filtered do this.
 		if (usedParam.get(FILTER_ANNOTATIONS) != null && usedParam.get(FILTER_ANNOTATIONS).toLowerCase().equals("true")) {
 			ResIterator annResIter = annotatedModel.listSubjectsWithProperty(
