@@ -31,7 +31,7 @@ public class StanfordModuleTest {
 
     }
 
-    @Test
+//    @Test
     public void testProcess() throws Exception {
         HashMap<String, String> props = new HashMap<String, String>();
         Model testModel = Reader.readModel(base + "testModelProcess.ttl");
@@ -45,7 +45,7 @@ public class StanfordModuleTest {
         }
         testModel.write(outFile,"TURTLE");
     }
-    @Test
+//    @Test
     public void testGetModelFromStanfordRE() throws Exception {
         Resource testRes = ResourceFactory.createResource("testRes");
         String testString = "The philosopher and mathematician Leibniz " +
@@ -64,7 +64,7 @@ public class StanfordModuleTest {
         }
         resultMod.write(outFile,"TURTLE");
     }
-    @Test
+//    @Test
     public void testMapResourcesOnPreferedAnnotationModel () {
         Model testModel = Reader.readModel(base + "testfileFilterAnnotations.ttl");
 //        Property preferedAnnotation = ResourceFactory.createProperty("http://ns.aksw.org/scms/tools/Spotlight");

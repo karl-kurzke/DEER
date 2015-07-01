@@ -40,7 +40,7 @@ public class SpotlightModuleTest {
 
     }
 
-    @Test
+//    @Test
     public void testGetEntityHashMapFromSpotlightRest() throws Exception {
         HashMap<String, String> newConfig = new HashMap<String,String>();
         newConfig.put(SpotlightModule.SPOTLIGHT_CONFIDENCE, "0.2");
@@ -57,7 +57,7 @@ public class SpotlightModuleTest {
         System.out.println(result.toString());
     }
 
-    @Test
+//    @Test
     public void testHashMapAnswerToModel() throws Exception {
         //TODO load testHashMap from json
         HashMap<String, String> newConfig = new HashMap<String,String>();
@@ -88,7 +88,7 @@ public class SpotlightModuleTest {
     }
 
 
-    @Test
+//    @Test
     public void testGetModelFromSpotlightRest() throws Exception {
         HashMap<String, String> newConfig = new HashMap<String,String>();
         newConfig.put(SpotlightModule.SPOTLIGHT_CONFIDENCE, "0.2");
@@ -105,7 +105,7 @@ public class SpotlightModuleTest {
     }
 
 
-    @Test
+//    @Test
     public void testGetNewTripleAsModel() throws Exception {
         // Build up model to test
         Resource subject = ResourceFactory.createResource("queenTripleTest");
@@ -129,7 +129,7 @@ public class SpotlightModuleTest {
 
 
 
-    @Test
+//    @Test
     public void testProcess() throws Exception {
 
         Resource subject = ResourceFactory.createResource("queenProcessTest");

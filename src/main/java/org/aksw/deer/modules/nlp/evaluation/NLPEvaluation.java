@@ -27,27 +27,17 @@ public class NLPEvaluation {
 //                               "FILTER (NOT EXISTS {?subject a ann:Annotation .})\n" +
                         "}\n ";
         Query query = QueryFactory.create(queryString);
-//			"http://ns.aksw.org/scms/tools/Spotlight";
-
         // Execute the query and obtain results
         QueryExecution qe = QueryExecutionFactory.create(query, modelToExamine);
 
         ResultSet results =  qe.execSelect();
 
         //Delete all Annotations with entityToDelete as means
-        Integer tripleNumber = 999999999 ;
-        tripleNumber = results.next().get("tripleNumber").asLiteral().getInt();
-
-//        List<QuerySolution> rows = ResultSetFormatter.toList(results);
-
+        Integer tripleNumber = results.next().get("tripleNumber").asLiteral().getInt();
         qe.close();
-        System.out.println("Number of Triples after Spotlight");
-
-        System.out.println(tripleNumber);
-//        return rows.get(0).get("tripleNumber").asLiteral().getInt();
         return tripleNumber;
     }
-    static void runEvaluation(String testFilename) {
+    static void runEvaluation(String testFilename, String resultDir) {
         String modelFile = "datasets/6/input.ttl";
         modelFile = "datasets/6/testModelProcess.ttl";
 //        modelFile = "datasets/nlpTestData/drugbank_dump.ttl";
@@ -57,8 +47,9 @@ public class NLPEvaluation {
 //        String outputFileSpotlight =            "datasets/nlpTestData/spotlightReturnData.ttl";
 //        String outputFileExtractedTriples =     "datasets/nlpTestData/extractedTriples.ttl";
 //        String ergebnisFilename =               "datasets/nlpTestData/Ergebnisse.txt";
-        String outputFileExtractedTriples =     "extractedTriples.ttl";
-        String ergebnisFilename =               "Ergebnisse.txt";
+        String outputFileExtractedTriples =     resultDir + "extractedRelations.ttl";
+        String outputModelfilename =            resultDir + "outputmodel.ttl";
+        String ergebnisFilename =               resultDir + "resultAnalyses.txt";
 
         HashMap<String, String> settings = new HashMap<String, String>();
 //        settings.put("literalProperty", "http://purl.org/ontology/mo/biography");
@@ -85,7 +76,7 @@ public class NLPEvaluation {
         System.out.println("Spotlight model not written in file");
         String report = "Number Of Triples before Extraction: " +
                 triplesBefore.toString() +
-                "\nNew Triples after SpotlightExtraction: " +
+                "\nNew Triples after SpotlightExtraction with annotation blank nodes: " +
                 newTriplesFromSpotlight.toString() +
                 "\nNumber of extracted Entities with spotlight nominal: "  +
                 spotMod.getNumberOfExtractedEntities().toString() +
@@ -103,7 +94,7 @@ public class NLPEvaluation {
         StanfordModule stanMod = new StanfordModule();
         Model stanfordModel = stanMod.process(spotLightModel, settings);
         Integer triplesAfterStanford = NLPEvaluation.getNumberOfTriples(stanfordModel);
-        Integer newStanford = (triplesAfterStanford - triplesAfterSpotlight);
+
 
         //Export extracted Triples for further analyses
         FileWriter outFileExtractedTriples = null;
@@ -119,8 +110,8 @@ public class NLPEvaluation {
         report += "\nStatement Analyse: ";
         report += statementAnalyse.toString();
 
-        report += "\nNew Triples through StanfordExtraction: " +
-                newStanford.toString();
+        report += "\n Triples after StanfordExtraction: " +
+                triplesAfterStanford.toString();
 
 
         report += "\nDouble Triples through StanfordExtraction: " +
@@ -130,14 +121,26 @@ public class NLPEvaluation {
         } catch (Exception e) {
             e.printStackTrace();
         }
+        //save result model
+        FileWriter outFileForModel = null;
+        try {
+            outFileExtractedTriples = new FileWriter(outputModelfilename);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+//        stanMod.getExtractedTriple().write(outFileExtractedTriples, "TURTLE");
+        stanfordModel.write(outFileExtractedTriples, "TURTLE");
+
 
     }
 
     public static void main (String[] args) {
-        if (args.length == 1) {
-            NLPEvaluation.runEvaluation(args[0]);
+        if (args.length == 2) {
+            NLPEvaluation.runEvaluation(args[0], args[1]);
         } else {
-            System.out.println("You have to specify a test set file as Argument. Nothing else allowed.");
+            System.out.println("You have to specify a test set file as first " +
+                    "Argument and an existing directiory to save the results " +
+                    "as second argument. ");
         }
 
 
