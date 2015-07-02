@@ -10,3 +10,6 @@ nbactions.xml
 .idea/
 *.iml
 .DS_Store
+datasets/nlpTestData/drugbank_dump.ttl
+datasets/nlpTestData/jamendo-rdf/jamendo.rdf
+
