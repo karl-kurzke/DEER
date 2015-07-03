@@ -279,7 +279,7 @@ public class StanfordREExtractor implements NLPExtractor {
     @Override
     public HashMap<String, String> getEvaluation() {
         HashMap<String, String> eval = new HashMap<String, String>();
-        eval.put("numberOfExtraction", numberOfExtraction.toString());
+//        eval.put("numberOfExtraction", numberOfExtraction.toString());
         eval.put("doubleExtraction", doubleExtraction.toString());
 
         return eval;
@@ -293,7 +293,7 @@ public class StanfordREExtractor implements NLPExtractor {
         return doubleExtraction;
     }
     private void addExtractedTriple(Statement triple) {
-        logger.info(triple.toString());
+//        logger.info(triple.toString());
         numberOfExtraction += 1;
         if (extractedTriples.contains(triple)) {
             this.doubleExtraction += 1;

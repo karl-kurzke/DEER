@@ -319,8 +319,13 @@ public class MultipleExtractorNLPModule implements DeerModule{
         //find new Relations in this related Literals
         StmtIterator stItr = model.listStatements(null, literalProperty, (RDFNode) null);
         logger.info("--------------- Added triples through MULTIPLE NLP EXTRACTORS ---------------");
+        Integer counter = 0;
         while (stItr.hasNext()) {
 
+            if (counter % 100 == 0){
+                logger.info(counter.toString() + " extractions done. ");
+            }
+            counter += 1;
             Statement st = stItr.nextStatement();
             RDFNode object = st.getObject();
             RDFNode subject = st.getSubject();
@@ -333,7 +338,7 @@ public class MultipleExtractorNLPModule implements DeerModule{
                     HashSet<String> extractorToUse = new HashSet<String>();
                     for(String ext: usedParam.get(USED_EXTRACTOR).split(",")){extractorToUse.add(ext.trim());}
                     for (NLPExtractor ext: extractors) {
-                            logger.info(ext.getClass().getSimpleName());
+//                            logger.info(ext.getClass().getSimpleName());
                         if (extractorToUse.contains(ext.getClass().getSimpleName())) {
                             ext.addParams(usedParam);
                             enrichedModel  = ModelFactory.createUnion(
@@ -351,7 +356,7 @@ public class MultipleExtractorNLPModule implements DeerModule{
             }
 
         }
-        logger.info("All Text Extracted.");
+        logger.info("All Text Extracted. (" + counter.toString() + ")");
 
         return resultModel;
     }
