@@ -63,6 +63,16 @@ public class MultipleExtractorNLPModule implements DeerModule{
 
     private AnnotationCombiner annoComb = null;
     //For Evaluation
+    public HashMap<String, HashMap<String,String>> getEvaluation(){
+        HashMap<String, HashMap<String,String>> eval = new HashMap<String, HashMap<String, String>>();
+        for (NLPExtractor oneExtractor: extractors) {
+            eval.put(oneExtractor.getClass().getSimpleName(), oneExtractor.getEvaluation());
+        }
+
+        eval.put(annoComb.getClass().getSimpleName(),  annoComb.getEvaluation());
+
+        return eval;
+    }
     private Integer numberOfExtractedEntities = 0;
     private Set<String> extractedElements = new HashSet<String>();
 
@@ -180,13 +190,14 @@ public class MultipleExtractorNLPModule implements DeerModule{
      * For Evaluation Purpose
      * @return the relatedToProperty
      */
-    public Integer getNumberOfExtractedEntities() {
-        return numberOfExtractedEntities;
+
+    public ArrayList<NLPExtractor> getExtractor() {
+        return this.extractors;
     }
-    public Integer getNumberOfDistinctExtractedEntities() {
-        return extractedElements.size();
+
+    public AnnotationCombiner getCombiner(){
+        return this.annoComb;
     }
-    public Set<String> getExtractedElements() {return extractedElements;}
 
     /**
      * @return the relatedToProperty
@@ -321,18 +332,15 @@ public class MultipleExtractorNLPModule implements DeerModule{
                     Model enrichedModel = ModelFactory.createDefaultModel();
                     HashSet<String> extractorToUse = new HashSet<String>();
                     for(String ext: usedParam.get(USED_EXTRACTOR).split(",")){extractorToUse.add(ext.trim());}
-                    logger.info(extractorToUse);
                     for (NLPExtractor ext: extractors) {
                             logger.info(ext.getClass().getSimpleName());
                         if (extractorToUse.contains(ext.getClass().getSimpleName())) {
-                            logger.info("grrr");
                             ext.addParams(usedParam);
                             enrichedModel  = ModelFactory.createUnion(
                                     ext.extractFromText((Resource) subject, currentLit),
                                     enrichedModel);
                         }
                     }
-
                     enrichedModel = annoComb.combineAnnotation(enrichedModel, usedParam);
                     resultModel = ModelFactory.createUnion(enrichedModel, resultModel);
 
@@ -412,4 +420,5 @@ public class MultipleExtractorNLPModule implements DeerModule{
         //TODO wrong add this module to specs
         return SPECS.NLPModule;
     }
+
 }

@@ -4,12 +4,15 @@ import com.hp.hpl.jena.query.*;
 import com.hp.hpl.jena.rdf.model.*;
 import org.aksw.deer.io.Reader;
 import org.aksw.deer.modules.nlp.MultipleExtractorNLPModule;
-import org.aksw.deer.modules.nlp.SpotlightModule;
-import org.aksw.deer.modules.nlp.StanfordModule;
+import org.aksw.deer.modules.nlp.NLPExtractor;
+import org.apache.commons.io.FilenameUtils;
+import org.apache.xpath.operations.Bool;
 
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.HashMap;
 import java.util.List;
@@ -19,59 +22,81 @@ import java.util.List;
  */
 public class NLPEvaluation {
 
-    static Integer getNumberOfTriples(Model modelToExamine){
+    private HashMap<String, HashMap<String,String>> eval = new HashMap< String,HashMap<String,String> >();
 
-        String queryString =
-                        "PREFIX ann: <http://www.w3.org/2000/10/annotation-ns#>\n" +
-                        "SELECT  ( COUNT (* ) AS ?tripleNumber ) \n" +
-                        "WHERE { ?subject ?predicate ?object .\n" +
-//                               "FILTER (NOT EXISTS {?subject a ann:Annotation .})\n" +
-                        "}\n ";
-        Query query = QueryFactory.create(queryString);
-        // Execute the query and obtain results
-        QueryExecution qe = QueryExecutionFactory.create(query, modelToExamine);
-
-        ResultSet results =  qe.execSelect();
-
-        //Delete all Annotations with entityToDelete as means
-        Integer tripleNumber = results.next().get("tripleNumber").asLiteral().getInt();
-        qe.close();
-        return tripleNumber;
-    }
-    static void runEvaluation(String testFilename, String resultDir) {
-        String modelFile = "datasets/6/input.ttl";
+    private void runEvaluation(String testFilename) {
+        Boolean writeResultModel = Boolean.FALSE;
+        Boolean writeExtractedTripleModel = Boolean.TRUE;
+        //Create ResultFile
+        File resultFile = new File(FilenameUtils.removeExtension(testFilename) + "_Results");
+        resultFile.mkdirs();
+//        String modelFile = "datasets/6/input.ttl";
 //        modelFile = "datasets/6/testModelProcess.ttl";
 //        modelFile = "datasets/nlpTestData/drugbank_dump.ttl";
 ////        modelFile = "datasets/nlpTestData/jamendo-rdf/jamendo.rdf";
-        modelFile =                             "datasets/nlpTestData/dbpedia_AdministrativeRegion4.ttl";
+//                                     "datasets/nlpTestData/dbpedia_AdministrativeRegion4.ttl";
 //        modelFile = testFilename;
 ////        String outputFileSpotlight =            "datasets/nlpTestData/spotlightReturnData.ttl";
 ////        String outputFileExtractedTriples =     "datasets/nlpTestData/extractedTriples.ttl";
-////        String ergebnisFilename =               "datasets/nlpTestData/Ergebnisse.txt";
+//        String ergebnisFilename =               "datasets/nlpTestData/Ergebnisse.txt";
 //        String outputFileExtractedTriples =     resultDir + "extractedRelations.ttl";
-        String outputModelfilename =           "outputmodel.ttl";
-//        String ergebnisFilename =               resultDir + "resultAnalyses.txt";
+        String outputModelfilename =           resultFile.getAbsolutePath() + "/outputmodel.ttl";
+        String outputExtractionModelfilename =           resultFile.getAbsolutePath() + "/extractedTriples.ttl";
+        String ergebnisFilename =              resultFile.getAbsolutePath() + "/resultAnalyses.txt";
 //
         HashMap<String, String> settings = new HashMap<String, String>();
 ////        settings.put("literalProperty", "http://purl.org/ontology/mo/biography");
         settings.put("literalProperty", "http://dbpedia.org/ontology/abstract");
-        Model modelForEvaluation = Reader.readModel(modelFile);
-//        Integer triplesBefore = NLPEvaluation.getNumberOfTriples(modelForEvaluation);
+        Model modelForEvaluation = Reader.readModel(testFilename);
+        HashMap<String, String> thisEvalInfo = new HashMap<String,String>();
+        thisEvalInfo.put("triplesBefore", new Long(modelForEvaluation.size()).toString());
+
+
 //
         //Extraction
         MultipleExtractorNLPModule extractor = new MultipleExtractorNLPModule();
-        Model enrichedModel = extractor.process(modelForEvaluation, settings);
-        //save result model
-        FileWriter outFileForModel = null;
+        modelForEvaluation = extractor.process(modelForEvaluation, settings);
+
+        //Evaluation
+        thisEvalInfo.put("triplesAfter", new Long(modelForEvaluation.size()).toString());
+        eval.put(this.getClass().getSimpleName(), thisEvalInfo);
+        eval.putAll(extractor.getEvaluation());
+
+        //store evaluation
         try {
-            outFileForModel = new FileWriter(outputModelfilename);
-        } catch (IOException e) {
+            Files.write(Paths.get(ergebnisFilename), eval.toString().getBytes());
+        } catch (Exception e) {
             e.printStackTrace();
         }
-        enrichedModel.write(outFileForModel, "TURTLE");
+
+
+        //save result model
+        if (writeResultModel) {
+            FileWriter outFileForModel = null;
+            try {
+                outFileForModel = new FileWriter(outputModelfilename);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            modelForEvaluation.write(outFileForModel, "TURTLE");
+        }
+        if (writeExtractedTripleModel) {
+            FileWriter outFileForExtractionModel = null;
+            try {
+                outFileForExtractionModel = new FileWriter(outputExtractionModelfilename);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            extractor.getCombiner().getMappedExtractedTriples().write(outFileForExtractionModel, "TURTLE");
+        }
+
 ////        stanMod.getExtractedTriple().write(outFileExtractedTriples, "TURTLE");
 //        stanfordModel.write(outFileExtractedTriples, "TURTLE");
         ;
+
+
+
+
 //        System.out.println("XXX Evaluation got model from spotlight");
 //        Integer triplesAfterSpotlight = NLPEvaluation.getNumberOfTriples(spotLightModel);
 //        System.out.println("XXX Evaluation got number of triples");
@@ -128,23 +153,17 @@ public class NLPEvaluation {
 //
 //        report += "\nDouble Triples through StanfordExtraction: " +
 //                stanMod.getNumberOfDoubleExtraction();
-//        try {
-//            Files.write(Paths.get(ergebnisFilename), report.getBytes());
-//        } catch (Exception e) {
-//            e.printStackTrace();
-//        }
 //
 
 
     }
 
     public static void main (String[] args) {
-        if (args.length == 2) {
-            NLPEvaluation.runEvaluation(args[0], args[1]);
+        NLPEvaluation myEval = new NLPEvaluation();
+        if (args.length == 1) {
+            myEval.runEvaluation(args[0] );
         } else {
-            System.out.println("You have to specify a test set file as first " +
-                    "Argument and an existing directiory to save the results " +
-                    "as second argument. ");
+            System.out.println("You have to specify a test set file as argument. ");
         }
 
 

@@ -76,7 +76,7 @@ public class StanfordREExtractor implements NLPExtractor {
     private RelationExtractorAnnotator relationExtractorAnnotator = null;
 
     private void loadStanfordModels() {
-        logger.info("Start of stanford initialization.");
+        logger.info("Start of stanford initialization. (This will happens only ones.)");
         this.stanfordNLP = new StanfordCoreNLP();
         Properties props = new Properties();
         props.setProperty("annotators", "tokenize,ssplit,lemma,pos,parse,ner");
@@ -160,6 +160,8 @@ public class StanfordREExtractor implements NLPExtractor {
 
         return namedEntitymodel;
     }
+
+
 
     /**
      * transforms stanfords RelationMention into RDF Model
@@ -273,21 +275,33 @@ public class StanfordREExtractor implements NLPExtractor {
 
 
     //	EvaluationThings
+
+    @Override
+    public HashMap<String, String> getEvaluation() {
+        HashMap<String, String> eval = new HashMap<String, String>();
+        eval.put("numberOfExtraction", numberOfExtraction.toString());
+        eval.put("doubleExtraction", doubleExtraction.toString());
+
+        return eval;
+    }
     private Boolean evaluationMetaData = Boolean.TRUE;
     private Model extractedTriples = ModelFactory.createDefaultModel();
     public Model getExtractedTriple() { return extractedTriples;}
+    private Integer numberOfExtraction = 0;
     private Integer doubleExtraction = 0;
     public Integer getNumberOfDoubleExtraction() {
         return doubleExtraction;
     }
     private void addExtractedTriple(Statement triple) {
+        logger.info(triple.toString());
+        numberOfExtraction += 1;
         if (extractedTriples.contains(triple)) {
             this.doubleExtraction += 1;
         } else {
             extractedTriples.add(triple);
         }
     }
-    private Model mappedExtractedTriples = null;
+
 
 
 }

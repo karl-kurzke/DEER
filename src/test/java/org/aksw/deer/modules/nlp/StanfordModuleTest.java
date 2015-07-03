@@ -19,17 +19,17 @@ import java.util.List;
 import static org.junit.Assert.*;
 
 public class StanfordModuleTest {
-    private String base = ("src/test/java/org/aksw/deer/modules/nlp/testModelFiles/");
-    private StanfordModule sm = null;
-    @Before
-    public void setUp() throws Exception {
-        sm = new StanfordModule();
-    }
-
-    @After
-    public void tearDown() throws Exception {
-
-    }
+//    private String base = ("src/test/java/org/aksw/deer/modules/nlp/testModelFiles/");
+//    private StanfordModule sm = null;
+//    @Before
+//    public void setUp() throws Exception {
+//        sm = new StanfordModule();
+//    }
+//
+//    @After
+//    public void tearDown() throws Exception {
+//
+//    }
 
 //    //    @Test
 //    public void testProcess() throws Exception {

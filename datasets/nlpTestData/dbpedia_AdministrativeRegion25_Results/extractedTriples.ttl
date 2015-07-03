@@ -1,0 +1,75 @@
+<http://ns.aksw.org/scms/annotations/stanford/Greece>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Cyclades> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Thessaly>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Chile>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Philippi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/King_Amaziah>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Judah> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ravil_Geniatulin>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Oblast> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Puerto_Rico>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ramos> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jerusalem>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Yaakov> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Zabaykalsky_Krai>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Victoria>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kfar_Ahim>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/HaRif> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Michael>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Israel> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Venezuela>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Philippi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Corfu>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Khabarovsk_Krai>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gramos>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Sidironero> .
+
+<http://dbpedia.org/resource/Chile>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Angelorum> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hanmer_Springs>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Amuri> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Epirus>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Salamis_Island>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greece> .

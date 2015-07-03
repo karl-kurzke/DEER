@@ -131,6 +131,7 @@ public class SpotlightNEExtractor implements NLPExtractor {
         }
     }
 
+
     public SpotlightNEExtractor() {
         super();
         usedParam = getDefaultParam();
@@ -147,9 +148,10 @@ public class SpotlightNEExtractor implements NLPExtractor {
         return enrichedModel;
     }
 
+
+
     @Override
     public Model extractFromText(Resource recConnectedToText, Literal textLiteral) {
-        logger.info("spotlight");
         Model enrichedModel = ModelFactory.createDefaultModel();
         HashMap<String,Object> result = null;
         String text = textLiteral.getString();
@@ -217,6 +219,8 @@ public class SpotlightNEExtractor implements NLPExtractor {
     }
 
 
+
+
     public Model hashMapAnswerToModel(Resource subject, HashMap<String, Object> entities){
 
         /**
@@ -271,10 +275,10 @@ public class SpotlightNEExtractor implements NLPExtractor {
             if (subject != null) {
                 namedEntitymodel.add(subject, relationProperty, newObject);
 //			logger.info( subject.getURI() + " " + relationProperty.getLocalName()  + " " + newObject.getURI());
-                logger.info(subject.getURI() + " " + newObject.getURI());
+//                logger.info(subject.getURI() + " " + newObject.getURI());
             }
-            numberOfExtractedEntities += 1;
-            extractedElements.add(newObject.getURI());
+
+            addExtractedElement(newObject.getURI());
             // add types from resources
             String allTypes = resource.get("@types");
             List<String> typeList = new ArrayList<String>(Arrays.asList(allTypes.split("\\s*,\\s*")));
@@ -327,7 +331,25 @@ public class SpotlightNEExtractor implements NLPExtractor {
 
 
     //For Evaluation
-    private Integer numberOfExtractedEntities = 0;
+
+    @Override
+    public HashMap<String, String> getEvaluation() {
+        HashMap<String, String> eval = new HashMap<String, String>();
+        eval.put("numberOfExtractedElements", new Integer(extractedElements.size()).toString());
+        eval.put("numberOfUniqueExtractedElements", getNumberOfExtractedElements().toString());
+        return eval;
+    }
+    private Integer numberOfUniqueExtractedElements = 0;
     private Set<String> extractedElements = new HashSet<String>();
+    private Integer getNumberOfExtractedElements(){
+        return extractedElements.size();
+    }
+    private void addExtractedElement(String propToAdd){
+        if (!extractedElements.contains(propToAdd)){
+            extractedElements.add(propToAdd);
+            numberOfUniqueExtractedElements += 1;
+        }
+
+    }
 
 }

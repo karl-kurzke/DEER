@@ -19,6 +19,6 @@ public interface NLPExtractor {
 
     public Model extractFromText(Resource recConnectedToText, Literal textLiteral);
 
-
+    public HashMap<String, String> getEvaluation();
 
 }

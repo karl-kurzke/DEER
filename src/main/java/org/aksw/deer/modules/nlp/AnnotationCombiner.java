@@ -7,6 +7,7 @@ import org.apache.log4j.Logger;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * Created by wolfo on 02.07.15.
@@ -162,17 +163,18 @@ public class AnnotationCombiner {
     }
     // Evaluation things
 
-    private Model mappedExtractedTriples;
+    private Model mappedExtractedTriples = ModelFactory.createDefaultModel();
     /**
      * get all StanfordRessources from extractionModel and add them to mappedExtractedTriples
      */
     private void addMappedExtractesTriplesFromModel (Model extractionModel) {
-        mappedExtractedTriples = ModelFactory.createDefaultModel();
         StmtIterator statementIterator = extractionModel.listStatements(null, null, (RDFNode) null);
         while (statementIterator.hasNext()) {
             Statement currentStatement = statementIterator.nextStatement();
+
             Property currentProperty = currentStatement.getPredicate();
             if(currentProperty.getURI().startsWith("http://ns.aksw.org/scms/annotations/stanford/")) {
+
                 mappedExtractedTriples.add(currentStatement);
             }
         }
@@ -182,13 +184,14 @@ public class AnnotationCombiner {
         return this.mappedExtractedTriples;
     }
 
-    public HashMap<String,Integer> getStatementAnalyse() {
-        HashMap<String,Integer> answerMap = new HashMap<String,Integer>();
-        answerMap.put("onlyDBpedia", 0);
-        answerMap.put("onlyDBpediaObject", 0);
-        answerMap.put("onlyDBpediaSubject", 0);
-        answerMap.put("onlyStanford", 0);
-        answerMap.put("literalAsObject", 0);
+    public HashMap<String,String> getEvaluation() {
+        HashMap<String,String> answerMap = new HashMap<String,String>();
+        HashMap<String,Integer> calcMap = new HashMap<String,Integer>();
+        calcMap.put("onlyDBpedia", 0);
+        calcMap.put("onlyDBpediaObject", 0);
+        calcMap.put("onlyDBpediaSubject", 0);
+        calcMap.put("onlyStanford", 0);
+        calcMap.put("literalAsObject", 0);
         if(mappedExtractedTriples == null) {
             return answerMap;
         }
@@ -197,23 +200,28 @@ public class AnnotationCombiner {
             Statement currentStatement = statementIterator.nextStatement();
             RDFNode object = currentStatement.getObject();
             if (object.isLiteral()){
-                answerMap.put("literalAsObject",(answerMap.get("literalAsObject")+1));
+                calcMap.put("literalAsObject", (calcMap.get("literalAsObject") + 1));
             } else {
                 if (currentStatement.getSubject().getURI().startsWith("http://dbpedia")) {
                     if (object.asResource().getURI().startsWith("http://dbpedia")) {
-                        answerMap.put("onlyDBpedia",(answerMap.get("onlyDBpedia")+1));
+                        calcMap.put("onlyDBpedia", (calcMap.get("onlyDBpedia") + 1));
                     } else {
-                        answerMap.put("onlyDBpediaSubject", (answerMap.get("onlyDBpediaSubject") + 1));
+                        calcMap.put("onlyDBpediaSubject", (calcMap.get("onlyDBpediaSubject") + 1));
                     }
                 } else {
-                    if (currentStatement.getSubject().getURI().startsWith("http://dbpedia")) {
-                        answerMap.put("onlyDBpediaObject", (answerMap.get("onlyDBpediaObject") + 1));
+                    if (currentStatement.getObject().asResource().getURI().startsWith("http://dbpedia")) {
+                        calcMap.put("onlyDBpediaObject", (calcMap.get("onlyDBpediaObject") + 1));
                     } else {
-                        answerMap.put("onlyStanford", (answerMap.get("onlyStanford") + 1));
+                        calcMap.put("onlyStanford", (calcMap.get("onlyStanford") + 1));
                     }
                 }
             }
         }
+        for (Map.Entry<String, Integer> entry: calcMap.entrySet()) {
+                answerMap.put(entry.getKey(), entry.getValue().toString());
+        }
+
+
         return answerMap;
     }
 }

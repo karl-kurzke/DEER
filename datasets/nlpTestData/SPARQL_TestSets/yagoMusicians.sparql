@@ -1,0 +1,10 @@
+PREFIX dbpedia: <http://dbpedia.org/ontology/>
+PREFIX yago: <http://dbpedia.org/class/yago/>
+CONSTRUCT {
+  ?adReg  dbpedia:abstract ?abstract.
+}
+WHERE {?adReg a yago:Musician110339966 .
+    ?adReg dbpedia:abstract ?abstract .
+    FILTER (lang(?abstract) = "en") .
+}
+LIMIT 1000
