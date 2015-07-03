@@ -46,15 +46,13 @@ public class SPECS {
 	public static final Resource DereferencingModule 			= resource( "DereferencingModule" );
 	public static final Resource LinkingModule 					= resource( "LinkingModule" );
 	public static final Resource NLPModule 						= resource( "NLPModule" );
-	public static final Resource SpotlightModule 				= resource( "SpotlightModule" );
-	public static final Resource StanfordModule 				= resource( "StanfordModule" );
+	public static final Resource MultipleExtractorNLPModule     = resource( "MultipleExtractorNLPModule" );
 	public static final Resource FilterModule 					= resource( "FilterModule" );
 	public static final Resource AuthorityConformationModule	= resource( "AuthorityConformationModule" );
 	public static final Resource PredicateConformationModule	= resource( "PredicateConformationModule" );
 	public static final Resource ModuleParameter 				= resource( "ModuleParameter" );
 	public static final Resource NLPModuleParameter 			= resource( "NLPModuleParameter" );
-	public static final Resource SpotlightModuleParameter 		= resource( "SpotlightModuleParameter" );
-	public static final Resource StanfordModuleParameter 		= resource( "StanfordModuleParameter" );
+	public static final Resource MultipleExtractorNLPModuleParameter  = resource( "MultipleExtractorNLPModuleParameter" );
 	public static final Resource DereferencingModuleParameter	= resource( "DereferencingModuleParameter" );
 	public static final Resource LinkingModuleParameter 		= resource( "linkingModuleParameter" );
 	public static final Resource FilterModuleParameter 			= resource( "FilterModuleParameter" );

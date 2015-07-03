@@ -18,6 +18,7 @@ import org.aksw.deer.modules.Dereferencing.DereferencingModule;
 import org.aksw.deer.modules.authorityconformation.AuthorityConformationModule;
 import org.aksw.deer.modules.filter.FilterModule;
 import org.aksw.deer.modules.linking.LinkingModule;
+import org.aksw.deer.modules.nlp.MultipleExtractorNLPModule;
 import org.aksw.deer.modules.nlp.NLPModule;
 import org.aksw.deer.modules.nlp.SpotlightModule;
 import org.aksw.deer.modules.nlp.StanfordModule;
@@ -104,13 +105,8 @@ public class RDFConfigExecuter {
 				enrichedModel = enricher.process(inputDatasets.get(0), moduleParameters);
 				return enrichedModel;
 			}
-			if(type.equals(SPECS.SpotlightModule)){
-				SpotlightModule enricher = new SpotlightModule();
-				enrichedModel = enricher.process(inputDatasets.get(0), moduleParameters);
-				return enrichedModel;
-			}
-			if(type.equals(SPECS.StanfordModule)){
-				StanfordModule enricher = new StanfordModule();
+			if(type.equals(SPECS.MultipleExtractorNLPModule)){
+				MultipleExtractorNLPModule enricher = new MultipleExtractorNLPModule();
 				enrichedModel = enricher.process(inputDatasets.get(0), moduleParameters);
 				return enrichedModel;
 			}

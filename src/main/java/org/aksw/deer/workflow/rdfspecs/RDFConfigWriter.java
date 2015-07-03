@@ -12,6 +12,7 @@ import org.aksw.deer.modules.Dereferencing.DereferencingModule;
 import org.aksw.deer.modules.authorityconformation.AuthorityConformationModule;
 import org.aksw.deer.modules.filter.FilterModule;
 import org.aksw.deer.modules.linking.LinkingModule;
+import org.aksw.deer.modules.nlp.MultipleExtractorNLPModule;
 import org.aksw.deer.modules.nlp.NLPModule;
 import org.aksw.deer.modules.nlp.SpotlightModule;
 import org.aksw.deer.modules.nlp.StanfordModule;
@@ -88,18 +89,13 @@ public class RDFConfigWriter{
 			config.add(s, RDF.type, SPECS.NLPModule);
 			parameterType = SPECS.NLPModuleParameter;
 		}
-		else if(module instanceof SpotlightModule){
-			s = ResourceFactory.createResource(SPECS.uri + "spotlight_module_" + moduleNr++);
+		else if(module instanceof MultipleExtractorNLPModule){
+			s = ResourceFactory.createResource(SPECS.uri + "multiple_extractor_nlp_module_" + moduleNr++);
 			config.add(s, RDF.type, SPECS.Module);
-			config.add(s, RDF.type, SPECS.SpotlightModule);
-			parameterType = SPECS.SpotlightModuleParameter;
+			config.add(s, RDF.type, SPECS.MultipleExtractorNLPModule);
+			parameterType = SPECS.MultipleExtractorNLPModuleParameter;
 		}
-		else if(module instanceof StanfordModule){
-			s = ResourceFactory.createResource(SPECS.uri + "stanford_module_" + moduleNr++);
-			config.add(s, RDF.type, SPECS.Module);
-			config.add(s, RDF.type, SPECS.StanfordModule);
-			parameterType = SPECS.StanfordModuleParameter;
-		}else{
+		else{
 			logger.error("Module " + module.getClass().getName() + " NOT implemented yet!, Exit with error.");
 			System.exit(1);
 		}

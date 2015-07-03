@@ -3,6 +3,7 @@ package org.aksw.deer.modules.nlp.evaluation;
 import com.hp.hpl.jena.query.*;
 import com.hp.hpl.jena.rdf.model.*;
 import org.aksw.deer.io.Reader;
+import org.aksw.deer.modules.nlp.MultipleExtractorNLPModule;
 import org.aksw.deer.modules.nlp.SpotlightModule;
 import org.aksw.deer.modules.nlp.StanfordModule;
 
@@ -39,97 +40,100 @@ public class NLPEvaluation {
     }
     static void runEvaluation(String testFilename, String resultDir) {
         String modelFile = "datasets/6/input.ttl";
-        modelFile = "datasets/6/testModelProcess.ttl";
+//        modelFile = "datasets/6/testModelProcess.ttl";
 //        modelFile = "datasets/nlpTestData/drugbank_dump.ttl";
-//        modelFile = "datasets/nlpTestData/jamendo-rdf/jamendo.rdf";
-        modelFile =                             "datasets/nlpTestData/dbpedia_AdministrativeRegion25.ttl";
-        modelFile = testFilename;
-//        String outputFileSpotlight =            "datasets/nlpTestData/spotlightReturnData.ttl";
-//        String outputFileExtractedTriples =     "datasets/nlpTestData/extractedTriples.ttl";
-//        String ergebnisFilename =               "datasets/nlpTestData/Ergebnisse.txt";
-        String outputFileExtractedTriples =     resultDir + "extractedRelations.ttl";
-        String outputModelfilename =            resultDir + "outputmodel.ttl";
-        String ergebnisFilename =               resultDir + "resultAnalyses.txt";
-
+////        modelFile = "datasets/nlpTestData/jamendo-rdf/jamendo.rdf";
+        modelFile =                             "datasets/nlpTestData/dbpedia_AdministrativeRegion4.ttl";
+//        modelFile = testFilename;
+////        String outputFileSpotlight =            "datasets/nlpTestData/spotlightReturnData.ttl";
+////        String outputFileExtractedTriples =     "datasets/nlpTestData/extractedTriples.ttl";
+////        String ergebnisFilename =               "datasets/nlpTestData/Ergebnisse.txt";
+//        String outputFileExtractedTriples =     resultDir + "extractedRelations.ttl";
+        String outputModelfilename =           "outputmodel.ttl";
+//        String ergebnisFilename =               resultDir + "resultAnalyses.txt";
+//
         HashMap<String, String> settings = new HashMap<String, String>();
-//        settings.put("literalProperty", "http://purl.org/ontology/mo/biography");
+////        settings.put("literalProperty", "http://purl.org/ontology/mo/biography");
         settings.put("literalProperty", "http://dbpedia.org/ontology/abstract");
         Model modelForEvaluation = Reader.readModel(modelFile);
-        Integer triplesBefore = NLPEvaluation.getNumberOfTriples(modelForEvaluation);
-
-        //Spotlight
-        SpotlightModule spotMod = new SpotlightModule();
-        Model spotLightModel = spotMod.process(modelForEvaluation, settings);
-        System.out.println("XXX Evaluation got model from spotlight");
-        Integer triplesAfterSpotlight = NLPEvaluation.getNumberOfTriples(spotLightModel);
-        System.out.println("XXX Evaluation got number of triples");
-        Integer newTriplesFromSpotlight = (triplesAfterSpotlight - triplesBefore);
-
-        System.out.println("Spotlight finished");
-//        FileWriter outFile = null;
-//        try {
-//            outFile = new FileWriter(outputFileSpotlight);
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-//        spotLightModel.write(outFile, "TURTLE");
-        System.out.println("Spotlight model not written in file");
-        String report = "Number Of Triples before Extraction: " +
-                triplesBefore.toString() +
-                "\nNew Triples after SpotlightExtraction with annotation blank nodes: " +
-                newTriplesFromSpotlight.toString() +
-                "\nNumber of extracted Entities with spotlight nominal: "  +
-                spotMod.getNumberOfExtractedEntities().toString() +
-                "\nNumber of extracted Entities with spotlight distinct: " +
-                spotMod.getNumberOfDistinctExtractedEntities();
-        try {
-            Files.write(Paths.get(ergebnisFilename), report.getBytes());
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-
-
-
-        //Stanford Module
-        StanfordModule stanMod = new StanfordModule();
-        Model stanfordModel = stanMod.process(spotLightModel, settings);
-        Integer triplesAfterStanford = NLPEvaluation.getNumberOfTriples(stanfordModel);
-
-
-        //Export extracted Triples for further analyses
-        FileWriter outFileExtractedTriples = null;
-        try {
-            outFileExtractedTriples = new FileWriter(outputFileExtractedTriples);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-//        stanMod.getExtractedTriple().write(outFileExtractedTriples, "TURTLE");
-        stanMod.getMappedExtractedTriples().write(outFileExtractedTriples, "TURTLE");
-
-        HashMap<String, Integer> statementAnalyse = stanMod.getStatementAnalyse();
-        report += "\nStatement Analyse: ";
-        report += statementAnalyse.toString();
-
-        report += "\n Triples after StanfordExtraction: " +
-                triplesAfterStanford.toString();
-
-
-        report += "\nDouble Triples through StanfordExtraction: " +
-                stanMod.getNumberOfDoubleExtraction();
-        try {
-            Files.write(Paths.get(ergebnisFilename), report.getBytes());
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+//        Integer triplesBefore = NLPEvaluation.getNumberOfTriples(modelForEvaluation);
+//
+        //Extraction
+        MultipleExtractorNLPModule extractor = new MultipleExtractorNLPModule();
+        Model enrichedModel = extractor.process(modelForEvaluation, settings);
         //save result model
         FileWriter outFileForModel = null;
         try {
-            outFileExtractedTriples = new FileWriter(outputModelfilename);
+            outFileForModel = new FileWriter(outputModelfilename);
         } catch (IOException e) {
             e.printStackTrace();
         }
-//        stanMod.getExtractedTriple().write(outFileExtractedTriples, "TURTLE");
-        stanfordModel.write(outFileExtractedTriples, "TURTLE");
+        enrichedModel.write(outFileForModel, "TURTLE");
+////        stanMod.getExtractedTriple().write(outFileExtractedTriples, "TURTLE");
+//        stanfordModel.write(outFileExtractedTriples, "TURTLE");
+        ;
+//        System.out.println("XXX Evaluation got model from spotlight");
+//        Integer triplesAfterSpotlight = NLPEvaluation.getNumberOfTriples(spotLightModel);
+//        System.out.println("XXX Evaluation got number of triples");
+//        Integer newTriplesFromSpotlight = (triplesAfterSpotlight - triplesBefore);
+//
+//        System.out.println("Spotlight finished");
+////        FileWriter outFile = null;
+////        try {
+////            outFile = new FileWriter(outputFileSpotlight);
+////        } catch (IOException e) {
+////            e.printStackTrace();
+////        }
+////        spotLightModel.write(outFile, "TURTLE");
+//        System.out.println("Spotlight model not written in file");
+//        String report = "Number Of Triples before Extraction: " +
+//                triplesBefore.toString() +
+//                "\nNew Triples after SpotlightExtraction with annotation blank nodes: " +
+//                newTriplesFromSpotlight.toString() +
+//                "\nNumber of extracted Entities with spotlight nominal: "  +
+//                spotMod.getNumberOfExtractedEntities().toString() +
+//                "\nNumber of extracted Entities with spotlight distinct: " +
+//                spotMod.getNumberOfDistinctExtractedEntities();
+//        try {
+//            Files.write(Paths.get(ergebnisFilename), report.getBytes());
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
+//
+//
+//
+//        //Stanford Module
+//        StanfordModule stanMod = new StanfordModule();
+//        Model stanfordModel = stanMod.process(spotLightModel, settings);
+//        Integer triplesAfterStanford = NLPEvaluation.getNumberOfTriples(stanfordModel);
+//
+//
+//        //Export extracted Triples for further analyses
+//        FileWriter outFileExtractedTriples = null;
+//        try {
+//            outFileExtractedTriples = new FileWriter(outputFileExtractedTriples);
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+////        stanMod.getExtractedTriple().write(outFileExtractedTriples, "TURTLE");
+//        stanMod.getMappedExtractedTriples().write(outFileExtractedTriples, "TURTLE");
+//
+//        HashMap<String, Integer> statementAnalyse = stanMod.getStatementAnalyse();
+//        report += "\nStatement Analyse: ";
+//        report += statementAnalyse.toString();
+//
+//        report += "\n Triples after StanfordExtraction: " +
+//                triplesAfterStanford.toString();
+//
+//
+//        report += "\nDouble Triples through StanfordExtraction: " +
+//                stanMod.getNumberOfDoubleExtraction();
+//        try {
+//            Files.write(Paths.get(ergebnisFilename), report.getBytes());
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
+//
 
 
     }
