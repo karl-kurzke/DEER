@@ -1,4 +1,0 @@
-Number Of Triples before Extraction: 25
-New Triples after SpotlightExtraction: 279
-Number of extracted Entities with spotlight nominal: 34
-Number of extracted Entities with spotlight distinct: 16
