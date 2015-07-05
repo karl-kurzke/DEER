@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Albertet_Cailla>
+        <http://dbpedia.org/ontology/abstract>
+                "Albertet \"Albert\" Cailla or Calha was an Albigeois jongleur and troubadour. According to his vida he was \"of slight worth\" but beloved by his neighbours and the local women. His vida says that he composed one good canso and several sirventes, but only one partimen survives. Unusually for a troubadour, he never left the Albigeois. There is a tenso on the merits of old and young women which is ascribed to Albertet in at least two chansonniers, MSS I and K."@en .
+
+<http://ns.aksw.org/scms/annotations/stanford/Albigeois>
+        a       <http://ns.aksw.org/scms/annotations/stanford/O> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Albertet>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Albigeois> .

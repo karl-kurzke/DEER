@@ -1,0 +1,19 @@
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Felipe,_Venezuela>
+        <http://dbpedia.org/ontology/abstract>
+                "The Roman Catholic Diocese of San Felipe (Latin: Dioecesis Sancti Philippi in Venetiola) is a diocese located in the city of San Felipe in the Ecclesiastical province of Barquisimeto in Venezuela."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Ecclesiastical_Latin> , <http://dbpedia.org/resource/Caesarea_Philippi> , <http://dbpedia.org/resource/Diocese> , <http://dbpedia.org/resource/Ecclesiastical_province> , <http://dbpedia.org/resource/Barquisimeto> , <http://dbpedia.org/resource/Venezuela> .
+
+<http://dbpedia.org/resource/Barquisimeto>
+        a       <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Venezuela>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Philippi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Philippi>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://dbpedia.org/resource/Ecclesiastical_Latin>
+        a       <http://dbpedia.org/ontology/Language> .

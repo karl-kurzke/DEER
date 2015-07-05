@@ -1,0 +1,17 @@
+<http://dbpedia.org/resource/Cinnamomum_camphora>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://dbpedia.org/resource/Rainforest>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Sassafras>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Soil>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Cinnamomum_virens>
+        <http://dbpedia.org/ontology/abstract>
+                "Cinnamomum virens is a rainforest tree growing in the eastern coastal parts of Australia. Common names include Red-barked sassafras, Black Sassafras, Camphorwood, Scentless Cinnamon Wood and Native Camphor Laurel. The habitat is between the Williams River (New South Wales) and the Main Range National Park in Queensland. Growing in rich volcanic soils or on the poorer sedimentary soils, often in association with the Coachwood."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Rainforest> , <http://dbpedia.org/resource/Tree> , <http://dbpedia.org/resource/Sassafras> , <http://dbpedia.org/resource/Cinnamomum_camphora> , <http://dbpedia.org/resource/Woodland> , <http://dbpedia.org/resource/Soil> .

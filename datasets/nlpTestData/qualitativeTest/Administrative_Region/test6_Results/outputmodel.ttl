@@ -1,0 +1,22 @@
+<http://ns.aksw.org/scms/annotations/stanford/Corfu>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://dbpedia.org/resource/Corfu_%28city%29>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/Modern_Greek>
+        a       <http://dbpedia.org/ontology/Language> .
+
+<http://dbpedia.org/resource/Municipality>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Greece>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Perivoli,_Corfu>
+        <http://dbpedia.org/ontology/abstract>
+                "Perivoli (Greek: Περιβόλι) is a village in the southern part of the island of Corfu, Greece. It is part of the municipal unit of Korissia. In 2001 its population was 1406 for the village, and 1429 for the community, including the village Potamia. Perivoli is 1 km northwest of Vitalades, 4 km west of Lefkimmi, 4 km southeast of Argyrades and 24 km south of the city of Corfu. The Greek National Road 25 (Corfu - Argyrades - Lefkimmi) passes through the village. The small fishing port Kalyviotis is to the north, and the Agia Varvara beach is to the southwest."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Modern_Greek> , <http://dbpedia.org/resource/Village> , <http://dbpedia.org/resource/Greece> , <http://dbpedia.org/resource/Municipality> , <http://dbpedia.org/resource/Community_%28Wales%29> , <http://dbpedia.org/resource/Corfu_%28city%29> .

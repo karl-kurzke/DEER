@@ -1,0 +1,20 @@
+<http://dbpedia.org/resource/Kranea,_Grevena>
+        <http://dbpedia.org/ontology/abstract>
+                "Kranea or Krania (Greek: Κρανέα or Κρανιά, Aromanian: Turia) is an Aromanian village and a community of the Grevena municipality. Before the 2011 local government reform it was a part of the municipality of Gorgiani, of which it was a municipal district. The 2011 census recorded 385 residents in the village. The community of Kranea covers an area of 70.929 km2."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Census> , <http://dbpedia.org/resource/Village> , <http://dbpedia.org/resource/Area> , <http://dbpedia.org/resource/Municipality> , <http://dbpedia.org/resource/Municipal_district> , <http://dbpedia.org/resource/Square_kilometre> , <http://dbpedia.org/resource/Local_government> , <http://dbpedia.org/resource/Aromanians> , <http://dbpedia.org/resource/Grevena> , <http://dbpedia.org/resource/Community_%28Wales%29> .
+
+<http://dbpedia.org/resource/Grevena>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/Area>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Municipality>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Census>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Local_government>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .

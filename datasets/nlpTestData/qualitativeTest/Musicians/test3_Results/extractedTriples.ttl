@@ -1,0 +1,3 @@
+<http://ns.aksw.org/scms/annotations/stanford/1966>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/McFadden> .

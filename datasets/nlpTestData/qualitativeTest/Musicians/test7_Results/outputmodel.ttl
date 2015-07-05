@@ -1,0 +1,30 @@
+<http://dbpedia.org/resource/Valentin_Serov>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Russians> .
+
+<http://dbpedia.org/resource/Alexander_Serov>
+        <http://dbpedia.org/ontology/abstract>
+                "Alexander Nikolayevich Serov (Russian: Алекса́ндр Никола́евич Серо́в, Saint Petersburg, 23 January [O.S. 11 January] 1820 – Saint Petersburg, 1 February [O.S. 20 January] 1871) was a Russian composer and music critic. He is notable as one of the most important music critics in Russia during the 1850s and 1860s and as the most significant Russian composer of opera in the period between Dargomyzhsky's Rusalka and the early operas by Cui, Rimsky-Korsakov, Mussorgsky, and Tchaikovsky.Alexander Serov was the father of Russian artist Valentin Serov."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/January_20> , <http://dbpedia.org/resource/January_23> , <http://dbpedia.org/resource/Periodic_table> , <http://dbpedia.org/resource/January_11> , <http://dbpedia.org/resource/Rusalka_%28opera%29> , <http://dbpedia.org/resource/C%C3%A9sar_Cui> , <http://dbpedia.org/resource/Music_journalism> , <http://dbpedia.org/resource/Modest_Mussorgsky> , <http://dbpedia.org/resource/Russians> , <http://dbpedia.org/resource/February_1> , <http://dbpedia.org/resource/Nikolai_Rimsky-Korsakov> , <http://dbpedia.org/resource/Saint_Petersburg> , <http://dbpedia.org/resource/Alexander_Dargomyzhsky> , <http://dbpedia.org/resource/Alexander_Serov> , <http://dbpedia.org/resource/Pyotr_Ilyich_Tchaikovsky> , <http://dbpedia.org/resource/Artist> , <http://dbpedia.org/resource/Russian_Empire> , <http://dbpedia.org/resource/Music_criticism> , <http://dbpedia.org/resource/Composer> , <http://dbpedia.org/resource/Opera> , <http://dbpedia.org/resource/Priest> , <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://dbpedia.org/resource/Music_journalism>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Pyotr_Ilyich_Tchaikovsky>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Periodic_table>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Saint_Petersburg>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Russian_Empire>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Nikolai_Rimsky-Korsakov>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Composer>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .

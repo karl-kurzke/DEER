@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/East_Jerusalem>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Yaakov> .

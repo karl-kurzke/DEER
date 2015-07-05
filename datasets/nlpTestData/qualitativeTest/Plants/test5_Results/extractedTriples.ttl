@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Mexico>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/North_America> .

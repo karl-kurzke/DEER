@@ -1,0 +1,3 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Opuntia_robusta	dbpedia-owl:abstract	"Opuntia robusta, Wheel Cactus or Camuesa, is a species of cactus in the Cactaceae family. It is native and endemic to Mexico, North America."@en .

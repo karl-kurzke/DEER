@@ -1,0 +1,3 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Vaccinium_erythrocarpum	dbpedia-owl:abstract	"Southern mountain cranberry, Vaccinium erythrocarpum \u2013 also commonly known as bearberry, arando, and dingleberry \u2013 is a type of cranberry native to the Southeastern United States. Vaccinium erythrocarpum is a deciduous shrub. Its flowers bloom in June; the individual flowers are hermaphrodite and are pollinated by insects. They produce scarlet, transparent berries.It grows in woodlands and areas of dappled shade. It is also known under the synonym Oxycoccus erythrocarpus."@en .

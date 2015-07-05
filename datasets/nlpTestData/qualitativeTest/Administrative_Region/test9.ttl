@@ -1,0 +1,3 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Felipe,_Venezuela>	dbpedia-owl:abstract	"The Roman Catholic Diocese of San Felipe (Latin: Dioecesis Sancti Philippi in Venetiola) is a diocese located in the city of San Felipe in the Ecclesiastical province of Barquisimeto in Venezuela."@en .

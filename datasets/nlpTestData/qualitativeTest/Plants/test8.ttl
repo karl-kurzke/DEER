@@ -1,0 +1,3 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Cinnamomum_virens	dbpedia-owl:abstract	"Cinnamomum virens is a rainforest tree growing in the eastern coastal parts of Australia. Common names include Red-barked sassafras, Black Sassafras, Camphorwood, Scentless Cinnamon Wood and Native Camphor Laurel. The habitat is between the Williams River (New South Wales) and the Main Range National Park in Queensland. Growing in rich volcanic soils or on the poorer sedimentary soils, often in association with the Coachwood."@en .

@@ -1,0 +1,3 @@
+<http://ns.aksw.org/scms/annotations/stanford/Leonardo>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Paul_Mac> .

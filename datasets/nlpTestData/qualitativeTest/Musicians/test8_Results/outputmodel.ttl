@@ -1,0 +1,67 @@
+<http://dbpedia.org/resource/Sun_Records>
+        a       <http://dbpedia.org/ontology/RecordLabel> , <http://dbpedia.org/ontology/Company> , <http://dbpedia.org/ontology/Organisation> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Pop_music>
+        a       <http://dbpedia.org/ontology/MusicGenre> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Jazz>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/The_Killers>
+        a       <http://dbpedia.org/ontology/Band> , <http://dbpedia.org/ontology/Organisation> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Telstar_%28song%29>
+        a       <http://dbpedia.org/ontology/Single> .
+
+<http://ns.aksw.org/scms/annotations/stanford/French>
+        a       <http://ns.aksw.org/scms/annotations/stanford/O> .
+
+<http://dbpedia.org/resource/The_Strokes>
+        a       <http://dbpedia.org/ontology/Band> , <http://dbpedia.org/ontology/Organisation> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Popular_music>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Cabaret>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Andrzej_Zaucha_(singer)>
+        <http://dbpedia.org/ontology/abstract>
+                "Andrzej Zaucha (Polish pronunciation: [andʐɛj zauxa]) (12 January 1949 – 10 October 1991) was a Polish singer (jazz, rock, jazz-rock, pop), actor.Zaucha was born in Kraków. He was shot and killed there at the age of 42, by French film director, Yves Goulais, along with Goulais's ex-wife Zuzanna Lesniak-Goulais, whom he suspected of having an affair with Zaucha.In his youth he trained canoeing. Polish championship in 1963, led by the foursome won a bronze medal in the junior category. In 1964, he won gold medals in the Polish Junior Championships in a single room and four.Musically, he made his debut as a drummer in an amateur band fiends . Later, he became a soloist of the group Telstar . In the years 1968-1971 he was the lead singer jazzrock Dżamble groups (including the song \" I figured you \", the album Cry of the sun over the world ) . Occurred to her, among others, SFJ Jazz on the Odra River in Wroclaw 69 .In 1971 he became involved with the team Anawa, with whom he recorded the LP Anawa .In the years 1973-1979 he sang and played in bands entertainment abroad. Since 1980, he performed solo in music. He collaborated with jazz musicians, including Jaroslaw Cream, Michał Urbaniak and John Ptaszyn Wroblewski, and traditional jazz bands Old Metropolitan Band as a drummer, Beale Street Band and Playing Family as a singer .With Big Band Wieslaw Pieregorólki Andrzej Zaucha recorded the album, released by Muse . Was also associated with rock bands - Doctor Q Group ( CD All creatures big and small) and a square. He has made numerous recordings for Polish Radio archives, recordings and for the film . He appeared in cameo roles in the films Love of the charts (dir. Marek Nowicki ), Special Mission (directed by Janusz Rzeszewski ) and three days without judgment (dir. Wojciech Wojcik ) . He played in the buffet - Kur crowed opera (music by John Edges Pawluskiewicz, libretto by Wieslaw smoky ), śpiewogrze -plated braid (music Katarzyna Gaertner, libr . T. Kijonka ) and musical Pan Twardowski (music Janusz Grzywacz, libr . Krzysztof Jasinski )After the performance at the Festival in Opole in 1988, has become one of the biggest stars of popular music in Poland [ 3]. His popular songs are: \" Black Alibaba \" from the repertoire of Helena Majdaniec, \" C'est la vie - Paris postcard \", \" You were the beating heart \", \"Be my inspiration \", \" seventh year\", \"Play with dolls \", \" Interview with Jędrkiem \" - recorded together with Andrzej Sikorowskim and song from the repertoire of Eugeniusz Bodo \" Baby , oh, those baby \" recorded together with Richard Rynkowski . With a team of Sickness recorded three songs : \"Love Man\", \" Szlaufik Blues \" and \" Blues for getting up early \", which appeared on the album Sickness \" Skiba \" .It is the individual winner for the best singer in the SFJ Jazz on the Odra '69, honors in the show premieres on KFPP Opole '89 for the song \" The miracle in the dance hall \", awards Mayor of Opole Opole '89 at KFPP for outstanding achievement in the performance of the songs.In the early 90s he co-founded, together with Andrzej Krzysztof Piasecki Sikorowskim and cabaret entertainer \" Sami \".Zaucha wife Elizabeth died August 31, 1989 as a result of stroke.Zaucha died a tragic death . October 10, 1991 after a performance in Kraków STU Theatre scene, the artist was fatally shot along with actress Zuzanna Lesniak on street parking Włóczków in Cracow, by her husband - French director Yves Goulais . Motive for the murder was jealousy of his wife. Killer gave nine shots from a gun . Zaucha died on the spot, Susanna died in an ambulance .Andrzej Zaucha was buried in the cemetery in Kraków Batowickim"@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Broadway_theatre> , <http://dbpedia.org/resource/1997_in_music> , <http://dbpedia.org/resource/Drummer> , <http://dbpedia.org/resource/Death_metal> , <http://dbpedia.org/resource/Jazz_fusion> , <http://dbpedia.org/resource/Telstar_%28song%29> , <http://dbpedia.org/resource/Blues> , <http://dbpedia.org/resource/Musical_ensemble> , <http://dbpedia.org/resource/The_Strokes> , <http://dbpedia.org/resource/Big_band> , <http://dbpedia.org/resource/Popular_music> , <http://dbpedia.org/resource/Song> , <http://dbpedia.org/resource/Repertoire_Records> , <http://dbpedia.org/resource/Album> , <http://dbpedia.org/resource/Krzysztof_Penderecki> , <http://dbpedia.org/resource/Solo_%28music%29> , <http://dbpedia.org/resource/Cabaret> , <http://dbpedia.org/resource/Pop_music> , <http://dbpedia.org/resource/Sun_Records> , <http://dbpedia.org/resource/Jazz> , <http://dbpedia.org/resource/Musician> , <http://dbpedia.org/resource/Musical_composition> , <http://dbpedia.org/resource/The_Killers> , <http://dbpedia.org/resource/Music> , <http://dbpedia.org/resource/Muse_%28band%29> , <http://dbpedia.org/resource/Opera> , <http://dbpedia.org/resource/Rock_music> , <http://dbpedia.org/resource/Singer> .
+
+<http://dbpedia.org/resource/Jazz_fusion>
+        a       <http://dbpedia.org/ontology/MusicGenre> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Broadway_theatre>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Music>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Yves_Goulais>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/French> .
+
+<http://dbpedia.org/resource/Musical_composition>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Death_metal>
+        a       <http://dbpedia.org/ontology/MusicGenre> .
+
+<http://dbpedia.org/resource/Big_band>
+        a       <http://dbpedia.org/ontology/MusicGenre> .
+
+<http://dbpedia.org/resource/Muse_%28band%29>
+        a       <http://dbpedia.org/ontology/Band> , <http://dbpedia.org/ontology/Organisation> .
+
+<http://dbpedia.org/resource/Blues>
+        a       <http://dbpedia.org/ontology/MusicGenre> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Album>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Rock_music>
+        a       <http://dbpedia.org/ontology/MusicGenre> , <http://dbpedia.org/ontology/TopicalConcept> .

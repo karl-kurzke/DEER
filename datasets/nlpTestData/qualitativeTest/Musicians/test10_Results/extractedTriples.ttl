@@ -1,0 +1,3 @@
+<http://ns.aksw.org/scms/annotations/stanford/one>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mexico> .

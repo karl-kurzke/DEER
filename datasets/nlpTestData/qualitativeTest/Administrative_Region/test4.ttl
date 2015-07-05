@@ -1,0 +1,3 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Kranea	dbpedia-owl:abstract	"Kranea (Greek: \u039A\u03C1\u03B1\u03BD\u03AD\u03B1) is an Aromanian village and a former community in the Preveza regional unit, Epirus, Greece. Since the 2011 local government reform it is part of the municipality Ziros, of which it is a municipal unit. Population 1,052 (2001)."@en .

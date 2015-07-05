@@ -1,0 +1,22 @@
+<http://dbpedia.org/resource/Ortega_(grape)>
+        <http://dbpedia.org/ontology/abstract>
+                "Ortega is a grape variety used for white wine. It was created in 1948 by Hans Breider at the Bayerischen Landesanstalt für Wein-, Obst- und Gartenbau in Würzburg and was released with varietal protection in 1981. It is a cross between Müller-Thurgau and Siegerrebe. Breider chose to name the variety in honour of the Spanish poet and philosopher José Ortega y Gasset.Ortega ripens early, is not sensitive to frost and reaches quite high must weights, typically 20 degrees Oechsle higher than Müller-Thurgau. It is therefore often used for sweet wines, which are considered to improve with cellaring. Ortega wines have aromas of Muscat and peach and are high in extract.Ortega is also used as a table grape.In 2006, there were 686 hectares (1,700 acres) of Ortega in Germany, with a decreasing tendency. It is also found in England."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Peach> , <http://dbpedia.org/resource/Sweetness_of_wine> , <http://dbpedia.org/resource/German_wine> , <http://dbpedia.org/resource/Wine> , <http://dbpedia.org/resource/M%C3%BCller-Thurgau> , <http://dbpedia.org/resource/Variety_%28botany%29> , <http://dbpedia.org/resource/Hectare> , <http://dbpedia.org/resource/Varietal> , <http://dbpedia.org/resource/Jos%C3%A9_Ortega_y_Gasset> , <http://dbpedia.org/resource/Grape> , <http://dbpedia.org/resource/Spanish_wine> , <http://dbpedia.org/resource/Frost> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ortega>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/German_wine> .
+
+<http://dbpedia.org/resource/Peach>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://dbpedia.org/resource/Jos%C3%A9_Ortega_y_Gasset>
+        a       <http://dbpedia.org/ontology/Philosopher> , <http://dbpedia.org/ontology/Person> .
+
+<http://dbpedia.org/resource/Wine>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/M%C3%BCller-Thurgau>
+        a       <http://dbpedia.org/ontology/Grape> , <http://dbpedia.org/ontology/FloweringPlant> , <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .

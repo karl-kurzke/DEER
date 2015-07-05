@@ -66,10 +66,13 @@ public class MultipleExtractorNLPModule implements DeerModule{
     public HashMap<String, HashMap<String,String>> getEvaluation(){
         HashMap<String, HashMap<String,String>> eval = new HashMap<String, HashMap<String, String>>();
         for (NLPExtractor oneExtractor: extractors) {
+            logger.info("Get Evaluation Info from: " + oneExtractor.getClass().getSimpleName());
             eval.put(oneExtractor.getClass().getSimpleName(), oneExtractor.getEvaluation());
+            logger.info("Got Evaluation Info from: " + oneExtractor.getClass().getSimpleName());
         }
-
+        logger.info("Get Evaluation Info from: " + annoComb.getClass().getSimpleName());
         eval.put(annoComb.getClass().getSimpleName(),  annoComb.getEvaluation());
+        logger.info("Got Evaluation Info from: " + annoComb.getClass().getSimpleName());
 
         return eval;
     }
@@ -266,9 +269,22 @@ public class MultipleExtractorNLPModule implements DeerModule{
 
 
         Model newModel = getNewTripleAsModel();
+        logger.info("combine model with Resultmodel");
+        logger.info("modelsize: " + new Long(model.size()).toString());
+        logger.info("new Triples size: " + new Long(newModel.size()).toString());
+        logger.info("Print Annotated Model with probably corrupt Entities in file. ");
 
-        model = ModelFactory.createUnion(model, newModel);
-
+        FileWriter outFileForExtractionModel = null;
+        try {
+            outFileForExtractionModel = new FileWriter("annotatedModel.txt");
+            newModel.write(outFileForExtractionModel, "TURTLE");
+            outFileForExtractionModel.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        model = model.union(newModel);
+        model.setNsPrefixes(newModel.getNsPrefixMap());
+        logger.info("End of combining");
 //		model.setNsPrefixes(newModel.getNsPrefixMap());
 
         if( parameters.containsKey(OUTPUT) && parameters.get(OUTPUT) != null){
@@ -322,7 +338,7 @@ public class MultipleExtractorNLPModule implements DeerModule{
         Integer counter = 0;
         while (stItr.hasNext()) {
 
-            if (counter % 100 == 0){
+            if (counter % 10 == 0){
                 logger.info(counter.toString() + " extractions done. ");
             }
             counter += 1;
@@ -336,18 +352,22 @@ public class MultipleExtractorNLPModule implements DeerModule{
 
                     Model enrichedModel = ModelFactory.createDefaultModel();
                     HashSet<String> extractorToUse = new HashSet<String>();
+
                     for(String ext: usedParam.get(USED_EXTRACTOR).split(",")){extractorToUse.add(ext.trim());}
                     for (NLPExtractor ext: extractors) {
 //                            logger.info(ext.getClass().getSimpleName());
                         if (extractorToUse.contains(ext.getClass().getSimpleName())) {
                             ext.addParams(usedParam);
-                            enrichedModel  = ModelFactory.createUnion(
-                                    ext.extractFromText((Resource) subject, currentLit),
-                                    enrichedModel);
+                            Model newExtractions = ext.extractFromText((Resource) subject, currentLit);
+                            enrichedModel = enrichedModel.union(newExtractions);
+                            enrichedModel.setNsPrefixes(newExtractions.getNsPrefixMap());
                         }
                     }
-                    enrichedModel = annoComb.combineAnnotation(enrichedModel, usedParam);
-                    resultModel = ModelFactory.createUnion(enrichedModel, resultModel);
+
+                    enrichedModel = annoComb.combineAnnotation(enrichedModel, usedParam, counter);
+
+                    resultModel = resultModel.union(enrichedModel);
+
 
                 }
             }catch (Exception e) {

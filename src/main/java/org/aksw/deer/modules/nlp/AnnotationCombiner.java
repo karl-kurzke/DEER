@@ -4,6 +4,8 @@ import com.hp.hpl.jena.query.*;
 import com.hp.hpl.jena.rdf.model.*;
 import org.apache.log4j.Logger;
 
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -52,10 +54,11 @@ public class AnnotationCombiner {
 
     public AnnotationCombiner(){
         this.usedParam = getDefaultParam();
+        this.initEvalInt();
     }
 
 
-    public Model combineAnnotation(Model annotatedModel, HashMap<String, String> props){
+    public Model combineAnnotation(Model annotatedModel, HashMap<String, String> props, Integer textCount){
         addParams(props);
 
         Property preferedAnnotation = ResourceFactory.createProperty(usedParam.get(PREFERED_ANNOTATION));
@@ -92,7 +95,7 @@ public class AnnotationCombiner {
                         "   FILTER (?entityToPrefere != ?entityToDelete)" +
                         "}\n ";
         Query query = QueryFactory.create(queryString);
-//			logger.info(queryString);
+
 //			extractedTriples = ModelFactory.createUnion(extractedTriples, annotatedModel);
         // Execute the query and obtain results
         QueryExecution qe = QueryExecutionFactory.create(query, annotatedModel);
@@ -100,8 +103,9 @@ public class AnnotationCombiner {
         //Delete all Annotations with entityToDelete as means
         List<QuerySolution> rows = ResultSetFormatter.toList(results);
         qe.close();
-//        logger.info("Number of Entities to Replace because of better Annotation: "
-//                + Integer.valueOf(rows.size()).toString());
+
+
+
         for (QuerySolution row:rows) {
             //Delete the type of the entityToDelete
             annotatedModel.remove(
@@ -109,6 +113,7 @@ public class AnnotationCombiner {
                     ResourceFactory.createProperty("http://www.w3.org/1999/02/22-rdf-syntax-ns#type"),
                     row.getResource("typeToDelete")
             );
+
             //Replace all Statements with entityToDelete as Object
             StmtIterator statementIterator = annotatedModel.listStatements(null, null, row.getResource("entityToDelete"));
             List<Statement> stmtList = new ArrayList<Statement>();
@@ -120,8 +125,14 @@ public class AnnotationCombiner {
                         row.getResource("entityToPrefere")
                 ));
                 annotatedModel.remove(stmtToDel);
+                //For Evaluation
+                if(evaluate) {
+                    if (stmtToDel.getPredicate().getURI().startsWith("http://ns.aksw.org/scms/annotations/stanford/")) {
+                        this.evalInt.put("DBpediaObjectRelations", this.evalInt.get("DBpediaObjectRelations") + 1);
+                    }
+                }
             }
-            //Replace all Statements with entityToDelete as Object
+            //Replace all Statements with entityToDelete as Subject
             statementIterator = annotatedModel.listStatements(row.getResource("entityToDelete"), null, (RDFNode) null);
             stmtList = new ArrayList<Statement>();
             while (statementIterator.hasNext()) {stmtList.add(statementIterator.nextStatement());}
@@ -132,12 +143,21 @@ public class AnnotationCombiner {
                         stmtToDel.getObject()
                 ));
                 annotatedModel.remove(stmtToDel);
+                if(evaluate) {
+                    if (stmtToDel.getPredicate().getURI().startsWith("http://ns.aksw.org/scms/annotations/stanford/")) {
+                        if (stmtToDel.getObject().asResource().getURI().startsWith("http://dbpedia.org")) {
+                            this.evalInt.put("DBpediaObjectRelations", this.evalInt.get("DBpediaObjectRelations") - 1);
+                            this.evalInt.put("DBpediaSubjectObjectRelations", this.evalInt.get("DBpediaSubjectObjectRelations") + 1);
+                        } else {
+                            this.evalInt.put("DBpediaSubjectRelations", this.evalInt.get("DBpediaSubjectRelations") + 1);
+                        }
+                    }
+                }
             }
             //Replace all Annotation, which are now not used any more
             row.getResource("annToFilter").removeProperties();
 
         }
-
 
     // if any Annotation have to be filtered do this.
         if (deleteAnnotations) {
@@ -156,9 +176,6 @@ public class AnnotationCombiner {
             addMappedExtractesTriplesFromModel(annotatedModel);
         }
 
-
-
-
         return annotatedModel;
     }
     // Evaluation things
@@ -174,7 +191,7 @@ public class AnnotationCombiner {
 
             Property currentProperty = currentStatement.getPredicate();
             if(currentProperty.getURI().startsWith("http://ns.aksw.org/scms/annotations/stanford/")) {
-
+                this.evalInt.put("numberOfRelations", this.evalInt.get("numberOfRelations")+1);
                 mappedExtractedTriples.add(currentStatement);
             }
         }
@@ -186,42 +203,54 @@ public class AnnotationCombiner {
 
     public HashMap<String,String> getEvaluation() {
         HashMap<String,String> answerMap = new HashMap<String,String>();
-        HashMap<String,Integer> calcMap = new HashMap<String,Integer>();
-        calcMap.put("onlyDBpedia", 0);
-        calcMap.put("onlyDBpediaObject", 0);
-        calcMap.put("onlyDBpediaSubject", 0);
-        calcMap.put("onlyStanford", 0);
-        calcMap.put("literalAsObject", 0);
-        if(mappedExtractedTriples == null) {
-            return answerMap;
+        for (Map.Entry<String, Integer> entry: this.evalInt.entrySet()) {
+            answerMap.put(entry.getKey(), entry.getValue().toString());
         }
-        StmtIterator statementIterator = mappedExtractedTriples.listStatements(null, null, (RDFNode) null);
-        while (statementIterator.hasNext()) {
-            Statement currentStatement = statementIterator.nextStatement();
-            RDFNode object = currentStatement.getObject();
-            if (object.isLiteral()){
-                calcMap.put("literalAsObject", (calcMap.get("literalAsObject") + 1));
-            } else {
-                if (currentStatement.getSubject().getURI().startsWith("http://dbpedia")) {
-                    if (object.asResource().getURI().startsWith("http://dbpedia")) {
-                        calcMap.put("onlyDBpedia", (calcMap.get("onlyDBpedia") + 1));
-                    } else {
-                        calcMap.put("onlyDBpediaSubject", (calcMap.get("onlyDBpediaSubject") + 1));
-                    }
-                } else {
-                    if (currentStatement.getObject().asResource().getURI().startsWith("http://dbpedia")) {
-                        calcMap.put("onlyDBpediaObject", (calcMap.get("onlyDBpediaObject") + 1));
-                    } else {
-                        calcMap.put("onlyStanford", (calcMap.get("onlyStanford") + 1));
-                    }
-                }
-            }
-        }
-        for (Map.Entry<String, Integer> entry: calcMap.entrySet()) {
-                answerMap.put(entry.getKey(), entry.getValue().toString());
-        }
-
+        answerMap.put("numberOfExtractedTriples", new Long(mappedExtractedTriples.size()).toString());
 
         return answerMap;
     }
+    private HashMap<String,Integer> evalInt = null;
+    private void initEvalInt(){
+        evalInt = new HashMap<String, Integer>();
+        evalInt.put("DBpediaSubjectObjectRelations", 0);
+        evalInt.put("DBpediaObjectRelations", 0);
+        evalInt.put("DBpediaSubjectRelations", 0);
+        evalInt.put("numberOfRelations", 0);
+    }
 }
+
+
+
+
+//        HashMap<String,Integer> calcMap = new HashMap<String,Integer>();
+//        calcMap.put("onlyDBpedia", 0);
+//        calcMap.put("onlyDBpediaObject", 0);
+//        calcMap.put("onlyDBpediaSubject", 0);
+//        calcMap.put("onlyStanford", 0);
+//        calcMap.put("literalAsObject", 0);
+//        if(mappedExtractedTriples == null) {
+//            return answerMap;
+//        }
+//        StmtIterator statementIterator = mappedExtractedTriples.listStatements(null, null, (RDFNode) null);
+//        while (statementIterator.hasNext()) {
+//            Statement currentStatement = statementIterator.nextStatement();
+//            RDFNode object = currentStatement.getObject();
+//            if (object.isLiteral()){
+//                calcMap.put("literalAsObject", (calcMap.get("literalAsObject") + 1));
+//            } else {
+//                if (currentStatement.getSubject().getURI().startsWith("http://dbpedia")) {
+//                    if (object.asResource().getURI().startsWith("http://dbpedia")) {
+//                        calcMap.put("onlyDBpedia", (calcMap.get("onlyDBpedia") + 1));
+//                    } else {
+//                        calcMap.put("onlyDBpediaSubject", (calcMap.get("onlyDBpediaSubject") + 1));
+//                    }
+//                } else {
+//                    if (currentStatement.getObject().asResource().getURI().startsWith("http://dbpedia")) {
+//                        calcMap.put("onlyDBpediaObject", (calcMap.get("onlyDBpediaObject") + 1));
+//                    } else {
+//                        calcMap.put("onlyStanford", (calcMap.get("onlyStanford") + 1));
+//                    }
+//                }
+//            }
+//        }

@@ -1,0 +1,3 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Alma_Cogan	dbpedia-owl:abstract	"Alma Cogan (19 May 1932 \u2013 26 October 1966) was an English singer of traditional pop music in the 1950s and early 1960s. Dubbed \"The Girl With the Laugh/Giggle/Chuckle In Her Voice\", she was the highest paid British female entertainer of her era. Throughout the mid-1950s, she was the most consistently successful female singer in the UK."@en .

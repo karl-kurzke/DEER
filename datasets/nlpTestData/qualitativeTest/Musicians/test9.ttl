@@ -1,0 +1,3 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Antoine_Mahaut	dbpedia-owl:abstract	"Antoine Mahaut (c. 1720\u20131785) was a flautist, composer, and editor. He spent his early composing career in Amsterdam and Mannheim, and his middle to late career in France. His symphonic style is similar to Johann Stamitz, who most likely taught him how to compose, while he was at Mannheim. Mahaut influenced Joseph Haydn and Mozart. He was important as a symphonist in France and composed flute trios and Dutch songs as well. He flourished in France, composing in a classical style and he died there in 1785 at the age of 65."@en .

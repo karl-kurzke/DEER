@@ -1,0 +1,52 @@
+<http://dbpedia.org/resource/Country_music>
+        a       <http://dbpedia.org/ontology/MusicGenre> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Grand_Ole_Opry>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/The_Last_Time_%28song%29>
+        a       <http://dbpedia.org/ontology/Single> .
+
+<http://dbpedia.org/resource/Lynchburg,_Virginia>
+        a       <http://dbpedia.org/ontology/City> , <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Technical_analysis>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/The_Times>
+        a       <http://dbpedia.org/ontology/Newspaper> , <http://dbpedia.org/ontology/PeriodicalLiterature> , <http://dbpedia.org/ontology/WrittenWork> , <http://dbpedia.org/ontology/Work> .
+
+<http://dbpedia.org/resource/Larry_Gatlin>
+        a       <http://dbpedia.org/ontology/MusicalArtist> , <http://dbpedia.org/ontology/Artist> , <http://dbpedia.org/ontology/Person> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Ray_%28film%29>
+        a       <http://dbpedia.org/ontology/Film> , <http://dbpedia.org/ontology/Work> .
+
+<http://dbpedia.org/resource/Dog>
+        a       <http://dbpedia.org/ontology/Mammal> , <http://dbpedia.org/ontology/Animal> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Jean_Shepard>
+        a       <http://dbpedia.org/ontology/MusicalArtist> , <http://dbpedia.org/ontology/Artist> , <http://dbpedia.org/ontology/Person> .
+
+<http://ns.aksw.org/scms/annotations/stanford/McFadden>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://dbpedia.org/resource/Max_Born>
+        a       <http://dbpedia.org/ontology/Scientist> , <http://dbpedia.org/ontology/Person> .
+
+<http://dbpedia.org/resource/The_Pillows>
+        a       <http://dbpedia.org/ontology/Band> , <http://dbpedia.org/ontology/Organisation> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1966>
+        a       <http://ns.aksw.org/scms/annotations/stanford/O> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/McFadden> .
+
+<http://dbpedia.org/resource/Capitol_Records>
+        a       <http://dbpedia.org/ontology/RecordLabel> , <http://dbpedia.org/ontology/Company> , <http://dbpedia.org/ontology/Organisation> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Ray_Pillow>
+        <http://dbpedia.org/ontology/abstract>
+                "Ray Pillow (born July 4, 1937 in Lynchburg, Virginia) is an American country music singer who has also worked as a music publisher and A&R representative. In his career, he has charted eighteen times on the Billboard country singles charts, with his highest-peaking song being the No. 9 \"I'll Take the Dog,\" a duet with Jean Shepard. After charting for the last time in 1981, Pillow founded Sycamore Records with Larry McFadden, and later worked in the A&R department of Capitol Records.Pillow has been a member of the Grand Ole Opry since 1966."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Capitol_Records> , <http://dbpedia.org/resource/Artists_and_repertoire> , <http://dbpedia.org/resource/The_Times> , <http://dbpedia.org/resource/Larry_Gatlin> , <http://dbpedia.org/resource/Career> , <http://dbpedia.org/resource/Duet> , <http://dbpedia.org/resource/Singer> , <http://dbpedia.org/resource/Jean_Shepard> , <http://dbpedia.org/resource/Grand_Ole_Opry> , <http://dbpedia.org/resource/Song> , <http://dbpedia.org/resource/Max_Born> , <http://dbpedia.org/resource/Local_church> , <http://dbpedia.org/resource/Ray_%28film%29> , <http://dbpedia.org/resource/Technical_analysis> , <http://dbpedia.org/resource/Music_publisher_%28popular_music%29> , <http://dbpedia.org/resource/The_Last_Time_%28song%29> , <http://dbpedia.org/resource/Dog> , <http://dbpedia.org/resource/Lynchburg,_Virginia> , <http://dbpedia.org/resource/Department_store> , <http://dbpedia.org/resource/The_Pillows> , <http://dbpedia.org/resource/Country_music> , <http://dbpedia.org/resource/Chart> .

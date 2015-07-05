@@ -1,0 +1,27 @@
+<http://dbpedia.org/resource/Politics_of_Israel>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Kokhav_Ya'akov>
+        <http://dbpedia.org/ontology/abstract>
+                "Kokhav Ya'akov (Hebrew: כּוֹכַב יַעֲקֹב, literally, \"Star of Jacob\") is a religious communal Israeli settlement in the West Bank. It is located between Ramah in Benjamin and Bet-El near al-Bireh, and is about 10 minutes away by car from the Jerusalem neighborhoods of Pisgat Ze'ev and Neve Yaakov. It falls under the jurisdiction of Mateh Binyamin Regional Council. In 2007 it had a population of 5,600. The international community considers Israeli settlements in the West Bank illegal under international law, but the Israeli government disputes this."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Modern_Hebrew> , <http://dbpedia.org/resource/Community> , <http://dbpedia.org/resource/Israeli_settlement> , <http://dbpedia.org/resource/East_Jerusalem> , <http://dbpedia.org/resource/Neighbourhood> , <http://dbpedia.org/resource/International_community> , <http://dbpedia.org/resource/International_law> , <http://dbpedia.org/resource/Politics_of_Israel> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Yaakov>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://dbpedia.org/resource/Neighbourhood>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Community>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/International_law>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/East_Jerusalem>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Yaakov> .
+
+<http://dbpedia.org/resource/Israeli_settlement>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .

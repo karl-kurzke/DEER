@@ -1,0 +1,3 @@
+<http://ns.aksw.org/scms/annotations/stanford/Gramos>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Sidironero> .

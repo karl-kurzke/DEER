@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Guangdong>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Yunnan> .

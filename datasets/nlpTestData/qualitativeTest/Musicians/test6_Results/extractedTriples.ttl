@@ -1,0 +1,3 @@
+<http://ns.aksw.org/scms/annotations/stanford/Albertet>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Albigeois> .

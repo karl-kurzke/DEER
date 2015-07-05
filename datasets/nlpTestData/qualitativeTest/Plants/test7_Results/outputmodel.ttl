@@ -1,0 +1,19 @@
+<http://dbpedia.org/resource/Nevada>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Utah_County,_Utah>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/New_Mexico>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Utah_County,_Utah> .
+
+<http://dbpedia.org/resource/Bryce_Canyon_National_Park>
+        a       <http://dbpedia.org/ontology/ProtectedArea> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Lupinus_kingii>
+        <http://dbpedia.org/ontology/abstract>
+                "Lupinus kingii, King's Lupine, is a species of flowering plant from the order of Lamiales which can be found in Arizona, Colorado, Nevada, New Mexico, Utah. Both the leaves and the pods are hairy with the later being 10 millimetres (0.39 in) long. In Utah, it is found only at Bryce Canyon National Park."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Arizona_Wildcats> , <http://dbpedia.org/resource/Colorado_Plateau> , <http://dbpedia.org/resource/Nevada> , <http://dbpedia.org/resource/Utah_County,_Utah> , <http://dbpedia.org/resource/Bryce_Canyon_National_Park> .

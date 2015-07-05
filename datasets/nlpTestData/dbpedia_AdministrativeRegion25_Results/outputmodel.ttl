@@ -1,0 +1,498 @@
+<http://ns.aksw.org/scms/annotations/stanford/Philippi>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://dbpedia.org/resource/Urban_design>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/King_Amaziah>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Judah> .
+
+<http://dbpedia.org/resource/Santiago>
+        a       <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Settlement> .
+
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Santa_Mar%C3%ADa_de_Los_%C3%81ngeles>
+        <http://dbpedia.org/ontology/abstract>
+                "The Roman Catholic Diocese of Santa María de Los Ángeles (Latin: Sanctae Mariae Angelorum) is a diocese located in the city of Los Ángeles in the Ecclesiastical province of Concepción in Chile."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Chile> , <http://dbpedia.org/resource/Concepci%C3%B3n,_Chile> , <http://dbpedia.org/resource/Ecclesiastical_province> , <http://dbpedia.org/resource/Latin> , <http://dbpedia.org/resource/Santa_Mar%C3%ADa_%28ship%29> , <http://dbpedia.org/resource/Diocese> , <http://dbpedia.org/resource/Catholic_Church> .
+
+<http://dbpedia.org/resource/Population_density>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Vernacular_architecture>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Politics_of_Israel>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Chile>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Country> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Angelorum> , <http://ns.aksw.org/scms/annotations/stanford/Philippi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Russia>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> .
+
+<http://dbpedia.org/resource/Ampelakia,_Larissa>
+        <http://dbpedia.org/ontology/abstract>
+                "Ampelakia (Greek: Αμπελάκια) is a former community in the Larissa regional unit, Thessaly, Greece. Since the 2011 local government reform it is part of the municipality Tempi, of which it is a municipal unit and a municipal community. Ampelakia is also regarded as the historical seat of the municipality."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Local_government> , <http://dbpedia.org/resource/Greek_language> , <http://dbpedia.org/resource/Community> , <http://dbpedia.org/resource/Municipality> , <http://dbpedia.org/resource/Region> , <http://dbpedia.org/resource/Larissa> , <http://dbpedia.org/resource/Thessaly> , <http://dbpedia.org/resource/Greece> , <http://dbpedia.org/resource/Units_of_measurement> .
+
+<http://dbpedia.org/resource/Andros>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Settlement> .
+
+<http://dbpedia.org/resource/Ampelakia>
+        <http://dbpedia.org/ontology/abstract>
+                "Ampelakia (Greek: Αμπελάκια, meaning vineyards) is a town and a former municipality of Salamis Island, Greece. Since the 2011 local government reform it is part of the municipality Salamis, of which it is a municipal unit.It lies on the central east coast of the island and has a land area of 15.169 km², comprising about one-sixth of the island's area (with the balance belonging to the Salamina (city)). It has a population of 7,060 inhabitants (2001 census). Its largest town is also named Ampelakia, and has a population of 4,537. The other significant town is Selínia (pop. 2,346). The only other settlements are Kynosoúra (pop. 137) and Spithári (40)."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Island> , <http://dbpedia.org/resource/Square_kilometre> , <http://dbpedia.org/resource/Local_government> , <http://dbpedia.org/resource/Municipalities_of_Japan> , <http://dbpedia.org/resource/Area> , <http://dbpedia.org/resource/Salamis_Island> , <http://dbpedia.org/resource/Greeks> , <http://dbpedia.org/resource/States_of_Germany> , <http://dbpedia.org/resource/New_England_town> , <http://dbpedia.org/resource/Vineyard> , <http://dbpedia.org/resource/Coast> , <http://dbpedia.org/resource/Canada_2001_Census> , <http://dbpedia.org/resource/Reform_Judaism> , <http://dbpedia.org/resource/Greece> , <http://dbpedia.org/resource/Residency_%28domicile%29> , <http://dbpedia.org/resource/Population> , <http://dbpedia.org/resource/Municipality> .
+
+<http://dbpedia.org/resource/Northern_Bank>
+        a       <http://dbpedia.org/ontology/Company> , <http://dbpedia.org/ontology/Organisation> .
+
+<http://dbpedia.org/resource/Perivoli,_Corfu>
+        <http://dbpedia.org/ontology/abstract>
+                "Perivoli (Greek: Περιβόλι) is a village in the southern part of the island of Corfu, Greece. It is part of the municipal unit of Korissia. In 2001 its population was 1406 for the village, and 1429 for the community, including the village Potamia. Perivoli is 1 km northwest of Vitalades, 4 km west of Lefkimmi, 4 km southeast of Argyrades and 24 km south of the city of Corfu. The Greek National Road 25 (Corfu - Argyrades - Lefkimmi) passes through the village. The small fishing port Kalyviotis is to the north, and the Agia Varvara beach is to the southwest."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Modern_Greek> , <http://dbpedia.org/resource/Village> , <http://dbpedia.org/resource/Greece> , <http://dbpedia.org/resource/Municipality> , <http://dbpedia.org/resource/Population> , <http://dbpedia.org/resource/Community_%28Wales%29> , <http://dbpedia.org/resource/Corfu_%28city%29> .
+
+<http://dbpedia.org/resource/Headlands_and_bays>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Community>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Thessaly>
+        a       <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Settlement> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://dbpedia.org/resource/Perivoli,_Grevena>
+        <http://dbpedia.org/ontology/abstract>
+                "Perivoli (Greek: Περιβόλι,Aromanian: Pirivoli) is an alpine village and a former community in Grevena regional unit, West Macedonia, Greece. Since the 2011 local government reform it is part of the municipality Grevena, of which it is a municipal unit. Its population was 21 inhabitants as of 2011. It was the least densely populated municipality or community in the least densely populated regional unit of Greece. It is also the sixth-least densely populated in all of Greece (behind Gramos, Sidironero, Paranesti, Antikythira, and Gavdos). The village is inhabited during winter by only 10-20 people due to extreme snow. However, the population rises to 4,000 people during the summer. There are many restored houses, inns, restaurants and cafes in the village. The inhabitants are mainly native Aromanians (Greek: Βλάχοι)."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Winter> , <http://dbpedia.org/resource/Community_%28Wales%29> , <http://dbpedia.org/resource/People> , <http://dbpedia.org/resource/Units_of_measurement> , <http://dbpedia.org/resource/Summer> , <http://dbpedia.org/resource/Region> , <http://dbpedia.org/resource/Snow> , <http://dbpedia.org/resource/Residency_%28domicile%29> , <http://dbpedia.org/resource/West_Macedonia> , <http://dbpedia.org/resource/Population> , <http://dbpedia.org/resource/House> , <http://dbpedia.org/resource/Greece> , <http://dbpedia.org/resource/Aromanians> , <http://dbpedia.org/resource/Greeks> , <http://dbpedia.org/resource/Population_density> , <http://dbpedia.org/resource/Restaurant> , <http://dbpedia.org/resource/Coffeehouse> , <http://dbpedia.org/resource/United_Reformed_Church> , <http://dbpedia.org/resource/Village> , <http://dbpedia.org/resource/Grevena> , <http://dbpedia.org/resource/Local_government> , <http://dbpedia.org/resource/Municipality> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Greece>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> .
+
+<http://dbpedia.org/resource/Bridge>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Brick>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Municipality>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ravil_Geniatulin>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Chita_Oblast> .
+
+<http://dbpedia.org/resource/Israeli_settlement>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Kangaroo_Island>
+        a       <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Island> .
+
+<http://dbpedia.org/resource/Latin>
+        a       <http://dbpedia.org/ontology/Language> .
+
+<http://dbpedia.org/resource/Area>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Snow>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Winter>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Ashkelon>
+        a       <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Settlement> .
+
+<http://dbpedia.org/resource/Region>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Australia>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> .
+
+<http://dbpedia.org/resource/Victoria_%28Australia%29>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/AdministrativeRegion> .
+
+<http://dbpedia.org/resource/Museum>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/East_Timor>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Judah>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kfar_Ahim>
+        a       <http://ns.aksw.org/scms/annotations/stanford/ORGANIZATION> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/HaRif> .
+
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Puerto_Rico>
+        <http://dbpedia.org/ontology/abstract>
+                "The Episcopal Diocese of Puerto Rico (Spanish: Iglesia Episcopal Puertorriqueña) is an Anglican diocese in Puerto Rico. It separated from the Episcopal Church in the USA (ECUSA) in 1978 but was reinstated in 2002, and it now forms part of Province IX. The current provisional bishop is Wilfrido Ramos-Orench who will remain bishop of the diocese until the successor to David Andres Alvarez-Velazquez who retired on 31 October, 2013. The Diocesan Assembly met on December 7 to elect the new Diocesan Bishop, among five candidates, including three from the Diocese of Puerto Rico, and one each from the Dioceses of the Republic of Colombia and the Commonwealth of Pennsylvania. On January 25, 2014, the appointment of Bishop Ramos as Provisional Bishop of Puerto Rico was ratified by the Diocesan Assembly."@en .
+
+<http://ns.aksw.org/scms/annotations/stanford/Yaakov>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://dbpedia.org/resource/Greek_language>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Language> .
+
+<http://dbpedia.org/resource/New_England_town>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Catholic_Church>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/American_River,_South_Australia>
+        <http://dbpedia.org/ontology/abstract>
+                "American River is a town situated on the western shore of Eastern Cove, on Australia's third largest island, Kangaroo Island."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Kangaroo_Island> , <http://dbpedia.org/resource/Island> , <http://dbpedia.org/resource/Australia> , <http://dbpedia.org/resource/Cove> , <http://dbpedia.org/resource/Eastern_District,_Hong_Kong> , <http://dbpedia.org/resource/New_England_town> , <http://dbpedia.org/resource/American_River> .
+
+<http://dbpedia.org/resource/Amursky_District>
+        <http://dbpedia.org/ontology/abstract>
+                "Amursky District (Russian: Аму́рский райо́н) is an administrative and municipal district (raion), one of the seventeen in Khabarovsk Krai, Russia. It is located in the southwest of the krai. The area of the district is 16,720 square kilometers (6,460 sq mi).[citation needed] Its administrative center is the town of Amursk (which is not administratively a part of the district). Population: 22,669 (2010 Census); 27,273 (2002 Census); 32,288 (1989 Census)."@en .
+
+<http://dbpedia.org/resource/Hanmer_Springs>
+        a       <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Amuri> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gramos>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Sidironero> .
+
+<http://dbpedia.org/resource/Australia>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Country> .
+
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Felipe,_Venezuela>
+        <http://dbpedia.org/ontology/abstract>
+                "The Roman Catholic Diocese of San Felipe (Latin: Dioecesis Sancti Philippi in Venetiola) is a diocese located in the city of San Felipe in the Ecclesiastical province of Barquisimeto in Venezuela."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Ecclesiastical_Latin> , <http://dbpedia.org/resource/Philippi> , <http://dbpedia.org/resource/Diocese> , <http://dbpedia.org/resource/Ecclesiastical_province> , <http://dbpedia.org/resource/Barquisimeto> , <http://dbpedia.org/resource/Venezuela> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Victoria>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Australia> .
+
+<http://dbpedia.org/resource/Venetian_language>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Language> .
+
+<http://dbpedia.org/resource/Agros,_Greece>
+        <http://dbpedia.org/ontology/abstract>
+                "Agros (Greek: Αγρός) is a village and a community in the western part of the island of Corfu. It was the seat of the municipality of Agios Georgios. Agros is located west of the city of Corfu. The community consists of the villages Agros, Aspiotades, Manatades and Rafalades."@en .
+
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Felipe,_Chile>
+        <http://dbpedia.org/ontology/abstract>
+                "The Roman Catholic Diocese of San Felipe (Latin: Sancti Philippi) is a diocese located in the city of San Felipe in the Ecclesiastical province of Santiago de Chile in Chile."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Chile> , <http://dbpedia.org/resource/Santiago> , <http://dbpedia.org/resource/Ecclesiastical_province> , <http://dbpedia.org/resource/Diocese> , <http://dbpedia.org/resource/Philippi> , <http://dbpedia.org/resource/Latin> .
+
+<http://dbpedia.org/resource/Census>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Neoclassical_architecture>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Island>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Kokhav_HaShahar>
+        <http://dbpedia.org/ontology/abstract>
+                "Kokhav HaShahar (Hebrew: כּוֹכַב הַשַּׁחַר, also spelt Kochav Shachar and Kochav HaShachar, trans. Morning Star) is an Israeli settlement in the Binyamin region of northern West Bank. It is located on a mountain ridge overlooking the Jordan Valley, and is accessible via the Allon Road. Kokhav HaShahar falls under the municipal jurisdiction of the Matte Binyamin Regional Council. The international community considers Israeli settlements in the West Bank illegal under international law, but the Israeli government disputes this.The settlement was founded by some nine young couples in 1979 on the site of an Israel Defense Forces outpost. As of 2011, it is home to about three hundred and fifty families; close to 2000 people.North of Kokhav HaShahar and east of Ramallah is the Maoz Esther outpost. The outpost was established in 2005 by residents of Kokhav HaShahar, and was named after Ester Galia, a Kokhav HaShahar resident who was murdered at Rimonim junction. Consisting of seven huts, it was destroyed by Israel Police in May 2009. Maoz Esther has been repeatedly rebuilt and destroyed. The most recent destruction event occurred 13 October 2010."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Northern_Bank> , <http://dbpedia.org/resource/Israel_Police> , <http://dbpedia.org/resource/Jordan_Valley_%28Middle_East%29> , <http://dbpedia.org/resource/International_community> , <http://dbpedia.org/resource/Norwich> , <http://dbpedia.org/resource/Politics_of_Israel> , <http://dbpedia.org/resource/Region> , <http://dbpedia.org/resource/West_Bank> , <http://dbpedia.org/resource/Hebrew_language> , <http://dbpedia.org/resource/Israel_Defense_Forces> , <http://dbpedia.org/resource/International_law> , <http://dbpedia.org/resource/Human_settlement> , <http://dbpedia.org/resource/Ramallah> , <http://dbpedia.org/resource/Israeli_settlement> , <http://dbpedia.org/resource/East_Timor> .
+
+<http://dbpedia.org/resource/Southeast_Region,_Brazil>
+        a       <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/Barquisimeto>
+        a       <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Ruins>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Anangu_Pitjantjatjara_Yankunytjatjara>
+        a       <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/AdministrativeRegion> ;
+        <http://dbpedia.org/ontology/abstract>
+                "Anangu Pitjantjatjara Yankunytjatjara (APY) is a large Aboriginal local government area located in the remote north west of South Australia. It consists of the Pitjantjatjara, Yankunytjatjara and Ngaanyatjarra peoples (or Anangu), and has a population of around 2500 people."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Anangu> , <http://dbpedia.org/resource/Pitjantjatjara_people> , <http://dbpedia.org/resource/Australian_Aborigines> , <http://dbpedia.org/resource/Anangu_Pitjantjatjara_Yankunytjatjara> .
+
+<http://dbpedia.org/resource/Santa_Mar%C3%ADa_%28ship%29>
+        a       <http://dbpedia.org/ontology/MeanOfTransportation> , <http://dbpedia.org/ontology/Ship> .
+
+<http://dbpedia.org/resource/Referendum>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Modern_Greek>
+        a       <http://dbpedia.org/ontology/Language> .
+
+<http://dbpedia.org/resource/Zabaykalsky_Krai>
+        a       <http://dbpedia.org/ontology/TopicalConcept> ;
+        <http://dbpedia.org/ontology/abstract>
+                "Zabaykalsky Krai (Russian: Забайкальский край, IPA: [zəbɐjˈkalʲskʲɪj kraj], lit. Transbaikal krai) is a federal subject of Russia (a krai) that was created on March 1, 2008 as a result of a merger of Chita Oblast and Agin-Buryat Autonomous Okrug, after a referendum held on the issue on March 11, 2007. The administrative center of the krai is located in the city of Chita. Population: 1,107,107 (2010 Census).Ravil Geniatulin, the Governor of Chita Oblast, was elected Governor of Zabaykalsky Krai on February 5, 2008 by the majority of the deputies of both Chita Oblast Duma and Agin-Buryat Autonomous Okrug Duma. He assumed the post on March 1, 2008."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Governor> , <http://dbpedia.org/resource/March_1> , <http://dbpedia.org/resource/March_11> , <http://dbpedia.org/resource/February_5> , <http://dbpedia.org/resource/Russians> , <http://dbpedia.org/resource/Deputy_%28legislator%29> , <http://dbpedia.org/resource/Duma> , <http://dbpedia.org/resource/Referendum> , <http://dbpedia.org/resource/Zabaykalsky_Krai> , <http://dbpedia.org/resource/Krai> , <http://dbpedia.org/resource/Majority> , <http://dbpedia.org/resource/Chita_Oblast> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://dbpedia.org/resource/Kokhav_Ya'akov>
+        <http://dbpedia.org/ontology/abstract>
+                "Kokhav Ya'akov (Hebrew: כּוֹכַב יַעֲקֹב, literally, \"Star of Jacob\") is a religious communal Israeli settlement in the West Bank. It is located between Ramah in Benjamin and Bet-El near al-Bireh, and is about 10 minutes away by car from the Jerusalem neighborhoods of Pisgat Ze'ev and Neve Yaakov. It falls under the jurisdiction of Mateh Binyamin Regional Council. In 2007 it had a population of 5,600. The international community considers Israeli settlements in the West Bank illegal under international law, but the Israeli government disputes this."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/East_Jerusalem> , <http://dbpedia.org/resource/Modern_Hebrew> , <http://dbpedia.org/resource/Israeli_settlement> , <http://dbpedia.org/resource/Politics_of_Israel> , <http://dbpedia.org/resource/Illegal_drug_trade> , <http://dbpedia.org/resource/Community> , <http://dbpedia.org/resource/International_community> , <http://dbpedia.org/resource/International_law> , <http://dbpedia.org/resource/Neighbourhood> .
+
+<http://dbpedia.org/resource/West_Macedonia>
+        a       <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Palestinian_territories>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Local_government>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Zabaykalsky_District>
+        <http://dbpedia.org/ontology/abstract>
+                "Zabaykalsky District (Russian: Забайка́льский райо́н) is an administrative and municipal district (raion), one of the thirty-one in Zabaykalsky Krai, Russia. It is located in the southeast of the krai. The area of the district is 5,253.6 square kilometers (2,028.4 sq mi).[citation needed] Its administrative center is the urban locality (an urban-type settlement) of Zabaykalsk. Population: 20,485 (2010 Census); 20,343 (2002 Census); 22,121 (1989 Census). The population of Zabaykalsk accounts for 57.5% of the district's total population."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Russia> , <http://dbpedia.org/resource/Square_kilometre> , <http://dbpedia.org/resource/Urban-type_settlement> , <http://dbpedia.org/resource/Municipal_district> , <http://dbpedia.org/resource/Urban_design> , <http://dbpedia.org/resource/Southeast_Region,_Brazil> , <http://dbpedia.org/resource/Administrative_centre> , <http://dbpedia.org/resource/Raion> , <http://dbpedia.org/resource/District_%28PRC%29> , <http://dbpedia.org/resource/Area> , <http://dbpedia.org/resource/2010_United_States_Census> , <http://dbpedia.org/resource/Population> , <http://dbpedia.org/resource/Zabaykalsky_Krai> , <http://dbpedia.org/resource/Krai> , <http://dbpedia.org/resource/Canada_2001_Census> .
+
+<http://dbpedia.org/resource/Ahva,_Israel>
+        <http://dbpedia.org/ontology/abstract>
+                "Ahva (Hebrew: אַחֲוָה, Aḥava, lit. Brotherhood) is a village in the northern Negev desert of southern Israel. It falls under the jurisdiction of Be'er Tuvia Regional Council and had a population of 168 in 2012.The village was established in 1976 for civil servants of the regional council. It is adjacent to the Ahva Academic College and acts as a service center for the surrounding settlements, including Kfar Ahim, Kfar HaRif, Talmei Yehiel and Yenon."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Village> , <http://dbpedia.org/resource/Negev> , <http://dbpedia.org/resource/Israel> , <http://dbpedia.org/resource/Population> , <http://dbpedia.org/resource/Regional_council_%28Israel%29> .
+
+<http://dbpedia.org/resource/International_law>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Epirus>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greece> .
+
+<http://dbpedia.org/resource/Illegal_drug_trade>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Petrovsk-Zabaykalsky_District>
+        <http://dbpedia.org/ontology/abstract>
+                "Petrovsk-Zabaykalsky District (Russian: Петро́вск-Забайка́льский райо́н) is an administrative district (raion), one of the thirty-one in Zabaykalsky Krai, Russia. It is located in the southwest of the krai. The area of the district is 9,110 square kilometers (3,520 sq mi).[citation needed] Its administrative center is the town of Petrovsk-Zabaykalsky. Population: 37,900 (2010 Census); 21,110 (2002 Census); 24,657 (1989 Census). The population of the administrative center accounts for 48.9% of the district's total population."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Town_%28China%29> , <http://dbpedia.org/resource/Krai> , <http://dbpedia.org/resource/Zabaykalsky_Krai> , <http://dbpedia.org/resource/Raion> , <http://dbpedia.org/resource/Administrative_division> , <http://dbpedia.org/resource/Russia> , <http://dbpedia.org/resource/District_%28PRC%29> .
+
+<http://dbpedia.org/resource/Michael_%28archangel%29>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Person> , <http://dbpedia.org/ontology/Cleric> , <http://dbpedia.org/ontology/Saint> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Israel> .
+
+<http://dbpedia.org/resource/Canterbury_Region>
+        a       <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/Sutherland_Shire>
+        a       <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/AdministrativeRegion> .
+
+<http://dbpedia.org/resource/Epirus_%28periphery%29>
+        a       <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/Amatzia,_Israel>
+        <http://dbpedia.org/ontology/abstract>
+                "Amatzia (Hebrew: אֲמַצְיָה) is a moshav with both secular and religious Israelis, about 8 km southeast of Lakhish in south-central Israel. It belongs to the Lakhish Regional Council. It can be reached via Route 3556.The community was founded in 1955. It is located on the land of the depopulated Palestinian village of Al-Dawayima, the scene of the 1948 Al-Dawayima massacre.It is named for King Amaziah of Judah, who according to the Book of Kings was killed in the Lakhish region. In the past the community was a moshav shitufi but it has undergone a process of privatization and abandoned its communal nature.In 2006, temporary housing was built in the area of the moshav to absorb evacuees from Katif who lived in Gush Katif but were evacuated under Israel's unilateral disengagement plan."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Village> , <http://dbpedia.org/resource/Hebrew_language> , <http://dbpedia.org/resource/Israel%27s_unilateral_disengagement_plan> , <http://dbpedia.org/resource/Books_of_Kings> , <http://dbpedia.org/resource/Moshav> , <http://dbpedia.org/resource/Moshav_shitufi> , <http://dbpedia.org/resource/Palestinian_territories> , <http://dbpedia.org/resource/Gush_Katif> , <http://dbpedia.org/resource/Israelis> , <http://dbpedia.org/resource/Israel> .
+
+<http://dbpedia.org/resource/Reform_Judaism>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/States_of_Germany>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Chita_Oblast>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Andros_(town)>
+        <http://dbpedia.org/ontology/abstract>
+                "Andros (Greek: Άνδρος), also called Chora (Χώρα, \"main town\"), is a town and a former municipality on the island of Andros, in the Cyclades, Greece. Since the 2011 local government reform it is part of the municipality Andros, of which it is a municipal unit, and shares the island of Andros with the municipal units of Korthio and Ydrousa. Its population was 4,107 inhabitants at the 2001 census.It has a mix of post-World War I neoclassical mansions with vernacular Cycladic houses. The town squares are paved with marble. At the end of the headland are two islands. The first, linked to the mainland by a brick bridge, with a ruined Venetian castle and the second with a lighthouse. There are four museums: the extensive Archaeological Museum, Museum of Modern Art, a Nautical Museum and a Folklore Museum."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/UNIT> , <http://dbpedia.org/resource/Venetian_language> , <http://dbpedia.org/resource/World_War_I> , <http://dbpedia.org/resource/House> , <http://dbpedia.org/resource/Island> , <http://dbpedia.org/resource/Museum> , <http://dbpedia.org/resource/Marble> , <http://dbpedia.org/resource/Mainland> , <http://dbpedia.org/resource/Castle> , <http://dbpedia.org/resource/Municipality> , <http://dbpedia.org/resource/Town_square> , <http://dbpedia.org/resource/New_England_town> , <http://dbpedia.org/resource/Greeks> , <http://dbpedia.org/resource/United_Reformed_Church> , <http://dbpedia.org/resource/Museum_of_Modern_Art> , <http://dbpedia.org/resource/Mansion> , <http://dbpedia.org/resource/Cyclades> , <http://dbpedia.org/resource/Population> , <http://dbpedia.org/resource/Bridge> , <http://dbpedia.org/resource/Archaeology> , <http://dbpedia.org/resource/Brick> , <http://dbpedia.org/resource/Main_%28river%29> , <http://dbpedia.org/resource/Greece> , <http://dbpedia.org/resource/Local_government> , <http://dbpedia.org/resource/Andros> , <http://dbpedia.org/resource/Residency_%28domicile%29> , <http://dbpedia.org/resource/Lighthouse> , <http://dbpedia.org/resource/Ruins> , <http://dbpedia.org/resource/Vernacular_architecture> , <http://dbpedia.org/resource/Canada_2001_Census> , <http://dbpedia.org/resource/Headlands_and_bays> , <http://dbpedia.org/resource/Neoclassical_architecture> .
+
+<http://dbpedia.org/resource/World_War_I>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Event> , <http://dbpedia.org/ontology/MilitaryConflict> .
+
+<http://dbpedia.org/resource/Greece>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Country> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Cyclades> .
+
+<http://dbpedia.org/resource/Preveza>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Museum_of_Modern_Art>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/ArchitecturalStructure> , <http://dbpedia.org/ontology/Building> , <http://dbpedia.org/ontology/Museum> .
+
+<http://dbpedia.org/resource/Corfu_%28city%29>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/Cyclades>
+        a       <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/AdministrativeRegion> .
+
+<http://dbpedia.org/resource/Southern_Connecticut_State_University>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Organisation> , <http://dbpedia.org/ontology/EducationalInstitution> , <http://dbpedia.org/ontology/University> .
+
+<http://dbpedia.org/resource/Regional_council_%28Israel%29>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/HaRif>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://dbpedia.org/resource/Restaurant>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Israel>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Country> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Amuri>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://dbpedia.org/resource/Kiryat_Gat>
+        a       <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Settlement> .
+
+<http://dbpedia.org/resource/Amuri_County>
+        <http://dbpedia.org/ontology/abstract>
+                "Amuri County is one of the former counties of New Zealand, in the area that is now the north of Canterbury Region. During the period, 1853 to 1876, Amuri was administrated as part of the Nelson Province. The county council was based in Culverden from 1890 until 1989. Other towns in the county include Hanmer Springs and Waiau. It was amalgamated with Cheviot County, Hurunui County and part of Kaikoura County into the Hurunui District as part of the local Government reforms of 1989. The last chairman of the county, John Chaffey, became the first mayor of Hurunui District.Although there is no settlement named Amuri, the name lives on in a number of forms: The Amuri Community Arts Council, Amuri Area School in Culverden, and the Amuri ski field near Hanmer Springs."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Area> , <http://dbpedia.org/resource/Canterbury_Region> , <http://dbpedia.org/resource/Hanmer_Springs> , <http://dbpedia.org/resource/Kaikoura> .
+
+<http://dbpedia.org/resource/Books_of_Kings>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ramos>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://dbpedia.org/resource/Venezuela>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Philippi> .
+
+<http://dbpedia.org/resource/Kranea,_Grevena>
+        <http://dbpedia.org/ontology/abstract>
+                "Kranea or Krania (Greek: Κρανέα or Κρανιά, Aromanian: Turia) is an Aromanian village and a community of the Grevena municipality. Before the 2011 local government reform it was a part of the municipality of Gorgiani, of which it was a municipal district. The 2011 census recorded 385 residents in the village. The community of Kranea covers an area of 70.929 km2."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Census> , <http://dbpedia.org/resource/Village> , <http://dbpedia.org/resource/Area> , <http://dbpedia.org/resource/Municipality> , <http://dbpedia.org/resource/Municipal_district> , <http://dbpedia.org/resource/Square_kilometre> , <http://dbpedia.org/resource/Local_government> , <http://dbpedia.org/resource/Aromanians> , <http://dbpedia.org/resource/Grevena> , <http://dbpedia.org/resource/Community_%28Wales%29> .
+
+<http://dbpedia.org/resource/United_Reformed_Church>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/American_River>
+        a       <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/NaturalPlace> , <http://dbpedia.org/ontology/BodyOfWater> , <http://dbpedia.org/ontology/Stream> , <http://dbpedia.org/ontology/River> .
+
+<http://dbpedia.org/resource/Norwich>
+        a       <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Israel_Defense_Forces>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Corfu>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://dbpedia.org/resource/Russia>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Ramallah>
+        a       <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/Ecclesiastical_Latin>
+        a       <http://dbpedia.org/ontology/Language> .
+
+<http://dbpedia.org/resource/Raion>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Neighbourhood>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Khabarovsk_Krai>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Russia> .
+
+<http://dbpedia.org/resource/House>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Main_%28river%29>
+        a       <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/NaturalPlace> , <http://dbpedia.org/ontology/BodyOfWater> , <http://dbpedia.org/ontology/Stream> , <http://dbpedia.org/ontology/River> .
+
+<http://dbpedia.org/resource/Salamis_Island>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/AdministrativeRegion> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://dbpedia.org/resource/Kokhav_Michael>
+        <http://dbpedia.org/ontology/abstract>
+                "Kokhav Michael (Hebrew: כּוֹכַב מִיכָאֵל, lit. Star of Michael) is a moshav in southern Israel. Located between Kiryat Gat and Ashkelon, it falls under the jurisdiction of Hof Ashkelon Regional Council. In 2006 it had a population of 579."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Star> , <http://dbpedia.org/resource/Ashkelon> , <http://dbpedia.org/resource/Population> , <http://dbpedia.org/resource/Moshav> , <http://dbpedia.org/resource/Kiryat_Gat> , <http://dbpedia.org/resource/Jurisdiction> , <http://dbpedia.org/resource/Michael_%28archangel%29> , <http://dbpedia.org/resource/Literal_translation> , <http://dbpedia.org/resource/Israel> , <http://dbpedia.org/resource/Hebrew_language> , <http://dbpedia.org/resource/Southern_Connecticut_State_University> .
+
+<http://dbpedia.org/resource/Kranea>
+        <http://dbpedia.org/ontology/abstract>
+                "Kranea (Greek: Κρανέα) is an Aromanian village and a former community in the Preveza regional unit, Epirus, Greece. Since the 2011 local government reform it is part of the municipality Ziros, of which it is a municipal unit. Population 1,052 (2001)."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Preveza> , <http://dbpedia.org/resource/Units_of_measurement> , <http://dbpedia.org/resource/Population> , <http://dbpedia.org/resource/Chinese_economic_reform> , <http://dbpedia.org/resource/Municipality> , <http://dbpedia.org/resource/Region> , <http://dbpedia.org/resource/Aromanians> , <http://dbpedia.org/resource/Epirus_%28periphery%29> , <http://dbpedia.org/resource/Local_government> , <http://dbpedia.org/resource/Greek_language> , <http://dbpedia.org/resource/Community> , <http://dbpedia.org/resource/Village> .
+
+<http://dbpedia.org/resource/People>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Melbourne>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/City> .
+
+<http://dbpedia.org/resource/Larissa>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/AdministrativeRegion> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Sidironero>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> .
+
+<http://dbpedia.org/resource/Shire_of_South_Gippsland_(former)>
+        <http://dbpedia.org/ontology/abstract>
+                "The Shire of South Gippsland was a local government area about 170 kilometres (106 mi) south-southeast of Melbourne, the state capital of Victoria, Australia. The shire covered an area of 1,432.26 square kilometres (553.0 sq mi), and existed from 1894 until 1994."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Sutherland_Shire> , <http://dbpedia.org/resource/Area> , <http://dbpedia.org/resource/Square_mile> , <http://dbpedia.org/resource/Local_Government_Area> , <http://dbpedia.org/resource/Kilometre> , <http://dbpedia.org/resource/Capital_city> , <http://dbpedia.org/resource/Melbourne> , <http://dbpedia.org/resource/Square_kilometre> , <http://dbpedia.org/resource/Victoria_%28Australia%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Angelorum>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://dbpedia.org/resource/Administrative_division>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/East_Jerusalem>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Yaakov> .
+
+<http://dbpedia.org/resource/Archaeology>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Grevena>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/Hebrew_language>
+        a       <http://dbpedia.org/ontology/Language> .
+
+<http://dbpedia.org/resource/Concepci%C3%B3n,_Chile>
+        a       <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/City> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Puerto_Rico>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ramos> .

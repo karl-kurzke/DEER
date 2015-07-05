@@ -1,0 +1,19 @@
+<http://dbpedia.org/resource/Latin>
+        a       <http://dbpedia.org/ontology/Language> .
+
+<http://dbpedia.org/resource/Santiago>
+        a       <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Philippi>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Felipe,_Chile>
+        <http://dbpedia.org/ontology/abstract>
+                "The Roman Catholic Diocese of San Felipe (Latin: Sancti Philippi) is a diocese located in the city of San Felipe in the Ecclesiastical province of Santiago de Chile in Chile."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Latin> , <http://dbpedia.org/resource/Rodolfo_Amando_Philippi> , <http://dbpedia.org/resource/Diocese> , <http://dbpedia.org/resource/Ecclesiastical_province> , <http://dbpedia.org/resource/Santiago> , <http://dbpedia.org/resource/Chile> .
+
+<http://dbpedia.org/resource/Chile>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Philippi> .

@@ -1,0 +1,52 @@
+<http://ns.aksw.org/scms/annotations/stanford/Sidironero>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> .
+
+<http://dbpedia.org/resource/Perivoli,_Grevena>
+        <http://dbpedia.org/ontology/abstract>
+                "Perivoli (Greek: Περιβόλι,Aromanian: Pirivoli) is an alpine village and a former community in Grevena regional unit, West Macedonia, Greece. Since the 2011 local government reform it is part of the municipality Grevena, of which it is a municipal unit. Its population was 21 inhabitants as of 2011. It was the least densely populated municipality or community in the least densely populated regional unit of Greece. It is also the sixth-least densely populated in all of Greece (behind Gramos, Sidironero, Paranesti, Antikythira, and Gavdos). The village is inhabited during winter by only 10-20 people due to extreme snow. However, the population rises to 4,000 people during the summer. There are many restored houses, inns, restaurants and cafes in the village. The inhabitants are mainly native Aromanians (Greek: Βλάχοι)."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Winter> , <http://dbpedia.org/resource/Community_%28Wales%29> , <http://dbpedia.org/resource/People> , <http://dbpedia.org/resource/Units_of_measurement> , <http://dbpedia.org/resource/Summer> , <http://dbpedia.org/resource/Region> , <http://dbpedia.org/resource/Snow> , <http://dbpedia.org/resource/Residency_%28domicile%29> , <http://dbpedia.org/resource/West_Macedonia> , <http://dbpedia.org/resource/Population> , <http://dbpedia.org/resource/House> , <http://dbpedia.org/resource/Greece> , <http://dbpedia.org/resource/Aromanians> , <http://dbpedia.org/resource/Greeks> , <http://dbpedia.org/resource/Population_density> , <http://dbpedia.org/resource/Restaurant> , <http://dbpedia.org/resource/Coffeehouse> , <http://dbpedia.org/resource/United_Reformed_Church> , <http://dbpedia.org/resource/Village> , <http://dbpedia.org/resource/Grevena> , <http://dbpedia.org/resource/Local_government> , <http://dbpedia.org/resource/Municipality> .
+
+<http://dbpedia.org/resource/West_Macedonia>
+        a       <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Restaurant>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/United_Reformed_Church>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Grevena>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/People>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Population_density>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Municipality>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gramos>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Sidironero> .
+
+<http://dbpedia.org/resource/House>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Greece>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Snow>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Region>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Winter>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Local_government>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .

@@ -1,0 +1,23 @@
+<http://dbpedia.org/resource/Acoustics>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Electronic_music>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/%C3%85ke_Parmerud>
+        <http://dbpedia.org/ontology/abstract>
+                "Åke Parmerud (born 24 July 1953) is a Swedish composer, musician, and multimedia artist noted for his acoustic and electronic works, which have been performed mostly in Europe, Mexico, and Canada. He is also noted for the design of stage and acoustics as well as interactive media and software. He has received recognition for his work from a number of festivals in Europe and has won two Swedish Grammis awards. He has been a member of the Royal Swedish Academy of Music since 1998."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Royal_Swedish_Academy_of_Music> , <http://dbpedia.org/resource/Grammis> , <http://dbpedia.org/resource/Performance> , <http://dbpedia.org/resource/Work_of_art> , <http://dbpedia.org/resource/Design> , <http://dbpedia.org/resource/Swedish_language> , <http://dbpedia.org/resource/Musician> , <http://dbpedia.org/resource/Acoustics> , <http://dbpedia.org/resource/Composer> , <http://dbpedia.org/resource/Acoustic_music> , <http://dbpedia.org/resource/Electronic_music> , <http://dbpedia.org/resource/Stage_%28theatre%29> .
+
+<http://dbpedia.org/resource/Swedish_language>
+        a       <http://dbpedia.org/ontology/Language> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Grammis>
+        a       <http://dbpedia.org/ontology/Award> .
+
+<http://dbpedia.org/resource/Composer>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Design>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .

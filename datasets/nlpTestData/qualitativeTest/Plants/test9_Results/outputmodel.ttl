@@ -1,0 +1,106 @@
+<http://dbpedia.org/resource/Dominican_Republic>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Shape>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Mexico>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Cuba>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Invasive_species>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Flower>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/American_English>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Seed>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Malaysia>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Guangdong>
+        a       <http://dbpedia.org/ontology/TopicalConcept> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Yunnan> .
+
+<http://dbpedia.org/resource/Burma>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/Southern_Ocean>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Yellow>
+        a       <http://dbpedia.org/ontology/Colour> .
+
+<http://dbpedia.org/resource/Vietnam>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/Lettuce>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://dbpedia.org/resource/Assam>
+        a       <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/South_America>
+        a       <http://dbpedia.org/ontology/Continent> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Sri_Lanka>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Limnocharis_flava>
+        <http://dbpedia.org/ontology/abstract>
+                "Limnocharis flava (English: Yellow Sawah Lettuce, Yellow Burr Head or Yellow Velvetleaf, Indonesian: genjer, Javanese: gènjèr, Lao Phak Khan Chong, Tagalog: cebolla de chucho, Thai: ตาลปัตรฤาษี, khmer: ត្រកៀត​ប៉ោង, Vietnamese: Kèo nèo or cù nèo) is a species of aquatic flowering plant which is native to Mexico, Central America, South America, Cuba, Haiti and the Dominican Republic but widely naturalized in southern and southeastern Asia (India, Sri Lanka, Assam, Cambodia, Burma, Thailand, Vietnam, Indonesia, Malaysia and southern China (Guangdong, Yunnan)).Limnocharis flava is roughly 50 cm tall. growing in clumps. Its triangular-shaped leaves and hollow stems are glabrous. Its inflorescences have a very characteristic shape, producing three-lobed yellow flowers about 1.5 cm in diameter. The fruits are spherical. Although it is not a floating plant, its seeds are carried away by currents.Yellow Burr Heads grow generally wherever there is not very deep stagnant fresh water, in swampy areas. It sometimes invades rice fields where it can become a weed. As an invasive species it has become a pest in some wetlands in other parts of the world."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Paddy_field> , <http://dbpedia.org/resource/Central_America> , <http://dbpedia.org/resource/Sri_Lanka> , <http://dbpedia.org/resource/Cuba> , <http://dbpedia.org/resource/Vietnam> , <http://dbpedia.org/resource/Flowering_plant> , <http://dbpedia.org/resource/Mexico> , <http://dbpedia.org/resource/Guangdong> , <http://dbpedia.org/resource/Weed> , <http://dbpedia.org/resource/Tagalog_language> , <http://dbpedia.org/resource/Yunnan> , <http://dbpedia.org/resource/Aquatic_plant> , <http://dbpedia.org/resource/Malaysia> , <http://dbpedia.org/resource/Valley> , <http://dbpedia.org/resource/Flower> , <http://dbpedia.org/resource/Sphere> , <http://dbpedia.org/resource/Javanese_language> , <http://dbpedia.org/resource/Seed> , <http://dbpedia.org/resource/Invasive_species> , <http://dbpedia.org/resource/Khmer_people> , <http://dbpedia.org/resource/Laos> , <http://dbpedia.org/resource/Indonesia> , <http://dbpedia.org/resource/Genghis_Khan> , <http://dbpedia.org/resource/Southern_Ocean> , <http://dbpedia.org/resource/Cambodia> , <http://dbpedia.org/resource/Area> , <http://dbpedia.org/resource/Dominican_Republic> , <http://dbpedia.org/resource/Head> , <http://dbpedia.org/resource/Assam> , <http://dbpedia.org/resource/Vietnamese_people> , <http://dbpedia.org/resource/Shape> , <http://dbpedia.org/resource/Leaf> , <http://dbpedia.org/resource/Inflorescence> , <http://dbpedia.org/resource/Yellow> , <http://dbpedia.org/resource/South_America> , <http://dbpedia.org/resource/Fruit> , <http://dbpedia.org/resource/Head_%28botany%29> , <http://dbpedia.org/resource/Species> , <http://dbpedia.org/resource/Thailand> , <http://dbpedia.org/resource/Burma> , <http://dbpedia.org/resource/American_English> , <http://dbpedia.org/resource/Triangle> , <http://dbpedia.org/resource/Haiti> , <http://dbpedia.org/resource/Diameter> , <http://dbpedia.org/resource/Lettuce> , <http://dbpedia.org/resource/South_Asia> , <http://dbpedia.org/resource/Pest_%28organism%29> , <http://dbpedia.org/resource/Fresh_water> , <http://dbpedia.org/resource/Wetland> , <http://dbpedia.org/resource/Plant> , <http://dbpedia.org/resource/Pedicel_%28botany%29> , <http://dbpedia.org/resource/Native_plant> .
+
+<http://dbpedia.org/resource/Thailand>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Plant>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://dbpedia.org/resource/South_Asia>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Javanese_language>
+        a       <http://dbpedia.org/ontology/Language> .
+
+<http://dbpedia.org/resource/Yunnan>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Valley>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Central_America>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Laos>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Area>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Genghis_Khan>
+        a       <http://dbpedia.org/ontology/Monarch> , <http://dbpedia.org/ontology/Person> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Indonesia>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Cambodia>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Flowering_plant>
+        a       <http://dbpedia.org/ontology/FloweringPlant> , <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Tagalog_language>
+        a       <http://dbpedia.org/ontology/Language> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Haiti>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .

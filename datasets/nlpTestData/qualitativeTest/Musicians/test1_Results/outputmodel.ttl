@@ -1,0 +1,15 @@
+<http://dbpedia.org/resource/Alma_Cogan>
+        a       <http://dbpedia.org/ontology/Artist> , <http://dbpedia.org/ontology/MusicalArtist> , <http://dbpedia.org/ontology/Person> ;
+        <http://dbpedia.org/ontology/abstract>
+                "Alma Cogan (19 May 1932 – 26 October 1966) was an English singer of traditional pop music in the 1950s and early 1960s. Dubbed \"The Girl With the Laugh/Giggle/Chuckle In Her Voice\", she was the highest paid British female entertainer of her era. Throughout the mid-1950s, she was the most consistently successful female singer in the UK."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Traditional_pop_music> , <http://dbpedia.org/resource/Female> , <http://dbpedia.org/resource/English_people> , <http://dbpedia.org/resource/May_19> , <http://dbpedia.org/resource/Alma_Cogan> , <http://dbpedia.org/resource/1960s> , <http://dbpedia.org/resource/British_people> , <http://dbpedia.org/resource/Singer> , <http://dbpedia.org/resource/Voice_type> , <http://dbpedia.org/resource/October_26> , <http://dbpedia.org/resource/1950s> , <http://dbpedia.org/resource/Early_Wynn> , <http://dbpedia.org/resource/Entertainment> .
+
+<http://dbpedia.org/resource/Traditional_pop_music>
+        a       <http://dbpedia.org/ontology/MusicGenre> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Entertainment>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Early_Wynn>
+        a       <http://dbpedia.org/ontology/BaseballPlayer> , <http://dbpedia.org/ontology/Athlete> , <http://dbpedia.org/ontology/Person> .

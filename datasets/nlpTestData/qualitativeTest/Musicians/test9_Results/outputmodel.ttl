@@ -1,0 +1,23 @@
+<http://dbpedia.org/resource/Classical_music>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Joseph_Haydn>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Amsterdam>
+        a       <http://dbpedia.org/ontology/City> , <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/Mannheim>
+        a       <http://dbpedia.org/ontology/Town> , <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/France>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Antoine_Mahaut>
+        <http://dbpedia.org/ontology/abstract>
+                "Antoine Mahaut (c. 1720–1785) was a flautist, composer, and editor. He spent his early composing career in Amsterdam and Mannheim, and his middle to late career in France. His symphonic style is similar to Johann Stamitz, who most likely taught him how to compose, while he was at Mannheim. Mahaut influenced Joseph Haydn and Mozart. He was important as a symphonist in France and composed flute trios and Dutch songs as well. He flourished in France, composing in a classical style and he died there in 1785 at the age of 65."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Mannheim> , <http://dbpedia.org/resource/Antoine_Busnois> , <http://dbpedia.org/resource/Amsterdam> , <http://dbpedia.org/resource/Symphony> , <http://dbpedia.org/resource/Composer> , <http://dbpedia.org/resource/Leopold_Mozart> , <http://dbpedia.org/resource/Song> , <http://dbpedia.org/resource/Johann_Stamitz> , <http://dbpedia.org/resource/Joseph_Haydn> , <http://dbpedia.org/resource/France> , <http://dbpedia.org/resource/Style_%28manner_of_address%29> , <http://dbpedia.org/resource/Career> , <http://dbpedia.org/resource/Classical_music> .
+
+<http://dbpedia.org/resource/Composer>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .

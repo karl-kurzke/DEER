@@ -1,0 +1,3 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Arturo_Meza	dbpedia-owl:abstract	"Arturo Meza (Tocumbo, Michoac\u00E1n, December 12, 1956) is a Mexican songwriter, musician, composer, singer, poet and writer. He is a prolific artist and inventor of musical instruments, such as the teclaedro, yeloguerlizet, mez\u00E1fono and oglio. The base of his songs is folk music, usually only his own voice and guitar. Meza is an independent and prolific artist, and has published 32 albums, always removed from the musical mainstream. He is one of the most accomplished independent composers in Mexico."@en .

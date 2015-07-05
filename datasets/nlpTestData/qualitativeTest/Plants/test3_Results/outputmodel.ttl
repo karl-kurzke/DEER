@@ -1,0 +1,20 @@
+<http://dbpedia.org/resource/Flower>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Vaccinium_vitis-idaea>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://dbpedia.org/resource/Cranberry>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://dbpedia.org/resource/Vaccinium>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Vaccinium_erythrocarpum>
+        <http://dbpedia.org/ontology/abstract>
+                "Southern mountain cranberry, Vaccinium erythrocarpum – also commonly known as bearberry, arando, and dingleberry – is a type of cranberry native to the Southeastern United States. Vaccinium erythrocarpum is a deciduous shrub. Its flowers bloom in June; the individual flowers are hermaphrodite and are pollinated by insects. They produce scarlet, transparent berries.It grows in woodlands and areas of dappled shade. It is also known under the synonym Oxycoccus erythrocarpus."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Vaccinium_vitis-idaea> , <http://dbpedia.org/resource/Vaccinium> , <http://dbpedia.org/resource/Bearberry> , <http://dbpedia.org/resource/Cranberry> , <http://dbpedia.org/resource/Deciduous> , <http://dbpedia.org/resource/Shrub> , <http://dbpedia.org/resource/Flower> , <http://dbpedia.org/resource/Berry> .
+
+<http://dbpedia.org/resource/Bearberry>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .

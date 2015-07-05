@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Cactus>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Mexico>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/North_America> .
+
+<http://dbpedia.org/resource/North_America>
+        a       <http://dbpedia.org/ontology/Continent> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Opuntia_robusta>
+        <http://dbpedia.org/ontology/abstract>
+                "Opuntia robusta, Wheel Cactus or Camuesa, is a species of cactus in the Cactaceae family. It is native and endemic to Mexico, North America."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Species> , <http://dbpedia.org/resource/Cactus> , <http://dbpedia.org/resource/Family_%28biology%29> , <http://dbpedia.org/resource/Native_plant> , <http://dbpedia.org/resource/Endemism> , <http://dbpedia.org/resource/Mexico> , <http://dbpedia.org/resource/North_America> .

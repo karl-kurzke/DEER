@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Twentynine_Palms,_California>
+        a       <http://dbpedia.org/ontology/City> , <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/Flowering_plant>
+        a       <http://dbpedia.org/ontology/FloweringPlant> , <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Calyptrocalyx>
+        <http://dbpedia.org/ontology/abstract>
+                "Calyptrocalyx is a monoecious genus of flowering plant in the palm family found in Papua New Guinea and the nearby Maluku Islands. Ranging from small to large, the palms in this genus are increasingly found in cultivation owing largely to their purple, red, and orange colored, new foliage. At least 26 species have been described while others, known only by local names, have not yet received a taxonomic account. Palms formerly classified within Paralinospadix have been incorporated into this genus. It is named from 2 Greek words meaning 'covered' and 'calyx'."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Flowering_plant> , <http://dbpedia.org/resource/Palm_Islands> , <http://dbpedia.org/resource/Twentynine_Palms,_California> .

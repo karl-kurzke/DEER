@@ -1,0 +1,3 @@
+<http://ns.aksw.org/scms/annotations/stanford/New_Mexico>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Utah_County,_Utah> .

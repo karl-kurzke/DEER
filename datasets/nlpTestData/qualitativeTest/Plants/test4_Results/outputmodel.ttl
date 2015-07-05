@@ -1,0 +1,22 @@
+<http://dbpedia.org/resource/Psoralea_esculenta>
+        <http://dbpedia.org/ontology/abstract>
+                "Psoralea esculenta, prairie turnip is an herbaceous perennial plant native to prairies and dry woodlands of central North America, which bears a starchy tuberous root edible as a root vegetable. The plant is also known as Pediomelum esculentum. English names for the plant include tipsin, teepsenee, breadroot, breadroot scurf pea, and pomme blanche. The prairie turnip was a staple food of the Plains Indians.A closely related species, Psoralea hypogaea, the little breadroot, is also edible, although the plant and root are smaller. Another species, Psoralea argophylla, was probably harvested for food only in times of famine."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Perennial_plant> , <http://dbpedia.org/resource/Tuber> , <http://dbpedia.org/resource/Root> , <http://dbpedia.org/resource/Eating> , <http://dbpedia.org/resource/Vegetable> , <http://dbpedia.org/resource/Staple_food> , <http://dbpedia.org/resource/Food> .
+
+<http://dbpedia.org/resource/Tuber>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Vegetable>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Psoralea>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/America> .
+
+<http://ns.aksw.org/scms/annotations/stanford/America>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> .
+
+<http://dbpedia.org/resource/Food>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .

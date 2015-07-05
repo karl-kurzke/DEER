@@ -1,0 +1,978 @@
+<http://dbpedia.org/resource/Flower>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/M%C3%BCller-Thurgau>
+        a       <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/FloweringPlant> , <http://dbpedia.org/ontology/Grape> .
+
+<http://dbpedia.org/resource/Phyllodoce_(plant)>
+        <http://dbpedia.org/ontology/abstract>
+                "Phyllodoce /ˌfɪləˈdoʊsiː/ is a small genus of plants which includes the mountain-heaths or mountain heathers. These are low, matting shrubs with distinctive leaves which roll under themselves so tightly they resemble pine needles. They bear attractive flowers in shades of pink and purple. Phyllodoce are found in mountainous regions of North America, especially the western United States; blue heath (Phyllodoce caerulea) is native to north-western Europe.Selected species:Phyllodoce aleutica - Aleutian mountain-heathPhyllodoce breweri - purple mountain-heathPhyllodoce caerulea - blue heath or blue mountain-heathPhyllodoce empetriformis - pink mountain-heathPhyllodoce granduliflora - yellow mountain-heath"@en .
+
+<http://dbpedia.org/resource/Acer_ginnala>
+        <http://dbpedia.org/ontology/abstract>
+                "Acer ginnala (Amur Maple) is a plant species with woody stems native to northeastern Asia from easternmost Mongolia east to Korea and Japan, and north to the Russian Far East in the Amur River valley. It is a small Maple with deciduous leaves that is sometimes grown as a garden subject or boulevard tree."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Maple> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Malaysia>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Nigeria> .
+
+<http://dbpedia.org/resource/Rosa_%C3%97_damascena>
+        <http://dbpedia.org/ontology/abstract>
+                "Rosa × damascena, more commonly known as the Damask rose, or sometimes as the Rose of Castile, is a rose hybrid, derived from Rosa gallica and Rosa moschata. Further DNA analysis has shown that a third species, Rosa fedtschenkoana, is associated with the Damask rose.The flowers are renowned for their fine fragrance, and are commercially harvested for rose oil (either \"rose otto\" or \"rose absolute\") used in perfumery and to make rose water and \"rose concrete\". The flower petals are also edible. They may be used to flavor food, as a garnish, as an herbal tea, and preserved in sugar as gulkand."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Rose_water> .
+
+<http://dbpedia.org/resource/Falanghina>
+        <http://dbpedia.org/ontology/abstract>
+                "Falanghina, also called Falanghina Greco, is a variety of wine grape, Vitis vinifera, used for white wines. It is an ancient grape variety which may have provided a basis for the classical Falernian wine, and has considerable character. It is cultivated on the coast of Campania north of Naples, and frequently consumed in southern Italy along with seafood. The name for the wine appears to derive from the Latin falangae, or stakes for supporting the grapes in a vineyard."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Wine> , <http://dbpedia.org/resource/Vitis_vinifera> , <http://dbpedia.org/resource/Grape> , <http://dbpedia.org/resource/List_of_grape_varieties> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Babai>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Kiribati> .
+
+<http://dbpedia.org/resource/Meriania_versicolor>
+        <http://dbpedia.org/ontology/abstract>
+                "Meriania versicolor is a species of plant in the Melastomataceae family. It is endemic to Colombia."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Species> , <http://dbpedia.org/resource/Plant> , <http://dbpedia.org/resource/Melastomataceae> , <http://dbpedia.org/resource/Family_%28biology%29> , <http://dbpedia.org/resource/Endemism> , <http://dbpedia.org/resource/Colombia> .
+
+<http://dbpedia.org/resource/Astragalus_malacus>
+        <http://dbpedia.org/ontology/abstract>
+                "Astragalus malacus is a species of milkvetch known by the common name shaggy milkvetch. It is native to the Great Basin in the western United States."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Great_Basin> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Carl_Friedrich_Philipp_von_Martius.In>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Brasiliensis> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Japan>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gossamer_Wattle>
+        a       <http://ns.aksw.org/scms/annotations/stanford/ORGANIZATION> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Wattle> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Sakata_Seed_Company_of_Yokohama>
+        a       <http://ns.aksw.org/scms/annotations/stanford/ORGANIZATION> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Japan> .
+
+<http://dbpedia.org/resource/Indian_subcontinent>
+        a       <http://dbpedia.org/ontology/Continent> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/Pogostemon_stellatus>
+        <http://dbpedia.org/ontology/abstract>
+                "Pogostemon stellatus, formerly Eusteralis stellata, is a perennial herb from southeast Asia and northern Australia, including the island of New Guinea. Because of its extensive and somewhat fragmented geographic distribution, there are many different color and leaf forms of this plant in the wild. It is a highly prized and sought after aquatic plant in the aquarium trade."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Aquatic_plant> , <http://dbpedia.org/resource/Plant> , <http://dbpedia.org/resource/Herbaceous_plant> , <http://dbpedia.org/resource/Perennial_plant> .
+
+<http://dbpedia.org/resource/Drimia>
+        <http://dbpedia.org/ontology/abstract>
+                "Drimia is a genus of flowering plants. In the APG III classification system, it is placed in the family Asparagaceae, subfamily Scilloideae (formerly the family Hyacinthaceae). The genus includes Urginea.One of the best-known species is the sea squill, Drimia maritima (formerly Urginea maritima)."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Asparagaceae> , <http://dbpedia.org/resource/Family_%28biology%29> , <http://dbpedia.org/resource/APG_III_system> , <http://dbpedia.org/resource/Flowering_plant> .
+
+<http://dbpedia.org/resource/Acalypha_padifolia>
+        <http://dbpedia.org/ontology/abstract>
+                "Acalypha padifolia is a species of flowering plant in the family Euphorbiaceae. It is native to the Andes in Bolivia, Colombia, Ecuador, and Peru. It is a shrub or small tree that grows in mountain rainforests."@en .
+
+<http://ns.aksw.org/scms/annotations/stanford/Tylecodon>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Dudleya> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Philipp_Vincent_Wells>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1968> .
+
+<http://dbpedia.org/resource/Afrocarpus_dawei>
+        <http://dbpedia.org/ontology/abstract>
+                "Afrocarpus dawei is an evergreen coniferous tree native to the Afromontane forests of the East African highlands, including Kenya, Tanzania, Uganda, and the Democratic Republic of the Congo.The podocarps are associated with the ancient supercontinent of Gondwana, where they were characteristic of the cool, moist southern Gondwana flora. Gondwana broke up into the continents of South America, Africa, India, Australia and Antarctica. Antarctica is the southernmost continent and encompasses the South Pole. Antarctica is surrounded by the Southern Ocean and divided by the Transantarctic Mountains, between 160 and 30 million years ago. As Africa drifted north it became hotter and drier, and the podocarps generally retreated to the cool moist highlands of eastern and southern Africa."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Afromontane> , <http://dbpedia.org/resource/Scottish_Highlands> , <http://dbpedia.org/resource/Gondwana> , <http://dbpedia.org/resource/South_America> , <http://dbpedia.org/resource/Africa> , <http://dbpedia.org/resource/South_Pole> .
+
+<http://dbpedia.org/resource/Ipomoea_lobata>
+        <http://dbpedia.org/ontology/abstract>
+                "The fire vine (Ipomoea lobata) is an ornamental plant in the Convolvulaceae family, which is native from Brazil. This vine is cited in Flora Brasiliensis by Carl Friedrich Philipp von Martius.In horticulture, it is sometimes called \"Spanish flag\". This name is also (and more often) used for Lantana camara, an ornamental shrub."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Ornamental_plant> .
+
+<http://dbpedia.org/resource/Aizoaceae>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Euphorbia_subg._Poinsettia>
+        <http://dbpedia.org/ontology/abstract>
+                "Euphorbia subg. Poinsettia is a subgenus deriving from the genus Euphorbia, and is endemic to North America. It contains around 24 species, of which the best known is E. pulcherrima, the poinsettia.This species grows wild in the mountains on the Pacific slope of Mexico, and despite many legends, no one is quite sure from which wild populations the cultivated varieties derive. This taxon was first published at genus rank under the name Poinsettia by Robert Graham in 1836. It was demoted to a section of Euphorbia as E. sect. Poinsettia by Henri Ernest Baillon in 1858, but promoted to subgenus rank by Homer Doliver House in 1924. Recent studies have confirmed its monophyly.Its many species include: E. pulcherrima -- (Poinsettia) E. cyathophora -- (Summer Poinsettia, Wild Poinsettia, Painted Leaf Poinsettia) E. dentata -- (Green Poinsettia) E. heterophylla -- (Desert Poinsettia, Wild Poinsettia) E. pinetorum -- (Everglades Poinsettia)The common name \"Wild Poinsettia\" is sometimes applied to two of these species."@en .
+
+<http://dbpedia.org/resource/Lepanthes>
+        <http://dbpedia.org/ontology/abstract>
+                "Lepanthes (from Greek \"scaled-flower\") is a large genus of orchids with about 800–1000 species, distributed in the Antilles and from Mexico through Bolivia (with very few species in Brazil). The genus is abbreviated in horticultural trade as Lths. Almost all the species in the genus are small and live in cloud forests."@en .
+
+<http://dbpedia.org/resource/Broccolini>
+        <http://dbpedia.org/ontology/abstract>
+                "Broccolini (original Japanese: ブロコリーニ) is a green vegetable similar to broccoli but with smaller florets and longer, thin stalks. Often misidentified as young broccoli, it is a hybrid of broccoli and kai-lan, both cultivar groups of Brassica oleracea. It was originally developed by the Sakata Seed Company of Yokohama, Japan, in 1993 as \"aspabroc\".The entire vegetable is consumable, including the occasional yellow flower. Common cooking methods include sauteeing, steaming, boiling, and stir frying. In Japan, it is highly popular as a spring vegetable, and usually eaten steamed. Its flavor is sweet, with notes of both broccoli and asparagus, although it is not closely related to the latter.Nutritionally, it is high in vitamin C and contains vitamin A, calcium, folate, and iron.In Brazil, the common form of the word broccoli (\"brócolis\") refers to broccolini: the more expensive traditional broccoli is called \"brócolis americano\" (American broccoli)."@en .
+
+<http://dbpedia.org/resource/Euphrasia>
+        <http://dbpedia.org/ontology/abstract>
+                "Euphrasia (Eyebright) is a genus of about 450 species of herbaceous flowering plants in the family Orobanchaceae (formerly included in the Scrophulariaceae), with a cosmopolitan distribution. They are semi-parasitic on grasses and other plants. The common name refers to the plant's use in treating eye infections.Many species are found in alpine or sub-alpine meadows where snow is common. Flowers usually are borne terminally, are zygomorphic, and have a lower petal shaped like a lip. The most common flower colours are purple, blue-white, and violet. Some species have yellow markings on the lower petal to act as a guide to pollinating insects.Alternative names, mainly in herbalism, are Augentrostkraut, Euphrasiae herba, Herba Euphrasiae and Herbe d'Euphraise."@en .
+
+<http://dbpedia.org/resource/Neoregelia_'Sincerely'>
+        <http://dbpedia.org/ontology/abstract>
+                "'Sincerely' is a hybrid cultivar of the genus Neoregelia in the Bromeliad family."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Neoregelia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Denbies>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kitembilla>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ceylon> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jopoy>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mayan> .
+
+<http://dbpedia.org/resource/Scottish_Highlands>
+        a       <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/Lettowianthus_stellatus>
+        <http://dbpedia.org/ontology/abstract>
+                "Lettowianthus stellatus is a species of plant in the Annonaceae family. It is found in Kenya and Tanzania."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Tanzania> , <http://dbpedia.org/resource/Family_%28biology%29> , <http://dbpedia.org/resource/Annonaceae> , <http://dbpedia.org/resource/Plant> , <http://dbpedia.org/resource/Species> .
+
+<http://dbpedia.org/resource/Ptelea>
+        <http://dbpedia.org/ontology/abstract>
+                "Ptelea is a genus of flowering plants in the citrus family, Rutaceae. The name, of Greek derivation, is the classical name of the elm tree. Carl Linnaeus used that word for this genus because of the resemblance of its fruit to that of the elm. Members of the genus are commonly known as hoptrees."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Elm> .
+
+<http://dbpedia.org/resource/Saxifraga>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://dbpedia.org/resource/Guettarda>
+        <http://dbpedia.org/ontology/abstract>
+                "Guettarda is a plant genus in the family Rubiaceae. Most of these plants are known by the common name Velvetseed. Estimates of the number of species range from about 50 to 162. Most of the species are neotropical. Twenty are found in New Caledonia and one reaches Australia. A few others are found on islands and in coastal areas of the Indian and Pacific Oceans.Three species (G. odorata, G. scabra, G. speciosa) are known in cultivation. Guettarda argentea provides edible fruit. The type species for the genus is Guettarda speciosa. It is a tree of coastal habitats, up to 18 m (59 ft) in height. It is grown as an ornamental.Guettarda was named by Linnaeus in 1753 in his book Species Plantarum. This generic name is in honour of the 18th century French naturalist Jean-Étienne Guettard.The genus Guettarda is much in need of revision. Molecular phylogenetic studies have found it to be several times polyphyletic with some of its clades paraphyletic over small genera."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Habitat> , <http://dbpedia.org/resource/Plant> , <http://dbpedia.org/resource/Coast> , <http://dbpedia.org/resource/Neotropic_ecozone> , <http://dbpedia.org/resource/Genus> , <http://dbpedia.org/resource/Species> , <http://dbpedia.org/resource/Common_name> , <http://dbpedia.org/resource/Family_%28biology%29> , <http://dbpedia.org/resource/Rubiaceae> , <http://dbpedia.org/resource/Type_species> .
+
+<http://dbpedia.org/resource/Acid>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Phyllanthus_emblica>
+        <http://dbpedia.org/ontology/abstract>
+                "Phyllanthus emblica (syn. Emblica officinalis), the Indian gooseberry, or Dhatrik (in Maithili), or amla from Sanskrit amalika, Tamil நெல்லி, Malayalam നെല്ലിക്ക, Oriya ଅଁଳା, Marathi आवळा, Hindi आवला, Bengali আমলকি, Suaklu in Zomi is a deciduous tree of the family Phyllanthaceae. It is known for its edible fruit of the same name."@en .
+
+<http://dbpedia.org/resource/Namibia>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Country> .
+
+<http://ns.aksw.org/scms/annotations/stanford/century>
+        a       <http://ns.aksw.org/scms/annotations/stanford/O> .
+
+<http://dbpedia.org/resource/Seed>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Esenbeckia_(plant)>
+        <http://dbpedia.org/ontology/abstract>
+                "Esenbeckia is a genus of flowering plants in the rue family, Rutaceae. All species in the genus are native to the Americas, with the highest diversity in South America. They are commonly known as Jopoy, the Mayan word for E. berlandieri, or Gasparillo (Spanish)."@en .
+
+<http://dbpedia.org/resource/Grassland>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Phyllanthaceae>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://dbpedia.org/resource/Hainan_yellow_lantern_chili>
+        <http://dbpedia.org/ontology/abstract>
+                "The Hainan yellow lantern chili (Chinese: 海南黄灯笼椒 Pinyin: hǎi nán huáng dēng lóng jiāo), also known as the yellow emperor chili (Chinese: 黄帝椒 Pinyin: huáng dì jiāo) is a member of the Capsicum chinense species of chili peppers that grows mainly in the southwest and southeast of Hainan Island off the coast of Southern China."@en .
+
+<http://dbpedia.org/resource/Pinophyta>
+        a       <http://dbpedia.org/ontology/Conifer> , <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kiribati>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> .
+
+<http://dbpedia.org/resource/Colombia>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Great_Basin>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/NaturalPlace> , <http://dbpedia.org/ontology/MountainRange> .
+
+<http://dbpedia.org/resource/Pseudobombax_argentinum>
+        <http://dbpedia.org/ontology/abstract>
+                "The Soroche (Pseudobombax argentinum) is a species of flowering plant in the Bombacaceae family.It is found in Argentina, Bolivia, Brazil, and Paraguay.It is threatened by habitat loss."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Argentina> , <http://dbpedia.org/resource/Bombacaceae> , <http://dbpedia.org/resource/Brazil> , <http://dbpedia.org/resource/Habitat_destruction> , <http://dbpedia.org/resource/Threatened_species> , <http://dbpedia.org/resource/Bolivia> , <http://dbpedia.org/resource/Paraguay> , <http://dbpedia.org/resource/Flowering_plant> , <http://dbpedia.org/resource/Species> .
+
+<http://dbpedia.org/resource/Mimosa_andina>
+        <http://dbpedia.org/ontology/abstract>
+                "Mimosa andina is a species of legume in the Fabaceae family.It is found only in Ecuador.Its natural habitat is subtropical or tropical dry shrubland."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Legume> , <http://dbpedia.org/resource/Fabaceae> , <http://dbpedia.org/resource/Habitat> , <http://dbpedia.org/resource/Shrubland> .
+
+<http://dbpedia.org/resource/Malvaceae>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> .
+
+<http://dbpedia.org/resource/Euphorbiaceae>
+        a       <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mayan>
+        a       <http://ns.aksw.org/scms/annotations/stanford/O> .
+
+<http://dbpedia.org/resource/India>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Roter_Veltliner>
+        <http://dbpedia.org/ontology/abstract>
+                "Roter Veltliner is a grape variety used to make white wine. It is found in Austria. Some of the better wines come from the Wagram district of Donauland.It is believed to be a very old variety, but its parentage has so far not been possible to determine. There are however several other varieties which are the offspring of Roter Veltliner, such as: Frühroter Veltliner, a cross with Silvaner Neuburger, another cross with Silvaner Rotgipfler, a cross with Traminer Zierfandler, possibly a cross with TraminerDespite its name Roter Veltliner is not related to Grüner Veltliner. It was previously believed that Roter Veltliner could be a grandparent to Grüner Veltliner, but that hypothesis seems to have lost credibility with later studies."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Silvaner> , <http://dbpedia.org/resource/Austrian_wine> , <http://dbpedia.org/resource/Wine> , <http://dbpedia.org/resource/List_of_grape_varieties> , <http://dbpedia.org/resource/Grape> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Henri_Ernest_Baillon>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1858> .
+
+<http://dbpedia.org/resource/Cotyledon_(genus)>
+        <http://dbpedia.org/ontology/abstract>
+                "Cotyledon is a genus of the Crassulaceae family. Plants in the genus occur in the Arabian peninsula and throughout the drier parts of Africa, but mainly in Southern Africa. Members of the genus are shrublets, generally succulent, with fleshily woody, brittle stems and persistent succulent leaves. The leaves are opposite. Leaf pairs generally are oriented at 90 degrees to their preceding and following pairs, as is common in the family Crassulaceae, but the leaf habit differs from say Tylecodon in which the leaves are borne in spirals and are deciduous. The flowers are pendulous and tubular, borne at the tips of stout, rather long peduncles, mainly in short cymes. Calyx 5-partite, corolla 5-lobed. Petals united in a tube or urn that generally is longer than broad, their triangular tips more or less pointed and recurved, 10 stamens arising from corolla near base and projecting or nearly projecting from the corolla. Gynoecium comprises 5 carpels, nearly or quite free, each carpel tapering into a slender style with an obliquely capitate stigma. Each carpel contains many small (typically less than 1 milligramme when ripe) globular, brown seeds.Until the 1960s there were about 150 species described as being in the genus Cotyledon. However, since then it has been split into at least Adromischus, Dudleya, Rossularia, and Tylecodon, leaving probably less than two dozen species in Cotyledon. Of these, about four are characteristically fynbos plants.Most plants in the genus, as well as those that formerly were included in the genus Cotyledon, are poisonous, even dangerously poisonous. Some have been implicated in stock losses among goats, pigs and poultry. However, many species have long been used in traditional medicine. They have been applied for many purposes, ranging from magic charms to removal of corns (allegedly successfully). One thing that is clear is that the species vary in their activity, ranging from allegedly edible to deadly, so it is best to regard all species as dangerous until otherwise demonstrated. As succulents go, Cotyledon spp. certainly are rewarding garden and indoor subjects, practically independent of irrigation in all but full desert conditions, though they cannot survive poor light or bad drainage in the wet. Their main enemies are sucking bugs, members of the suborder Auchenorrhyncha such as the mealy bug (Pseudococcus) and similar insects. Though not spectacular, they are elegantly decorative and often interesting in shape. The inflorescences of the larger species often make fine components of dried arrangements in floral design. Species include: Cotyledon adscendens Cotyledon barbeyi Cotyledon campanulata Cotyledon cuneata Cotyledon chrysantha Cotyledon elisae Cotyledon galpinii Cotyledon orbiculata – Pig's Ear, Round-Leafed Navel-Wort Cotyledon papilaris Cotyledon tomentosa - Bear's Paw Cotyledon undulata - Silver Crown, Silver Ruffles Cotyledon velutina Cotyledon woodii↑ ↑ 2.0 2.1 2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9 ↑ ↑"@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Plant> .
+
+<http://dbpedia.org/resource/Kerria_japonica>
+        <http://dbpedia.org/ontology/abstract>
+                "Kerria japonica, the sole species in the genus Kerria, is a deciduous shrub in the rose family Rosaceae, native to China, Japan and Korea. It is named after William Kerr, who introduced the cultivar 'Pleniflora'. The scientific genus name is also used as a common name Kerria."@en .
+
+<http://ns.aksw.org/scms/annotations/stanford/Chile>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Phil> .
+
+<http://dbpedia.org/resource/Plant>
+        a       <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> .
+
+<http://dbpedia.org/resource/Gentianella>
+        <http://dbpedia.org/ontology/abstract>
+                "Gentianella (Dwarf gentian) is a plant genus in the Gentian family (Gentianaceae)."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Gentianaceae> , <http://dbpedia.org/resource/Plant> .
+
+<http://dbpedia.org/resource/Echinochloa_frumentacea>
+        <http://dbpedia.org/ontology/abstract>
+                "Echinochloa frumentacea (Indian barnyard millet, sawa millet, or billion dollar grass) is a species of Echinochloa. Both Echinochloa frumentacea and E. esculenta are called Japanese millet. This millet is widely grown as a cereal in India, Pakistan, and Nepal. Its wild ancestor is the tropical grass Echinochloa colona, but the exact date or region of domestication is uncertain. It is cultivated on marginal lands where rice and other crops will not grow well. The grains are cooked in water, like rice, or boiled with milk and sugar. Sometimes it is fermented to make beer. While also being part of staple diet for some communities in India, these seeds are, in particular, (cooked and) eaten during religious fasting (willingly abstaining from some types of food / food ingredients). For this reason, these seeds are commonly also referred to as \"vrat ke chawal\" in Hindi (i.e. - rice for fasting, literally). Other common names to identify these seeds include Samo seeds, Morio / Mario / Moraiaya seeds, Bhagar."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Seed> , <http://dbpedia.org/resource/Cooking> , <http://dbpedia.org/resource/Staple_food> , <http://dbpedia.org/resource/Food> , <http://dbpedia.org/resource/Millet> , <http://dbpedia.org/resource/Indian_subcontinent> , <http://dbpedia.org/resource/Cereal> , <http://dbpedia.org/resource/Rice> , <http://dbpedia.org/resource/India> .
+
+<http://dbpedia.org/resource/Elbling>
+        <http://dbpedia.org/ontology/abstract>
+                "Elbling is a variety of white grape (sp. Vitis vinifera) which today is primarily grown in the upstream parts of the Mosel region in Germany and in Luxembourg, where the river is called Moselle. The variety has a long history, and used to cover much of Germany's vineyards from medieval times and was that country's most cultivated variety until the early 20th century, but has been in decline ever since. As of 2006, there were 583 hectares (1,440 acres) of Elbling vineyards in Germany, which made it the country's 23rd most grown variety of grape. Of that vineyard surface, 575 ha or 98.6% was found in the Mosel region In the same year, there were 122.9 hectares (304 acres) of Elbling grown in Luxembourg."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Acre> , <http://dbpedia.org/resource/Hectare> , <http://dbpedia.org/resource/Vineyard> , <http://dbpedia.org/resource/Luxembourg> , <http://dbpedia.org/resource/German_wine> , <http://dbpedia.org/resource/Vitis_vinifera> , <http://dbpedia.org/resource/Grape> , <http://dbpedia.org/resource/List_of_grape_varieties> .
+
+<http://dbpedia.org/resource/Cissus>
+        <http://dbpedia.org/ontology/abstract>
+                "Cissus is a genus of approximately 350 species of woody vines in the grape family (Vitaceae). They have a cosmopolitan distribution, though the majority are to be found in the tropics."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Vitaceae> , <http://dbpedia.org/resource/Tropics> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1968>
+        a       <http://ns.aksw.org/scms/annotations/stanford/O> .
+
+<http://dbpedia.org/resource/Afromontane>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Rondo_(grape)>
+        <http://dbpedia.org/ontology/abstract>
+                "Rondo is a dark-skinned grape variety, used for making red wine. It is a hybrid grape or inter-specific crossing. It was created in 1964 by Professor V. Kraus in then-Czechoslovakia by crossing the varieties Zarya Severa (a hybrid which has Vitis amurensis in its pedigree) and St. Laurent. He offered it to Dr. Helmut Becker (1927-1990) of the Geisenheim Grape Breeding Institute who conducted further work on it, which explains why the grape is known under a Geisenheim designation. The variety has been protected since 1997.This very early maturing variety possesses high resistance against winter frost and downy mildew from its Asiatic Vitis amurensis parent. However annual treatments against powdery mildew may still be necessary in the vineyards. Rondo produces a ruby-red wine which is also used for blending. Rondo is cultivated in many locations in northern Europe where dark-skinned Vitis vinifera varieties are difficult to ripen properly, as it tends to yield good colour and aroma even in those locations. Rondo is cultivated in Rheinhessen and in many locations in northern Europe including Denmark, England, Ireland, the Netherlands and Sweden.In 2011 the British winery Denbies picked up a gold prize in the International Wine Challenge for their 2010 vintage Chalk Ridge Rose, a wine made entirely from Rondo grapes."@en .
+
+<http://dbpedia.org/resource/Abies_amabilis>
+        <http://dbpedia.org/ontology/abstract>
+                "Abies amabilis, commonly known as the Pacific silver fir, is a fir native to the Pacific Northwest of North America, occurring in the Pacific Coast Ranges and the Cascade Range from the extreme southeast of Alaska, through western British Columbia, Washington and Oregon, to the extreme northwest of California. It is also commonly referred to as the white fir, red fir, lovely fir, amabilis fir, Cascades fir, or silver fir. It grows at altitudes of sea level to 1,500 metres (4,900 ft) in the north of the range, and 1,000–2,300 metres (3,300–7,500 ft) in the south of the range, always in temperate rain forest with relatively high precipitation and cool, humid summers. Common associate trees are Douglas fir and in the extreme southern area of its range, California buckeye."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Pacific_Coast_Ranges> .
+
+<http://dbpedia.org/resource/Cyrtosperma_merkusii>
+        <http://dbpedia.org/ontology/abstract>
+                "Cyrtosperma merkusii or giant swamp taro, is a crop grown throughout Oceania. It is a \"swamp crop\" similar to taro, but \"with bigger leaves and larger, coarser roots.\" It is known as puraka in Cook Islands, Babai in Kiribati, pula’a in Samoa, via kan in Fiji, Pulaka in Tokelau and Tuvalu, simiden in Chuuk, swam taro in Papua New Guinea, navia in Vanuatu and palawan in the Philippines. The same species is also known by the names Cyrtosperma lasioides, Cyrtosperma chamissonis and Cyrtosperma edule.In the harsh atoll environments of the Central Pacific, especially Tuvalu and Kiribati, swamp taro is an important source of carbohydrates in a diet dominated by fish and coconut. Its cultivation is difficult and time consuming and the plant has deep cultural as well as practical significance. The roots need to be cooked for hours to reduce toxicity in the corms, but are rich in nutrients, especially calcium. The cultivation of Pulaka in Tuvalu, and babai in Kiribati, is an important cultural and culinary tradition, now under threat from rising sea level and displacement from the growing use of imported food products."@en .
+
+<http://dbpedia.org/resource/Lilium>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> .
+
+<http://dbpedia.org/resource/Tropical_and_subtropical_dry_broadleaf_forests>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Dudleya>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> .
+
+<http://dbpedia.org/resource/Victoria_%28Australia%29>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Myrtus>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Eustoma>
+        <http://dbpedia.org/ontology/abstract>
+                "Eustoma, a genus of three species in the family Gentianaceae, grows natively in warm regions of the Southern United States, Mexico, Caribbean and northern South America. Examples grow mostly in grassland and in areas of disturbed ground. These flowers are commonly known as Lisianthus flowers.They are herbaceous annuals, growing to 15 – 60 cm tall, with bluish green, slightly succulent leaves and large funnel-shaped flowers growing on long straight stems: sometimes erect single stems, other times growing on branching stems that can rise to be three feet tall. The flowers can grow up to two inches across and can be found in a variety of colors. They have been found in all shades of pink, purple, white, and blue. In addition, some are bicolored and some are occasionally found in yellow or carmine-red.Lisianthus flowers are either single-flowered or double-flowered. Both types of flowers can be found in all ranges of the possible colors listed above.They are usually one to three feet tall, although there are dwarf varieties that only grow up to eight inches in height. Lisianthus flowers are tricky to grow and require some maintenance. They have tiny seeds that must be sown on the surface, not buried, and they must be planted in rich, well-drained soil and exposed to full sun. They must be kept moist but not overwatered: overwatering may result in the growth and development of fungal diseases. Lisianthus flowers will begin to bloom in early summer and some will continue to bloom throughout the later months of the summer. When cut, Lisianthus flowers can last anywhere from two to three weeks in a vase.Eustoma russellianum is particularly popular and has a number of cultivars that are grown for the cut-flower market. The cultivated flower is also often known as Lisianthus, Texas Bluebell, Prairie Gentian, Tulip Gentian, or just Gentian, although the last name can cause confusion with the related Gentian plant genus. Eustoma is named after the Greek words eu, which means beautiful, and stoma, which means mouth. Lisianthus on the other hand comes from the Greek words lysis, meaning dissolution, and anthos, which means flower."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Seed> , <http://dbpedia.org/resource/Stoma> , <http://dbpedia.org/resource/Tulip> , <http://dbpedia.org/resource/Pedicel_%28botany%29> , <http://dbpedia.org/resource/Cultivar> , <http://dbpedia.org/resource/Flower> , <http://dbpedia.org/resource/Herbaceous_plant> , <http://dbpedia.org/resource/Variety_%28botany%29> , <http://dbpedia.org/resource/Plant> , <http://dbpedia.org/resource/Succulent_plant> , <http://dbpedia.org/resource/Leaf> .
+
+<http://dbpedia.org/resource/Luxembourg>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Country> .
+
+<http://dbpedia.org/resource/Chisocheton_amabilis>
+        <http://dbpedia.org/ontology/abstract>
+                "Chisocheton amabilis is a tree in the Meliaceae family. It grows up to 17 metres (60 ft) tall with a trunk diameter of up to 10 centimetres (4 in). The bark is grey-green. The fragrant flowers are white, sometimes pink-tipped. The fruits are round, pink ripening to bright red, up to 4 cm (2 in) in diameter. The specific epithet amabilis is from the Latin meaning \"lovely\". Habitat is peatswamp and riparian forests from sea-level to 20 metres (100 ft) altitude. C. amabilis is found in Sumatra, Peninsular Malaysia and Borneo."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Metre> .
+
+<http://dbpedia.org/resource/Gmelina_arborea>
+        <http://dbpedia.org/ontology/abstract>
+                "Gmelina arborea, (in English Beechwood, Gmelina, Goomar teak, Kashmir tree, Malay beechwood, White teak, Vemane ), locally known as Gamhar, is a fast growing deciduous tree, occurring naturally throughout greater part of India at altitudes up to 1,500 meters. It also occurs naturally in Myanmar, Thailand, Laos, Cambodia, Vietnam, and in southern provinces of China, and has been planted extensively in Sierra Leone, Nigeria, Malaysia, and on experimental basis in other countries as well. It is also planted in gardens and avenues."@en .
+
+<http://dbpedia.org/resource/New_South_Wales>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Drimys_winteri>
+        <http://dbpedia.org/ontology/abstract>
+                "Drimys winteri (winter's bark or canelo) is a slender tree, growing up to 20 m (66 ft) tall. It is native to the Magellanic and Valdivian temperate rain forests of Chile and Argentina, where it is a dominant tree in the coastal evergreen forests. It is found below 1,200 m (3,937 ft) between latitude 32° south and Cape Horn at latitude 56°. In its southernmost natural range it can tolerate temperatures down to −20 °C (−4 °F).The leaves are lanceolate, glossy green above, whitish below and can measure up to 20 cm (8 in). The flowers are white with a yellow center, and comprise a great number of petals and stamens. The fruit is a bluish berry."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Latitude> , <http://dbpedia.org/resource/Evergreen> , <http://dbpedia.org/resource/Tree> .
+
+<http://dbpedia.org/resource/Petit_Meslier>
+        <http://dbpedia.org/ontology/abstract>
+                "Petit Meslier is a rare white wine grape that is a minor component of some Champagne blends. It is valued for its ability to retain acidity even in hot vintages. In the very rare cases where it is not blended, it makes crisp wines tasting of apples."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Apple> , <http://dbpedia.org/resource/Wine> , <http://dbpedia.org/resource/Vintage> , <http://dbpedia.org/resource/Acid> , <http://dbpedia.org/resource/Champagne_%28wine_region%29> , <http://dbpedia.org/resource/Grape> .
+
+<http://dbpedia.org/resource/Rubiaceae>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://dbpedia.org/resource/Quince>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://dbpedia.org/resource/Acacia_floribunda>
+        <http://dbpedia.org/ontology/abstract>
+                "Acacia floribunda is a perennial evergreen shrub or tree. It is native to New South Wales, Queensland and Victoria, but is cultivated extensively, and has naturalised in South Australia, Tasmania and Western Australia, and also in Indonesia, Mauritius and northern New Zealand. Common names for it include Gossamer Wattle, Grossamer Wattle, Weeping Acacia and White Sallow Wattle. It grows up to 6m in height, but there is a commercial form available which only grows to about 1m tall. Its cream-colored flowers occur in the early Spring (August to September in the southern hemisphere)."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/New_South_Wales> , <http://dbpedia.org/resource/Queensland> , <http://dbpedia.org/resource/Victoria_%28Australia%29> , <http://dbpedia.org/resource/South_Australia> , <http://dbpedia.org/resource/Tasmania> , <http://dbpedia.org/resource/Western_Australia> .
+
+<http://dbpedia.org/resource/Erythroseris_amabilis>
+        <http://dbpedia.org/ontology/abstract>
+                "Erythroseris amabilis is a species of flowering plant in the Asteraceae family.It is found only in Yemen.Its natural habitats are subtropical or tropical dry forests and rocky areas."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Species> , <http://dbpedia.org/resource/Flowering_plant> , <http://dbpedia.org/resource/Asteraceae> , <http://dbpedia.org/resource/Family_%28biology%29> , <http://dbpedia.org/resource/Habitat> , <http://dbpedia.org/resource/Subtropics> , <http://dbpedia.org/resource/Tropical_and_subtropical_dry_broadleaf_forests> , <http://dbpedia.org/resource/Rocky_Mountains> .
+
+<http://dbpedia.org/resource/Fritillaria_camschatcensis>
+        <http://dbpedia.org/ontology/abstract>
+                "Fritillaria camschatcensis is a species of fritillary native to northeastern Asia and northwestern North America , including northern Oregon, Washington, British Columbia, Alaska, northern Japan, and the Russian Far East (Amur, Kamchatka, Khabarovsk, Magadan, Primorye, Sakhalin and the Kuril Islands). It has many common names, typically Kamchatka fritillary or Kamchatka lily.It is also called rice lily, northern rice-root, or (misleadingly) \"Indian rice\" or \"wild rice\", because of the rice-like bulblets that form around its roots. It is also sometimes known as skunk lily, dirty diaper and outhouse lily because of the flower's unpleasant smell. Yet another vernacular name is \"chocolate lily\" because of its brown color, but that term is also applied to Fritillaria biflora (in California) or to the distantly related Arthropodium strictum whose flowers smell of chocolate."@en .
+
+<http://dbpedia.org/resource/Aechmea>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> .
+
+<http://dbpedia.org/resource/Rice>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Ansonica>
+        <http://dbpedia.org/ontology/abstract>
+                "Ansonica or Inzolia is a white Italian wine grape planted primarily in western Sicily where it can be used to produce Marsala wine. The grape is noted for its nutty aroma. In Tuscany, the grape is known as Ansonica. It is the chief (and potentially only) component of the Tuscan D.O.C. Ansonica Costa dell'Argentario, which is located on the extreme southern coast of Tuscany and on the island of Giglio.Ansonica can also be found in the following DOC wines: Calabria: Bivongi DOC;Sicily: Alcamo DOC, Contea di Sclafani DOC, Contessa Entellina DOC, Delia Nivolelli DOC, Erice DOC, Memertino di Milazzo or Mamertino DOC, Marsala DOC, Menfi DOC, Monreale DOC, Riesi DOC, Salaparuta DOC, Sambuca di Sicilia DOC, Santa Margherita di Belice DOC, Sciacca DOC, Vittoria DOC; Tuscany: Ansonica Costa dell'Argentario DOC, Elba DOC, Parrina DOC and Val di Cornia DOC."@en .
+
+<http://dbpedia.org/resource/Rhodopis_(plant)>
+        <http://dbpedia.org/ontology/abstract>
+                "Rhodopis is a genus of flowering plants in the legume family, Fabaceae. It belongs to the subfamily Faboideae."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Faboideae> , <http://dbpedia.org/resource/Fabaceae> , <http://dbpedia.org/resource/Legume> , <http://dbpedia.org/resource/Flowering_plant> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hieronymus_Bock>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/century> .
+
+<http://dbpedia.org/resource/Sorbus_amabilis>
+        <http://dbpedia.org/ontology/abstract>
+                "Sorbus amabilis (Chinese: 黄山花楸; pinyin: Huángshān huāqiū; literally \"Huangshan rowan\") is a species of tree in the Rosaceae family. It is a small tree up to 10 metres (33 ft) tall growing in mixed forests and mountain slopes of eastern China; it is endemic to China and only found in Anhui, Fujian, Hubei, Jiangxi, and Zhejiang provinces. It is threatened by habitat loss."@en .
+
+<http://dbpedia.org/resource/Bombacaceae>
+        a       <http://dbpedia.org/ontology/FloweringPlant> , <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Nigeria>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> .
+
+<http://dbpedia.org/resource/South_Australia>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Phil>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://dbpedia.org/resource/Vitis_vinifera>
+        a       <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/FloweringPlant> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Suaklu>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Zomi> .
+
+<http://dbpedia.org/resource/Parthenium_incanum>
+        <http://dbpedia.org/ontology/abstract>
+                "Parthenium incanum (common name Mariola or New Mexico rubber plant) is a plant in the genus Parthenium of the family Asteraceae."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Asteraceae> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1971>
+        a       <http://ns.aksw.org/scms/annotations/stanford/O> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Feddema> .
+
+<http://dbpedia.org/resource/Scheurebe>
+        <http://dbpedia.org/ontology/abstract>
+                "Scheurebe or Sämling 88 is a white wine grape variety. It is primarily grown in Germany and Austria, where it often is called Sämling 88 (English: Seedling 88), and some parts of the New World. Scheurebe wines are highly aromatic, and the variety is often used for sweet wines, although dry Scheurebe wines have become more common in Germany."@en .
+
+<http://dbpedia.org/resource/Brugmansia_versicolor>
+        <http://dbpedia.org/ontology/abstract>
+                "Brugmansia versicolor is a species of plant in the Solanaceae family, commonly referred to as “Angel’s Tear” or “Angel’s Trumpet”. It is endemic to Ecuador."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Species> , <http://dbpedia.org/resource/Plant> , <http://dbpedia.org/resource/Solanaceae> , <http://dbpedia.org/resource/Family_%28biology%29> , <http://dbpedia.org/resource/Endemism> , <http://dbpedia.org/resource/Ecuador> .
+
+<http://dbpedia.org/resource/Iridaceae>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1858>
+        a       <http://ns.aksw.org/scms/annotations/stanford/O> .
+
+<http://dbpedia.org/resource/Faboideae>
+        a       <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> .
+
+<http://dbpedia.org/resource/Amelanchier_amabilis>
+        <http://dbpedia.org/ontology/abstract>
+                "Amelanchier amabilis, also known as Lovely shadbush (French: amélanchier gracieux), is a species of serviceberry. It can found from Quebec and Ontario to New York."@en .
+
+<http://dbpedia.org/resource/Pineda_(plant)>
+        <http://dbpedia.org/ontology/abstract>
+                "Pineda is a genus of flowering plants in the willow family, Salicaceae. It contains two species of shrubs: Pineda incana, which is native to the Andes of Ecuador and Peru, and Pineda ovata, which is native to the Andes of Bolivia.Pineda is unique among Salicaceae in that the species have 4-5 sepals and petals, hermaphroditic flowers, receptacular disk glands (=nectaries), and outer filamentous staminodes. It is one of few genera of Salicaceae that occur at high elevations. Formerly placed in the heterogeneous family Flacourtiaceae, Pineda is now classified in tribe Prockieae of Salicaceae, along with close relatives Prockia, Banara, Hasseltiopsis, and Neosprucea.Pineda was named in honor of Antonio Pineda, a Guatemalan botanist who was coordinator of the naturalists aboard the Pacific expedition of Alessandro Malaspina.Pineda incana is known as \"lloqui,\" \"lloque,\" \"lloquecillos,\" or \"manzanitas cimarronas,\" and Pineda ovata is known as \"duraznillo.\" Pineda ovata is commonly misidentified as Prockia crucis (Salicaceae)."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Flowering_plant> .
+
+<http://dbpedia.org/resource/Rocky_Mountains>
+        a       <http://dbpedia.org/ontology/MountainRange> , <http://dbpedia.org/ontology/NaturalPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ortega>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/German_wine> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Greek>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> .
+
+<http://dbpedia.org/resource/Neoregelia>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://dbpedia.org/resource/Argentina>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Moss>
+        a       <http://dbpedia.org/ontology/Moss> , <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Leptochilus_(plant)>
+        <http://dbpedia.org/ontology/abstract>
+                "Leptochilus is a fern genus in the family Polypodiaceae. Species include Leptochilus cantoniensis."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Fern> , <http://dbpedia.org/resource/Genus> , <http://dbpedia.org/resource/Family_%28biology%29> , <http://dbpedia.org/resource/Polypodiaceae> , <http://dbpedia.org/resource/Species> .
+
+<http://dbpedia.org/resource/China>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Silvaner>
+        a       <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/FloweringPlant> , <http://dbpedia.org/ontology/Grape> .
+
+<http://dbpedia.org/resource/Pterygota_(genus)>
+        <http://dbpedia.org/ontology/abstract>
+                "Pterygota is a genus of flowering plants in the family Malvaceae. In older systems of classification, it was placed in Sterculiaceae, but all members of that family are now in an expanded Malvaceae.Pterygota has a pantropical distribution.Species includePterygota alata (Buddha coconut)Pterygota bequaertiiPterygota macrocarpa"@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Sterculiaceae> , <http://dbpedia.org/resource/Malvaceae> , <http://dbpedia.org/resource/Family_%28biology%29> .
+
+<http://dbpedia.org/resource/Asparagaceae>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Morio>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Samo> .
+
+<http://dbpedia.org/resource/Wine>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Food>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Hura_(plant)>
+        <http://dbpedia.org/ontology/abstract>
+                "Hura is a plant genus of the family Euphorbiaceae found in tropical America."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Tropics> , <http://dbpedia.org/resource/Euphorbiaceae> , <http://dbpedia.org/resource/Plant> .
+
+<http://dbpedia.org/resource/Annonaceae>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> .
+
+<http://dbpedia.org/resource/Ecuador>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Lapidaria_margaretae>
+        <http://dbpedia.org/ontology/abstract>
+                "Lapidaria is a monotypic genus of dwarf succulent plants in the Aizoaceae family. The only species it contains is Lapidaria margaretae, also known as the Karoo rose."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Succulent_plant> , <http://dbpedia.org/resource/Family_%28biology%29> , <http://dbpedia.org/resource/Species> , <http://dbpedia.org/resource/Karoo> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Britton>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://dbpedia.org/resource/Mimosoideae>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://dbpedia.org/resource/Africa>
+        a       <http://dbpedia.org/ontology/Continent> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1753>
+        a       <http://ns.aksw.org/scms/annotations/stanford/O> .
+
+<http://dbpedia.org/resource/Fern>
+        a       <http://dbpedia.org/ontology/Fern> , <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Fritillaria>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/California> .
+
+<http://dbpedia.org/resource/Capsicum_pubescens>
+        <http://dbpedia.org/ontology/abstract>
+                "Capsicum pubescens is a species of the genus Capsicum (pepper), known as rocoto (Quechua: ruqutu) and locoto (Aymara: luqutu), which is found primarily in Central and South America. It is known only in cultivation. The species name, pubescens, means hairy, which refers to the hairy leaves of this pepper. The hairiness of the leaves, along with the black seeds, distinguish this species from others. As they reach a relatively advanced age and the roots lignify quickly, sometimes they are called tree chili. Of all the domesticated species of peppers, this is the least widespread and systematically furthest away from all others. It is reproductively isolated from other species of the genus Capsicum. A very notable feature of this species is its ability to withstand cooler temperatures than other cultivated pepper plants, but cannot withstand frost."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Capsicum> .
+
+<http://dbpedia.org/resource/Melastomataceae>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://dbpedia.org/resource/Lasiopogon_ponticulus>
+        <http://dbpedia.org/ontology/abstract>
+                "Lasiopogon ponticulus is a species of flowering plant in the Asteraceae family.It is found only in Namibia.Its natural habitat is cold desert.It is threatened by habitat loss."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Species> , <http://dbpedia.org/resource/Flowering_plant> , <http://dbpedia.org/resource/Asteraceae> , <http://dbpedia.org/resource/Family_%28biology%29> , <http://dbpedia.org/resource/Habitat> , <http://dbpedia.org/resource/Threatened_species> , <http://dbpedia.org/resource/Habitat_destruction> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ceylon>
+        a       <http://ns.aksw.org/scms/annotations/stanford/ORGANIZATION> .
+
+<http://dbpedia.org/resource/Asteraceae>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> .
+
+<http://dbpedia.org/resource/Hopea_pterygota>
+        <http://dbpedia.org/ontology/abstract>
+                "Hopea pterygota is a species of plant in the Dipterocarpaceae family. It is endemic to northern Borneo (Brunei and Sarawak)."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Dipterocarpaceae> .
+
+<http://dbpedia.org/resource/Pseudocydonia>
+        <http://dbpedia.org/ontology/abstract>
+                "Pseudocydonia sinensis (Chinese Quince), the only species in the genus Pseudocydonia, is a deciduous or semi-evergreen tree in the family Rosaceae, native to eastern Asia in China. It is closely related to the east Asian genus Chaenomeles, and is sometimes placed in Chaenomeles as C. sinensis, but notable differences are the lack of thorns, and that the flowers are produced singly, not in clusters. It is closely related to the European Quince genus Cydonia, but one notable difference is the serrated leaves.In China, the species is called \"mugua\", while in Korea, it is called \"mogwa\" (hangul: 모과; Chinese/hanja: 木瓜 - not to be confused with \"papaya\", whose Chinese transliteration is also called 木瓜) which is used for medicine or for making beverages.In Japan, it is known as \"karin - 花梨\" (花 - a flower, 梨 - a pear of an Asian round variety that is called \"nashi\").It grows to 10–18 m tall, with a dense, twiggy crown. The leaves are alternately arranged, simple, 6–12 cm long and 3–6 cm broad, and have a serrated margin. The flowers are 2.5–4 cm diameter, with five pale pink petals; flowering is in mid spring. The fruit is a large ovoid pome 12–17 cm long with five carpels; it gives off an intense, sweet smell and it ripens in late autumn."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Deciduous> , <http://dbpedia.org/resource/Evergreen> , <http://dbpedia.org/resource/China> , <http://dbpedia.org/resource/Flower> , <http://dbpedia.org/resource/Quince> , <http://dbpedia.org/resource/Leaf> , <http://dbpedia.org/resource/Pome> .
+
+<http://dbpedia.org/resource/Phyllanthus_acidus>
+        <http://dbpedia.org/ontology/abstract>
+                "Phyllanthus acidus, known as the Otaheite gooseberry, Malay gooseberry, Tahitian gooseberry, country gooseberry, star gooseberry, West India gooseberry, damsel, grosella (in Puerto Rico), jimbilin (in Jamaica), karamay (in the Northern Philippines), or simply gooseberry tree, is one of the trees with edible small yellow berries fruit in the Phyllanthaceae family. Despite its name, the plant does not resemble the gooseberry, except for the acidity of its fruits. It is mostly cultivated for ornamentation."@en .
+
+<http://ns.aksw.org/scms/annotations/stanford/Samo>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://dbpedia.org/resource/Canna_amabilis>
+        <http://dbpedia.org/ontology/abstract>
+                "Canna amabilis is a species of the Canna genus, belonging to the family Cannaceae. Native to Northern Argentina (Chaco).It is a perennial and is hardy to zone 10 and is frost tender. In the north latitudes it is in flower from August to October, and the seeds ripen in October. The flowers are hermaphrodite."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Canna_%28plant%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Cameraria>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Britton> .
+
+<http://dbpedia.org/resource/Isabella_(grape)>
+        <http://dbpedia.org/ontology/abstract>
+                "The Isabella grape is a cultivar derived from the grape species Vitis labrusca or 'fox grape' which is used for table, juice and wine production."@en .
+
+<http://dbpedia.org/resource/Solanaceae>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://dbpedia.org/resource/Polybotrya_andina>
+        <http://dbpedia.org/ontology/abstract>
+                "Polybotrya andina is a species of fern in the Dryopteridaceae family. It is endemic to Ecuador. Its natural habitats are subtropical or tropical moist lowland forests and subtropical or tropical moist montane forests. It is threatened by habitat loss."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Forest> .
+
+<http://dbpedia.org/resource/Crocidium_multicaule>
+        <http://dbpedia.org/ontology/abstract>
+                "Crocidium is a monotypic genus of plants in the daisy family containing the single species Crocidium multicaule, which is known by the common name spring gold. This plant is native to western North America from British Columbia to California, where it can be found in varied habitats from grassland to woodland. It is a small annual, typically not exceeding 30 centimeters in height. It grows from a small patch of somewhat fleshy leaves at the ground and erects several very tall, very thin gangly stems, each of which is topped with a flower head. The flower head is made up of five to 13 lemon yellow ray florets, each up to a centimeter long. The center of the head is filled with tiny disc florets, in a similar shade of bright yellow. The fruits are fuzzy brown achenes only one or two millimeters long which turn gluey when wet."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Achene> , <http://dbpedia.org/resource/Head_%28botany%29> .
+
+<http://dbpedia.org/resource/Aegialitis>
+        <http://dbpedia.org/ontology/abstract>
+                "Aegialitis is a genus of two shrubby mangrove species, with one native to Southeast Asia and the other native to Australia and Papua New Guinea."@en .
+
+<http://dbpedia.org/resource/Western_Australia>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Flowering_plant>
+        a       <http://dbpedia.org/ontology/FloweringPlant> , <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/California>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Zomi>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Wattle>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://dbpedia.org/resource/Acanthaceae>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Prumnopitys_andina>
+        <http://dbpedia.org/ontology/abstract>
+                "Prumnopitys andina (Lleuque), the Chilean plum yew, is an evergreen coniferous tree native to south-central Chile and a few areas in adjacent parts of westernmost Argentina from 36 to 40° South latitude. It lives on moderately wet soils preferable on Andean slopes from 500–1100 meters (1600–3500 ft).It grows up to 30 m (100 ft) high, with a trunk up to 2 m diameter (6.5 ft). The leaves are linear to sickle-shaped, 15–30 mm long and 2 mm broad. The seed cones are highly modified, reduced to a central stem 2–4 cm long bearing 1-4 scales, each scale maturing berry-like, oval, 10–15 mm long and 10 mm broad, green maturing dark purple, with a soft edible pulp covering the single seed. The seeds are dispersed by birds, which eat the 'berries' and pass the seeds in their droppings. Seeds are very difficult to germinate. Straight and cylindrical trunk. Gray and shine bark.Before the genus Prumnopitys was distinguished, it was treated in the related genus Podocarpus as Podocarpus andinus. It has also been treated by some botanists as Prumnopitys spicata (Molloy & Muñoz-Schick 1999); however this name is illegitimate (Mill & Quinn 2001). Prumnopitys elegans (Phil) is a synonym for Prumnopitys andina.The fruit (an Aril) are tasty, 1.5 cm (0.6 in) long, blue-purple color and are eaten by Native American people in Chile, and a marmalade is produced with them. The tree is also occasionally grown as an ornamental tree and a hedge in oceanic climate areas in northwest Europe and the Pacific Northwest of North America. In these areas, it is also sometimes known as \"Plum-yew\" or \"Plum-fruited Yew\", though these names are more commonly applied to plants in the genus Cephalotaxus (Cephalotaxaceae).Wood: yellowish color and has a good quality, used in furniture and construction.Evidence suggests that very little regeneration is occurring to replace current ageing trees in populations. In 2007, the Forestry Commission planted large numbers of young trees at Bedgebury Pinetum in the UK as part of a project aiming to conserve the genetic resources of endangered conifers."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Bark> , <http://dbpedia.org/resource/Berry> , <http://dbpedia.org/resource/Leaf> , <http://dbpedia.org/resource/Pinophyta> , <http://dbpedia.org/resource/Tree> , <http://dbpedia.org/resource/Seed> , <http://dbpedia.org/resource/Evergreen> , <http://dbpedia.org/resource/Aril> , <http://dbpedia.org/resource/Fruit> .
+
+<http://dbpedia.org/resource/Acacia_stricta>
+        <http://dbpedia.org/ontology/abstract>
+                "Acacia stricta (Hop Wattle, Straight Wattle) is a perennial tree."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Acacia> , <http://dbpedia.org/resource/Perennial_plant> .
+
+<http://dbpedia.org/resource/Maple>
+        a       <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Scaphium>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Rotgipfler>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://dbpedia.org/resource/Canna_%28plant%29>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://dbpedia.org/resource/Aechmea_'Ilse'>
+        <http://dbpedia.org/ontology/abstract>
+                "'Ilse' is a hybrid cultivar of the genus Aechmea in the Bromeliad family."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Bromeliaceae> , <http://dbpedia.org/resource/Aechmea> , <http://dbpedia.org/resource/Cultivar> , <http://dbpedia.org/resource/Hybrid_%28biology%29> .
+
+<http://dbpedia.org/resource/Melpomene_(plant)>
+        <http://dbpedia.org/ontology/abstract>
+                "Melpomene is a genus of ferns in the Polypodiaceae family. Species include Melpomene brevipes among others."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Species> .
+
+<http://ns.aksw.org/scms/annotations/stanford/2010>
+        a       <http://ns.aksw.org/scms/annotations/stanford/O> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Denbies> .
+
+<http://dbpedia.org/resource/Eucalyptus_melliodora>
+        <http://dbpedia.org/ontology/abstract>
+                "Eucalyptus melliodora, commonly known as Yellow Box, is a medium sized to occasionally tall eucalypt. The bark is variable ranging from smooth with an irregular, short stocking, to covering most of the trunk, fibrous, dense or loosely held, grey, yellow or red-brown, occasionally very coarse, thick, dark brown to black; shedding from the upper limbs to leave a smooth, white or yellowish surface."@en .
+
+<http://dbpedia.org/resource/Ixia>
+        <http://dbpedia.org/ontology/abstract>
+                "The genus Ixia consists of a number of cormous plants native to South Africa from the Iridaceae family and Ixioideae subfamily. Some of them are known as the corn lily. Some distinctive traits include: sword-like leaves, and long wiry stems with star-shaped flowers. It usually prefers well-drained soil. The popular corn lily has specific, not very intense fragrance as vegetables. That is why it's often visited by many insects such as bees. The Ixia are also used sometimes as ornamental plants.The genus name is derived from the Greek words ixias, meaning \"the chameleon plant\", and physis, meaning \"bladder\"."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Ornamental_plant> , <http://dbpedia.org/resource/Lilium> , <http://dbpedia.org/resource/Iridaceae> , <http://dbpedia.org/resource/Plant> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ridl>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Scaphium> .
+
+<http://dbpedia.org/resource/Dipterocarpaceae>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Hexisea>
+        <http://dbpedia.org/ontology/abstract>
+                "Hexisea is a genus of orchids (family Orchidaceae). The genera Costaricaea Schltr. and Euothonaea Rchb.f. are synonyms of Hexisea. This genus is abbreviated Hxsa in trade journals."@en .
+
+<http://dbpedia.org/resource/Acacia_verticillata>
+        <http://dbpedia.org/ontology/abstract>
+                "Acacia verticillata (Prickly Moses; Prickly-leaved Wattle; Star-Leaved Acacia; Prickly Mimosa; Whorl-Leaved Acacia) is a perennial shrub to small tree native to Australia and Tasmania. The species is a common understorey shrub in both wet and dry sclerophyll forests as well as scrub and heath. In coastal environments it will often have much wider leaves as opposed to the regular needle-like nature of inland specimens."@en .
+
+<http://dbpedia.org/resource/Elm>
+        a       <http://dbpedia.org/ontology/FloweringPlant> , <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://dbpedia.org/resource/Passifloraceae>
+        a       <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://dbpedia.org/resource/Cupressus_goveniana>
+        <http://dbpedia.org/ontology/abstract>
+                "Cupressus goveniana is a species of cypress endemic to coastal California in the United States, where it is found in small, scattered populations, not in large forests."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Endemism> .
+
+<http://dbpedia.org/resource/Bolivia>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Cycnoches>
+        <http://dbpedia.org/ontology/abstract>
+                "Cycnoches, abbreviated as Cyc. in the horticultural trade, is a genus of about 16 species of orchids native to tropical America."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Americas> , <http://dbpedia.org/resource/Tropics> , <http://dbpedia.org/resource/Native_plant> , <http://dbpedia.org/resource/Orchidaceae> , <http://dbpedia.org/resource/Species> , <http://dbpedia.org/resource/Genus> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Rosa>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Rosa> .
+
+<http://dbpedia.org/resource/Aldama_(genus)>
+        <http://dbpedia.org/ontology/abstract>
+                "Aldama is a genus of flowering plants in the daisy family. The genus was originally described to include one (later two) species of subtribe Helianthinae that were characterized by having pales that tightly enclosed the cypselae (achenes) (see Feddema, 1971). Recent molecular phylogenetic studies (Schilling and Panero 2011) showed that these species are within a large group that were formerly classified in the genus Viguiera, and Aldama has been expanded to include a total of 118 species. Aldama is characterized by having a perennial herbaceous habit, a pappus usually of awns and scales, and a multiseriate involucre."@en .
+
+<http://dbpedia.org/resource/Saxifraga_cotyledon>
+        <http://dbpedia.org/ontology/abstract>
+                "Saxifraga cotyledon, the pyramidal saxifrage, occurs in the mountains of Europe and has rosettes about 20 centimetres (8 in) across of tongue-shaped leaves, beaded but not toothed. In May or June the tall panicles of white flowers, branched and pyramidal in outline, may reach 60 cm (24 in). It is one of Norway's two national flowers (chosen in 1935). Its relationship to the \"silver saxifrages\" (Saxifraga sect. Ligulatae) remains to be resolved to full satisfaction."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Saxifraga> , <http://dbpedia.org/resource/Leaf> , <http://dbpedia.org/resource/Panicle> , <http://dbpedia.org/resource/Flower> .
+
+<http://dbpedia.org/resource/Tasmania>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Peurion>
+        <http://dbpedia.org/ontology/abstract>
+                "Peurion is a traditional French variety of white wine grape that is a sibling of Chardonnay. Once quite popular, not much is still grown in France these days."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Chardonnay> , <http://dbpedia.org/resource/Grape> , <http://dbpedia.org/resource/List_of_grape_varieties> , <http://dbpedia.org/resource/French_wine> .
+
+<http://dbpedia.org/resource/Bryanthus_x_erectus>
+        <http://dbpedia.org/ontology/abstract>
+                "Bryanthus x erectus is a species of ornamental plant of Ericaceae family."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Family_%28biology%29> , <http://dbpedia.org/resource/Species> .
+
+<http://dbpedia.org/resource/Astartea>
+        <http://dbpedia.org/ontology/abstract>
+                "Astartea is a genus of flowering plants in the myrtle family, Myrtaceae. The genus is endemic to southwestern Western Australia. The genus name was inspired by Astarte, the Greek name for the goddess Ishtar."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Ishtar> , <http://dbpedia.org/resource/Family_%28biology%29> , <http://dbpedia.org/resource/Genus> , <http://dbpedia.org/resource/Flowering_plant> , <http://dbpedia.org/resource/Myrtus> , <http://dbpedia.org/resource/Myrtaceae> , <http://dbpedia.org/resource/Western_Australia> , <http://dbpedia.org/resource/Endemism> , <http://dbpedia.org/resource/Goddess> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Feddema>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Prockia>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://dbpedia.org/resource/Cameraria_(plant)>
+        <http://dbpedia.org/ontology/abstract>
+                "Cameraria is a genus of plant in family Apocynaceae.Species include: Cameraria microphylla, Britton"@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Species> , <http://dbpedia.org/resource/Apocynaceae> , <http://dbpedia.org/resource/Family_%28biology%29> , <http://dbpedia.org/resource/Plant> , <http://dbpedia.org/resource/Genus> .
+
+<http://dbpedia.org/resource/Polypodiaceae>
+        a       <http://dbpedia.org/ontology/Fern> , <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Capsicum>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> .
+
+<http://dbpedia.org/resource/Tanzania>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Country> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Astarte>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greek> .
+
+<http://dbpedia.org/resource/Gentianaceae>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> .
+
+<http://dbpedia.org/resource/Ptilium_crista-castrensis>
+        <http://dbpedia.org/ontology/abstract>
+                "Ptilium crista-castrensis is a moss species within the family Hypnaceae, in the class Bryopsida, subclass Bryidae and order Hypnales."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Moss> , <http://dbpedia.org/resource/Species> , <http://dbpedia.org/resource/Order_%28biology%29> .
+
+<http://dbpedia.org/resource/Cooking>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Alnus_rhombifolia>
+        <http://dbpedia.org/ontology/abstract>
+                "Alnus rhombifolia, the white alder, is an alder tree native to western North America, from British Columbia and Washington east to western Montana, southeast to the Sierra Nevada, and south through the Peninsular Ranges and Colorado Desert oases in Southern California. It occurs in riparian zone habitats at an altitudes range of 100–2,400 metres (330–7,870 ft). While not reported in northern Baja California, it has been predicted on the basis of its climatic adaptation to occur there also. Alnus rhombifolia is primarily found in the chaparral and woodlands, montane, and temperate forests ecoregions."@en .
+
+<http://dbpedia.org/resource/Brazil>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Apocynaceae>
+        a       <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> .
+
+<http://dbpedia.org/resource/Kolkwitzia_amabilis>
+        <http://dbpedia.org/ontology/abstract>
+                "Kolkwitzia amabilis /kɒlˈkwɪtsi.ə əˈmæbɨlɪs/ is a species of flowering plant in the family Caprifoliaceae, the only known species in the monotypic genus Kolkwitzia. It is a deciduous shrub known by the common name beauty bush. The Latin amabilis means \"lovely\"."@en .
+
+<http://dbpedia.org/resource/Genus>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Passiflora_andina>
+        <http://dbpedia.org/ontology/abstract>
+                "Passiflora andina is a species of plant in the Passifloraceae family. It is endemic to Ecuador."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Passifloraceae> , <http://dbpedia.org/resource/Family_%28biology%29> , <http://dbpedia.org/resource/Endemism> .
+
+<http://dbpedia.org/resource/Chysis>
+        <http://dbpedia.org/ontology/abstract>
+                "Chysis is a genus of orchids (family Orchidaceae), consisting of about 5 species which originate from Mexico to Peru. Only two or three of these are commonly found in cultivation. The genus is abbreviated Chy in trade journals.The genus Thorvaldsenia Liebm. is generally included into Chysis."@en .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hasseltiopsis>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Prockia> .
+
+<http://dbpedia.org/resource/Paraguay>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Phyllanthus_acuminatus>
+        <http://dbpedia.org/ontology/abstract>
+                "Phyllanthus acuminatus, the Jamaican gooseberry tree, is a herb-like plant of the family Phyllanthaceae, found only in Central America and South America. This plant is used by the local population (the Choco) as a piscicide."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Tree> , <http://dbpedia.org/resource/Herb> , <http://dbpedia.org/resource/Phyllanthaceae> , <http://dbpedia.org/resource/Central_America> , <http://dbpedia.org/resource/South_America> .
+
+<http://dbpedia.org/resource/French_wine>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Gundlachia_(plant)>
+        <http://dbpedia.org/ontology/abstract>
+                "Gundlachia is a genus of flowering plants in the daisy family, Asteraceae."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Flowering_plant> , <http://dbpedia.org/resource/Asteraceae> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Sumatra>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Malaysia> .
+
+<http://dbpedia.org/resource/Ortega_(grape)>
+        <http://dbpedia.org/ontology/abstract>
+                "Ortega is a grape variety used for white wine. It was created in 1948 by Hans Breider at the Bayerischen Landesanstalt für Wein-, Obst- und Gartenbau in Würzburg and was released with varietal protection in 1981. It is a cross between Müller-Thurgau and Siegerrebe. Breider chose to name the variety in honour of the Spanish poet and philosopher José Ortega y Gasset.Ortega ripens early, is not sensitive to frost and reaches quite high must weights, typically 20 degrees Oechsle higher than Müller-Thurgau. It is therefore often used for sweet wines, which are considered to improve with cellaring. Ortega wines have aromas of Muscat and peach and are high in extract.Ortega is also used as a table grape.In 2006, there were 686 hectares (1,700 acres) of Ortega in Germany, with a decreasing tendency. It is also found in England."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/German_wine> , <http://dbpedia.org/resource/Sweetness_of_wine> , <http://dbpedia.org/resource/M%C3%BCller-Thurgau> , <http://dbpedia.org/resource/Varietal> , <http://dbpedia.org/resource/Wine> , <http://dbpedia.org/resource/Variety_%28botany%29> , <http://dbpedia.org/resource/Grape> .
+
+<http://dbpedia.org/resource/Orchidaceae>
+        a       <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> .
+
+<http://dbpedia.org/resource/Clappia_suaedifolia>
+        <http://dbpedia.org/ontology/abstract>
+                "Clappia is a monotypic genus of flowering plants in the daisy family, containing the singles species Clappia suaedifolia."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Species> , <http://dbpedia.org/resource/Asteraceae> , <http://dbpedia.org/resource/Flowering_plant> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Linnaeus>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1753> .
+
+<http://dbpedia.org/resource/Arctostaphylos_manzanita_subsp._elegans>
+        <http://dbpedia.org/ontology/abstract>
+                "Arctostaphylos manzanita subsp. elegans, also known as the Konocti manzanita, is a subspecies of the Common manzanita. It is endemic to California. It was originally described at the rank of species as Arctostaphylos elegans in 1893 by Willis Linn Jepson. It was reduced to a subspecies of Arctostaphylos manzanita by Philipp Vincent Wells in 1968."@en .
+
+<http://dbpedia.org/resource/Central_America>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Queensland>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Americas>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Continent> .
+
+<http://dbpedia.org/resource/R%C3%A4uschling>
+        <http://dbpedia.org/ontology/abstract>
+                "Räuschling is a white variety of grape used for wine. It is today almost only found in small amounts in German-speaking parts of Switzerland, where Räuschling can produce fruity, crisp white wines with good acidity. Räuschling has previously been much more common in Switzerland, Germany and Alsace. Before the widespread planting of Müller-Thurgau, Räuschling and Elbling were the most common grape varieties in Switzerland. German plantations were found in Franconia, Palatinate and Württemberg, as well as in Baden in medieval times. It is also thought to have been the grape variety of the early wines traded from Tramin, with Großer Traminer being one of its synonyms.The name of the variety is supposed to derive from the robust leaf canopy of Räuschling vines which make noise - \"rauschen\" in German - in strong wind. However, the name Reuschling first appeared in the vineyard ordnance (Weingartordnung) issued in 1614 by Count Philipp Ernst zu Hohenlohe-Neuenstein. In the herbals written by Hieronymus Bock in the 16th century, it is referred to as Drutsch or Drutscht.The name Großer Räuschling has been used to differentiate it from the variety Knipperlé, which was previously common in Alsace and which is also called Kleiner Räuschling. Räuschling and Knipperlé are thought to be closely related.DNA profiling has revealed Räuschling to be a cross between Gouais blanc (Weißer Heunisch) and a vine of the Pinot family."@en .
+
+<http://dbpedia.org/resource/Phalaenopsis_amabilis>
+        <http://dbpedia.org/ontology/abstract>
+                "Phalaenopsis amabilis, commonly known as the moth orchid is a species of orchid."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Species> .
+
+<http://dbpedia.org/resource/Myrtaceae>
+        a       <http://dbpedia.org/ontology/FloweringPlant> , <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Douglas>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/California> .
+
+<http://dbpedia.org/resource/Apple>
+        a       <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> .
+
+<http://dbpedia.org/resource/Lithops_optica>
+        <http://dbpedia.org/ontology/abstract>
+                "Lithops optica is a species of plant in the Aizoaceae family. It is endemic to Namibia. Its natural habitat is rocky areas. It is threatened by habitat loss."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Threatened_species> , <http://dbpedia.org/resource/Namibia> , <http://dbpedia.org/resource/Endemism> , <http://dbpedia.org/resource/Species> , <http://dbpedia.org/resource/Habitat> , <http://dbpedia.org/resource/Family_%28biology%29> , <http://dbpedia.org/resource/Aizoaceae> , <http://dbpedia.org/resource/Plant> , <http://dbpedia.org/resource/Habitat_destruction> , <http://dbpedia.org/resource/Rocky_Mountains> .
+
+<http://dbpedia.org/resource/Dovyalis_hebecarpa>
+        <http://dbpedia.org/ontology/abstract>
+                "Dovyalis hebecarpa, commonly known as Ceylon gooseberry, Kitembilla or Ketembilla, is a plant in the genus Dovyalis, native to Sri Lanka and southern India. It is a shrub or small tree growing to 6 m tall, with sharp, 3–6 cm long stem spines in the leaf axils. The leaves are alternately arranged, simple broad lanceolate, 5–10 cm long and 1–3 cm broad, with an entire or finely toothed margin.The flowers are inconspicuous, solitary or clustered, with no petals. It is dioecious, with male and female flowers on separate plants, though some female plants are parthenogenetic.The fruit is an edible dark purple globose berry 2–3 cm diameter, very juicy with an acidic flavour, and containing several small seeds. Kitembilla fruit, which taste similar to a gooseberry (they are sometimes called \"Ceylon Gooseberry\"), are often eaten fresh, or made into jam. Some cultivars have been selected for being thornless (making harvesting easier) and larger fruit."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Leaf> , <http://dbpedia.org/resource/Flower> .
+
+<http://dbpedia.org/resource/Aegle_marmelos>
+        <http://dbpedia.org/ontology/abstract>
+                "Aegle marmelos, commonly known as bael, Bengal quince, golden apple, stone apple, wood apple, bili, is a species of tree native to India. It is present throughout Southeast Asia as a naturalized species. The tree is considered to be sacred by Hindus. Its fruits are used in traditional medicine and as a food throughout its range."@en .
+
+<http://dbpedia.org/resource/Jasminocereus>
+        <http://dbpedia.org/ontology/abstract>
+                "Jasminocereus (meaning \"jasmine-like cereus\", referring to the flowers) is a genus of cacti. The genus originates from the Galapagos Islands. Owned by Ecuador, these cacti are extremely rare in cultivation because of the very strict rules for removing plants or seeds from the islands. This cactus is the only cactus that has a species that can be light purple."@en .
+
+<http://dbpedia.org/resource/Tulip>
+        a       <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> .
+
+<http://dbpedia.org/resource/Scaphium>
+        <http://dbpedia.org/ontology/abstract>
+                "Scaphium is a genus of about 8 species of plants in family Sterculiaceae. Scaphium affine (Mast.) Pierre Scaphium burkillfilii Kosterm. Scaphium linearicarpum (Mast.) Pierre Scaphium longiflorum Ridl. Scaphium longipetiolatum (Kosterm.) Kosterm. Scaphium macropodum (Miq.) Beumée ex K.Heyne Scaphium parviflorum P.Wilkie Scaphium scaphigerum (Wall. ex G. Don) G.Planch."@en .
+
+<http://dbpedia.org/resource/Neptunia_(plant)>
+        <http://dbpedia.org/ontology/abstract>
+                "Neptunia is a genus of flowering plants in the pea family, Fabaceae, subfamily Mimosoideae."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Genus> , <http://dbpedia.org/resource/Flowering_plant> , <http://dbpedia.org/resource/Fabaceae> , <http://dbpedia.org/resource/Family_%28biology%29> , <http://dbpedia.org/resource/Mimosoideae> .
+
+<http://dbpedia.org/resource/South_America>
+        a       <http://dbpedia.org/ontology/Continent> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Rhinacanthus_scoparius>
+        <http://dbpedia.org/ontology/abstract>
+                "Rhinacanthus scoparius is a species of plant in the Acanthaceae family. It is endemic to Yemen. Its natural habitats are subtropical or tropical dry shrubland and subtropical or tropical dry lowland grassland."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Species> , <http://dbpedia.org/resource/Plant> , <http://dbpedia.org/resource/Acanthaceae> , <http://dbpedia.org/resource/Family_%28biology%29> , <http://dbpedia.org/resource/Endemism> , <http://dbpedia.org/resource/Habitat> , <http://dbpedia.org/resource/Shrubland> , <http://dbpedia.org/resource/Grassland> .
+
+<http://dbpedia.org/resource/Acmispon_glaber>
+        <http://dbpedia.org/ontology/abstract>
+                "Acmispon glaber (previously Lotus scoparius) (Common Deerweed, Deer Weed, Deervetch, California Broom or Western Bird's-Foot Trefoil) is a perennial subshrub in the family Fabaceae (pea family). The plant is a pioneer species found in dry areas of California, Arizona, and Mexico. It is commonly found in many areas including chaparral, coastal sand and roadsides at elevations below 1500 m."@en .
+
+<http://ns.aksw.org/scms/annotations/stanford/Traminer_Zierfandler>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Rotgipfler> .
+
+<http://dbpedia.org/resource/Vitaceae>
+        a       <http://dbpedia.org/ontology/FloweringPlant> , <http://dbpedia.org/ontology/Plant> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Species> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Brasiliensis>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> .
+
+<http://dbpedia.org/resource/Bromeliaceae>
+        a       <http://dbpedia.org/ontology/TopicalConcept> , <http://dbpedia.org/ontology/Species> , <http://dbpedia.org/ontology/Eukaryote> , <http://dbpedia.org/ontology/Plant> .

@@ -1,0 +1,34 @@
+<http://dbpedia.org/resource/Island>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/City>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Area>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Salamis_Island>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://dbpedia.org/resource/States_of_Germany>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/New_England_town>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Municipality>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Ampelakia>
+        <http://dbpedia.org/ontology/abstract>
+                "Ampelakia (Greek: Αμπελάκια, meaning vineyards) is a town and a former municipality of Salamis Island, Greece. Since the 2011 local government reform it is part of the municipality Salamis, of which it is a municipal unit.It lies on the central east coast of the island and has a land area of 15.169 km², comprising about one-sixth of the island's area (with the balance belonging to the Salamina (city)). It has a population of 7,060 inhabitants (2001 census). Its largest town is also named Ampelakia, and has a population of 4,537. The other significant town is Selínia (pop. 2,346). The only other settlements are Kynosoúra (pop. 137) and Spithári (40)."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Island> , <http://dbpedia.org/resource/Square_kilometre> , <http://dbpedia.org/resource/Local_government> , <http://dbpedia.org/resource/Area> , <http://dbpedia.org/resource/Salamis_Island> , <http://dbpedia.org/resource/Greeks> , <http://dbpedia.org/resource/City> , <http://dbpedia.org/resource/States_of_Germany> , <http://dbpedia.org/resource/New_England_town> , <http://dbpedia.org/resource/Vineyard> , <http://dbpedia.org/resource/Coast> , <http://dbpedia.org/resource/Canada_2001_Census> , <http://dbpedia.org/resource/Greece> , <http://dbpedia.org/resource/Residency_%28domicile%29> , <http://dbpedia.org/resource/Population> , <http://dbpedia.org/resource/Municipality> .
+
+<http://dbpedia.org/resource/Greece>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Local_government>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .

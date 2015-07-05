@@ -1,0 +1,37 @@
+<http://ns.aksw.org/scms/annotations/stanford/Mexico>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> .
+
+<http://dbpedia.org/resource/Guitar>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Musical_instrument>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Human_voice>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Arturo_Meza>
+        <http://dbpedia.org/ontology/abstract>
+                "Arturo Meza (Tocumbo, Michoacán, December 12, 1956) is a Mexican songwriter, musician, composer, singer, poet and writer. He is a prolific artist and inventor of musical instruments, such as the teclaedro, yeloguerlizet, mezáfono and oglio. The base of his songs is folk music, usually only his own voice and guitar. Meza is an independent and prolific artist, and has published 32 albums, always removed from the musical mainstream. He is one of the most accomplished independent composers in Mexico."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Independent_record_label> , <http://dbpedia.org/resource/Musical_composition> , <http://dbpedia.org/resource/Bass_%28voice_type%29> , <http://dbpedia.org/resource/Writer> , <http://dbpedia.org/resource/December_12> , <http://dbpedia.org/resource/Folk_music> , <http://dbpedia.org/resource/Composer> , <http://dbpedia.org/resource/Musician> , <http://dbpedia.org/resource/Mexican_people> , <http://dbpedia.org/resource/Guitar> , <http://dbpedia.org/resource/Musical_instrument> , <http://dbpedia.org/resource/Poet> , <http://dbpedia.org/resource/Album> , <http://dbpedia.org/resource/Singer> , <http://dbpedia.org/resource/Song> , <http://dbpedia.org/resource/Mainstream> , <http://dbpedia.org/resource/Human_voice> , <http://dbpedia.org/resource/Songwriter> , <http://dbpedia.org/resource/Artist> .
+
+<http://ns.aksw.org/scms/annotations/stanford/one>
+        a       <http://ns.aksw.org/scms/annotations/stanford/O> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mexico> .
+
+<http://dbpedia.org/resource/Album>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Folk_music>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Musical_composition>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Bass_%28voice_type%29>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Composer>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .

@@ -12,6 +12,8 @@ import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.util.CoreMap;
 import org.apache.log4j.Logger;
 
+import java.io.UnsupportedEncodingException;
+import java.net.URLEncoder;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Properties;
@@ -140,7 +142,9 @@ public class StanfordREExtractor implements NLPExtractor {
             logger.debug("RelationExtractorAnnotator the doc...");
             relationExtractorAnnotator.annotate(doc);
             logger.debug("For all relation ...");
+            Integer sentenceCounter = 0;
             for (CoreMap sentenceAnnotation : doc.get(CoreAnnotations.SentencesAnnotation.class)) {
+                sentenceCounter += 1;
                 List<RelationMention> relationMentions = (sentenceAnnotation.get(MachineReadingAnnotations.RelationMentionsAnnotation.class));
                 logger.debug("relationMentions.size():" + relationMentions.size());
                 for (RelationMention relationMention : relationMentions) {
@@ -153,6 +157,7 @@ public class StanfordREExtractor implements NLPExtractor {
                     }
                 }
             }
+            this.numberOfSentences += sentenceCounter;
             logger.debug("Relations done.");
         } catch (Exception e) {
             logger.error(e.getLocalizedMessage(), e);
@@ -204,8 +209,9 @@ public class StanfordREExtractor implements NLPExtractor {
 
         //AGENS
         EntityMention agensMention = relationMention.getEntityMentionArgs().get(0);
-        String agensName = agensMention.getExtentString().replace(" ", "_");
-        Resource agens = ResourceFactory.createResource(prefMap.get("stanford") + agensName);
+        String agensName = agensMention.getExtentString().replace(" ", "_").trim();
+        if (getURLEncoding(agensName) == null) return ModelFactory.createDefaultModel();
+        Resource agens = ResourceFactory.createResource(prefMap.get("stanford") + getURLEncoding(agensName));
         Resource agensType = ResourceFactory.createResource(prefMap.get("stanford") + agensMention.getType());
         relationModel.add(agens, rdfType, agensType);
 
@@ -233,8 +239,9 @@ public class StanfordREExtractor implements NLPExtractor {
 
         //PATIENS
         EntityMention patiensMention = relationMention.getEntityMentionArgs().get(1);
-        String patiensName = patiensMention.getValue().replace(" ","_");
-        Resource patiens = ResourceFactory.createResource(prefMap.get("stanford") + patiensName);
+        String patiensName = patiensMention.getValue().replace(" ","_").trim();
+        if (getURLEncoding(patiensName) == null) return ModelFactory.createDefaultModel();
+        Resource patiens = ResourceFactory.createResource(prefMap.get("stanford") + getURLEncoding(patiensName));
         Resource patiensType = ResourceFactory.createResource(prefMap.get("stanford") + patiensMention.getType());
         relationModel.add(patiens, rdfType, patiensType);
 
@@ -265,14 +272,23 @@ public class StanfordREExtractor implements NLPExtractor {
 
 
         //add Annotation Info to result model
-        relationModel = ModelFactory.createUnion(relationModel, annotationModel);
+        relationModel = relationModel.union(annotationModel);
         relationModel.setNsPrefixes(annotationModel.getNsPrefixMap());
 
 
         return relationModel;
     }
 
-
+    private String getURLEncoding(String toEncode) {
+        String encodedString = null;
+        try {
+            encodedString = URLEncoder.encode(toEncode, "UTF-8");
+        } catch (UnsupportedEncodingException e) {
+            logger.info(toEncode + ": not encodable String. ");
+            e.printStackTrace();
+        }
+        return encodedString;
+    }
 
     //	EvaluationThings
 
@@ -281,7 +297,7 @@ public class StanfordREExtractor implements NLPExtractor {
         HashMap<String, String> eval = new HashMap<String, String>();
 //        eval.put("numberOfExtraction", numberOfExtraction.toString());
         eval.put("doubleExtraction", doubleExtraction.toString());
-
+        eval.put("numberOfSentences", numberOfSentences.toString());
         return eval;
     }
     private Boolean evaluationMetaData = Boolean.TRUE;
@@ -301,7 +317,7 @@ public class StanfordREExtractor implements NLPExtractor {
             extractedTriples.add(triple);
         }
     }
-
+    private Integer numberOfSentences = 0;
 
 
 }

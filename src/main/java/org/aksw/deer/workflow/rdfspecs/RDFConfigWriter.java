@@ -14,8 +14,7 @@ import org.aksw.deer.modules.filter.FilterModule;
 import org.aksw.deer.modules.linking.LinkingModule;
 import org.aksw.deer.modules.nlp.MultipleExtractorNLPModule;
 import org.aksw.deer.modules.nlp.NLPModule;
-import org.aksw.deer.modules.nlp.SpotlightModule;
-import org.aksw.deer.modules.nlp.StanfordModule;
+
 import org.aksw.deer.modules.predicateconformation.PredicateConformationModule;
 import org.aksw.deer.operators.DeerOperator;
 import org.aksw.deer.operators.MergeOperator;

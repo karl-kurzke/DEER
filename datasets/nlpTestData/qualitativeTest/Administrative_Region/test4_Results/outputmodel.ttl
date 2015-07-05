@@ -1,0 +1,34 @@
+<http://ns.aksw.org/scms/annotations/stanford/Greece>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> .
+
+<http://dbpedia.org/resource/Kranea>
+        <http://dbpedia.org/ontology/abstract>
+                "Kranea (Greek: Κρανέα) is an Aromanian village and a former community in the Preveza regional unit, Epirus, Greece. Since the 2011 local government reform it is part of the municipality Ziros, of which it is a municipal unit. Population 1,052 (2001)."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Preveza> , <http://dbpedia.org/resource/Units_of_measurement> , <http://dbpedia.org/resource/Population> , <http://dbpedia.org/resource/Chinese_economic_reform> , <http://dbpedia.org/resource/Municipality> , <http://dbpedia.org/resource/Region> , <http://dbpedia.org/resource/Aromanians> , <http://dbpedia.org/resource/Epirus_%28periphery%29> , <http://dbpedia.org/resource/Local_government> , <http://dbpedia.org/resource/Greek_language> , <http://dbpedia.org/resource/Community> , <http://dbpedia.org/resource/Village> .
+
+<http://dbpedia.org/resource/Epirus_%28periphery%29>
+        a       <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/Community>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Municipality>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Epirus>
+        a       <http://ns.aksw.org/scms/annotations/stanford/LOCATION> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greece> .
+
+<http://dbpedia.org/resource/Greek_language>
+        a       <http://dbpedia.org/ontology/Language> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Region>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Preveza>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Local_government>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .

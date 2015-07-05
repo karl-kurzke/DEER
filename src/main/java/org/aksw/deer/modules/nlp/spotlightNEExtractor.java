@@ -58,7 +58,7 @@ public class SpotlightNEExtractor implements NLPExtractor {
     public static final String SPOTLIGHT_CONFIDENCE_DESC =
             "Value between 0 and 1 which defines " +
                     "minimum confidence for Entities found by Spotlight ";
-    public static final String SPOTLIGHT_CONFIDENCE_DEFAULT = "0.5";
+    public static final String SPOTLIGHT_CONFIDENCE_DEFAULT = "0.2";
 
     public static final String SPOTLIGHT_SUPPORT = "spotlightSupport";
     public static final String SPOTLIGHT_SUPPORT_DESC =
@@ -324,7 +324,9 @@ public class SpotlightNEExtractor implements NLPExtractor {
 
         }
 
-        Model returnModel = ModelFactory.createUnion(namedEntitymodel, annotationModel);
+        Model returnModel = namedEntitymodel.union(annotationModel);
+        returnModel.setNsPrefixes(namedEntitymodel.getNsPrefixMap());
+        returnModel.setNsPrefixes(annotationModel.getNsPrefixMap());
 
         return returnModel;
     }

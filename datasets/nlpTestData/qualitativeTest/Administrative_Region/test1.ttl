@@ -1,0 +1,3 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/American_River,_South_Australia>	dbpedia-owl:abstract	"American River is a town situated on the western shore of Eastern Cove, on Australia's third largest island, Kangaroo Island."@en .

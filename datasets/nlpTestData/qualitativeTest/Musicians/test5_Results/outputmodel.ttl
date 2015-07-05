@@ -1,0 +1,34 @@
+<http://ns.aksw.org/scms/annotations/stanford/Leonardo>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Paul_Mac> .
+
+<http://dbpedia.org/resource/Television_program>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Australia>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/The_Australian>
+        a       <http://dbpedia.org/ontology/Newspaper> , <http://dbpedia.org/ontology/PeriodicalLiterature> , <http://dbpedia.org/ontology/WrittenWork> , <http://dbpedia.org/ontology/Work> .
+
+<http://dbpedia.org/resource/New_South_Wales>
+        a       <http://dbpedia.org/ontology/AdministrativeRegion> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Paul_Mac>
+        a       <http://dbpedia.org/ontology/MusicalArtist> , <http://dbpedia.org/ontology/Artist> , <http://dbpedia.org/ontology/Person> .
+
+<http://dbpedia.org/resource/Pop_music>
+        a       <http://dbpedia.org/ontology/MusicGenre> , <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/The_Morning_Show_%28TV_program%29>
+        a       <http://dbpedia.org/ontology/TelevisionShow> , <http://dbpedia.org/ontology/Work> .
+
+<http://dbpedia.org/resource/Album>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Abby_Dobson_(Australian_musician)>
+        <http://dbpedia.org/ontology/abstract>
+                "Abby Dobson (born 1969) is an Australian singer and musician. Dobson was the lead vocalist for the pop band Leonardo's Bride.Dobson has often collaborated with musician Paul Mac on a few tracks, including \"Gonna Miss You\" from the 2001 album 3000 Feet High.She recently appeared on i98fm with Lachlan Kitchen as part of the No.1 rating Morning Show for the Illawarra and Sth Coast of NSW. She also appeared on Australian television channel 31's music criticism program, Dancing About Architecture, in March 2009.Abby auditioned for Season 2 of The Voice (Australia) but was unsuccessful."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/New_South_Wales> , <http://dbpedia.org/resource/Paul_Mac> , <http://dbpedia.org/resource/Voice_acting> , <http://dbpedia.org/resource/Television_program> , <http://dbpedia.org/resource/Musician> , <http://dbpedia.org/resource/The_Morning_Show_%28TV_program%29> , <http://dbpedia.org/resource/Musical_ensemble> , <http://dbpedia.org/resource/Australia> , <http://dbpedia.org/resource/Lead_vocalist> , <http://dbpedia.org/resource/Singer> , <http://dbpedia.org/resource/The_Australian> , <http://dbpedia.org/resource/Pop_music> , <http://dbpedia.org/resource/Album> .

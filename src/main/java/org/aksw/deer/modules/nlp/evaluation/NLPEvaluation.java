@@ -11,6 +11,8 @@ import org.apache.xpath.operations.Bool;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.UnsupportedEncodingException;
+import java.net.URLEncoder;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -25,7 +27,7 @@ public class NLPEvaluation {
     private HashMap<String, HashMap<String,String>> eval = new HashMap< String,HashMap<String,String> >();
 
     private void runEvaluation(String testFilename) {
-        Boolean writeResultModel = Boolean.FALSE;
+        Boolean writeResultModel = Boolean.TRUE;
         Boolean writeExtractedTripleModel = Boolean.TRUE;
         //Create ResultFile
         File resultFile = new File(FilenameUtils.removeExtension(testFilename) + "_Results");
@@ -75,93 +77,50 @@ public class NLPEvaluation {
             FileWriter outFileForModel = null;
             try {
                 outFileForModel = new FileWriter(outputModelfilename);
+                modelForEvaluation.write(outFileForModel, "TURTLE");
+                outFileForModel.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }
-            modelForEvaluation.write(outFileForModel, "TURTLE");
+
         }
+
         if (writeExtractedTripleModel) {
             FileWriter outFileForExtractionModel = null;
             try {
                 outFileForExtractionModel = new FileWriter(outputExtractionModelfilename);
+                extractor.getCombiner().getMappedExtractedTriples().write(outFileForExtractionModel, "TURTLE");
+                outFileForExtractionModel.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }
-            extractor.getCombiner().getMappedExtractedTriples().write(outFileForExtractionModel, "TURTLE");
+
         }
-
-////        stanMod.getExtractedTriple().write(outFileExtractedTriples, "TURTLE");
-//        stanfordModel.write(outFileExtractedTriples, "TURTLE");
-        ;
-
-
-
-
-//        System.out.println("XXX Evaluation got model from spotlight");
-//        Integer triplesAfterSpotlight = NLPEvaluation.getNumberOfTriples(spotLightModel);
-//        System.out.println("XXX Evaluation got number of triples");
-//        Integer newTriplesFromSpotlight = (triplesAfterSpotlight - triplesBefore);
-//
-//        System.out.println("Spotlight finished");
-////        FileWriter outFile = null;
-////        try {
-////            outFile = new FileWriter(outputFileSpotlight);
-////        } catch (IOException e) {
-////            e.printStackTrace();
-////        }
-////        spotLightModel.write(outFile, "TURTLE");
-//        System.out.println("Spotlight model not written in file");
-//        String report = "Number Of Triples before Extraction: " +
-//                triplesBefore.toString() +
-//                "\nNew Triples after SpotlightExtraction with annotation blank nodes: " +
-//                newTriplesFromSpotlight.toString() +
-//                "\nNumber of extracted Entities with spotlight nominal: "  +
-//                spotMod.getNumberOfExtractedEntities().toString() +
-//                "\nNumber of extracted Entities with spotlight distinct: " +
-//                spotMod.getNumberOfDistinctExtractedEntities();
-//        try {
-//            Files.write(Paths.get(ergebnisFilename), report.getBytes());
-//        } catch (Exception e) {
-//            e.printStackTrace();
-//        }
-//
-//
-//
-//        //Stanford Module
-//        StanfordModule stanMod = new StanfordModule();
-//        Model stanfordModel = stanMod.process(spotLightModel, settings);
-//        Integer triplesAfterStanford = NLPEvaluation.getNumberOfTriples(stanfordModel);
-//
-//
-//        //Export extracted Triples for further analyses
-//        FileWriter outFileExtractedTriples = null;
-//        try {
-//            outFileExtractedTriples = new FileWriter(outputFileExtractedTriples);
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-////        stanMod.getExtractedTriple().write(outFileExtractedTriples, "TURTLE");
-//        stanMod.getMappedExtractedTriples().write(outFileExtractedTriples, "TURTLE");
-//
-//        HashMap<String, Integer> statementAnalyse = stanMod.getStatementAnalyse();
-//        report += "\nStatement Analyse: ";
-//        report += statementAnalyse.toString();
-//
-//        report += "\n Triples after StanfordExtraction: " +
-//                triplesAfterStanford.toString();
-//
-//
-//        report += "\nDouble Triples through StanfordExtraction: " +
-//                stanMod.getNumberOfDoubleExtraction();
-//
 
 
     }
+    public void runMultipleEvaluations (String fileName){
+
+        File dir = new File(fileName);
+
+        if (dir.isDirectory()) {
+            for (File currentFile : dir.listFiles()) {
+                if (currentFile.isFile() && !(currentFile.getName().startsWith("."))){
+                    System.out.println(currentFile.getName());
+                    runEvaluation(currentFile.getAbsolutePath());
+                }
+            }
+        } else {
+            runEvaluation(fileName);
+        }
+
+    };
 
     public static void main (String[] args) {
+
         NLPEvaluation myEval = new NLPEvaluation();
         if (args.length == 1) {
-            myEval.runEvaluation(args[0] );
+            myEval.runMultipleEvaluations(args[0]);
         } else {
             System.out.println("You have to specify a test set file as argument. ");
         }

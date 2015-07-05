@@ -1,0 +1,1 @@
+{NLPEvaluation={triplesAfter=705, triplesBefore=100}, AnnotationCombiner={DBpediaSubjectObjectRelations=0, numberOfExtractedTriples=27, DBpediaSubjectRelations=0, numberOfRelations=27, DBpediaObjectRelations=1}, StanfordREExtractor={doubleExtraction=2}, SpotlightNEExtractor={numberOfExtractedElements=149, numberOfUniqueExtractedElements=149}}

@@ -1,0 +1,25 @@
+<http://dbpedia.org/resource/Latin>
+        a       <http://dbpedia.org/ontology/Language> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Angelorum>
+        a       <http://ns.aksw.org/scms/annotations/stanford/PEOPLE> .
+
+<http://dbpedia.org/resource/Catholic_Church>
+        a       <http://dbpedia.org/ontology/TopicalConcept> .
+
+<http://dbpedia.org/resource/Concepci%C3%B3n_del_Uruguay>
+        a       <http://dbpedia.org/ontology/City> , <http://dbpedia.org/ontology/Settlement> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> .
+
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Santa_Mar%C3%ADa_de_Los_%C3%81ngeles>
+        <http://dbpedia.org/ontology/abstract>
+                "The Roman Catholic Diocese of Santa María de Los Ángeles (Latin: Sanctae Mariae Angelorum) is a diocese located in the city of Los Ángeles in the Ecclesiastical province of Concepción in Chile."@en ;
+        <http://geoknow.org/ontology/relatedTo>
+                <http://dbpedia.org/resource/Catholic_Church> , <http://dbpedia.org/resource/Diocese> , <http://dbpedia.org/resource/Santa_Mar%C3%ADa_%28ship%29> , <http://dbpedia.org/resource/Latin> , <http://dbpedia.org/resource/Ecclesiastical_province> , <http://dbpedia.org/resource/Concepci%C3%B3n_del_Uruguay> , <http://dbpedia.org/resource/Chile> .
+
+<http://dbpedia.org/resource/Chile>
+        a       <http://dbpedia.org/ontology/Country> , <http://dbpedia.org/ontology/PopulatedPlace> , <http://dbpedia.org/ontology/Place> , <http://dbpedia.org/ontology/TopicalConcept> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Angelorum> .
+
+<http://dbpedia.org/resource/Santa_Mar%C3%ADa_%28ship%29>
+        a       <http://dbpedia.org/ontology/Ship> , <http://dbpedia.org/ontology/MeanOfTransportation> .

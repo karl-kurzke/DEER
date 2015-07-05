@@ -1,0 +1,3 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Lupinus_kingii	dbpedia-owl:abstract	"Lupinus kingii, King's Lupine, is a species of flowering plant from the order of Lamiales which can be found in Arizona, Colorado, Nevada, New Mexico, Utah. Both the leaves and the pods are hairy with the later being 10 millimetres (0.39 in) long. In Utah, it is found only at Bryce Canyon National Park."@en .
