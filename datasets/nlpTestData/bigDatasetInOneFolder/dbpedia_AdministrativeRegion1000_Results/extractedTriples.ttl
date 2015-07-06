@@ -1,0 +1,1895 @@
+<http://ns.aksw.org/scms/annotations/stanford/Blackwood_Creek>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Bishopsbourne> .
+
+<http://dbpedia.org/resource/Israel_Putnam>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/1848> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Plattsburgh>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/County> .
+
+<http://dbpedia.org/resource/Chhattisgarh>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Madhya_Pradesh> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Corning>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Area> .
+
+<http://ns.aksw.org/scms/annotations/stanford/seventh>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/DeWitt_Clinton> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Grosvenor>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Carlisle_railway_station> .
+
+<http://dbpedia.org/resource/Athens_Metro>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Panagoulis> .
+
+<http://dbpedia.org/resource/Arcelor>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Bissen> .
+
+<http://dbpedia.org/resource/Pskov_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Katy>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Texas> .
+
+<http://ns.aksw.org/scms/annotations/stanford/W%C3%BCrttemberg>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Germany> .
+
+<http://ns.aksw.org/scms/annotations/stanford/the_late_17th_century>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Dole,_Jura> .
+
+<http://dbpedia.org/resource/Christy_Clark>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Columbia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kaniv>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Uman> .
+
+<http://dbpedia.org/resource/Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Moscow> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Vathy>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Vathy> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Washington>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Barbara> , <http://ns.aksw.org/scms/annotations/stanford/Warren> .
+
+<http://ns.aksw.org/scms/annotations/stanford/British_Columbia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Province_of_Canada> , <http://dbpedia.org/resource/Lower_Canada> , <http://ns.aksw.org/scms/annotations/stanford/Canada> .
+
+<http://dbpedia.org/resource/English_people>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Socorro_County,_New_Mexico> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Anglican_Network>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Canada> .
+
+<http://dbpedia.org/resource/Arequipa_Region>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Peru> .
+
+<http://dbpedia.org/resource/Luxembourg>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Rollingen> .
+
+<http://dbpedia.org/resource/Burnley>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Colne> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Timothy_L._Doherty>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Rockford> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Glenelg_River>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Heywood,_Greater_Manchester> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Koufonisi>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Santorini> , <http://ns.aksw.org/scms/annotations/stanford/Marmaro> .
+
+<http://dbpedia.org/resource/Adams,_Massachusetts>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Columbia,_Pennsylvania> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Downtown_Harrisburg>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Pennsylvania> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Maccabees>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Strabo> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Henry_Barkly>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Victoria> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Archidioecesis_Bostoniensis>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Boston> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Vorpommern-R%C3%BCgen>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Vorpommern-Greifswald> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Green_Cove_Springs>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Florida> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Booti_Booti>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Elizabeth,_South_Australia> .
+
+<http://dbpedia.org/resource/American_Revolutionary_War>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Wayne> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Allens_Rivulet>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Longley> .
+
+<http://ns.aksw.org/scms/annotations/stanford/%D7%99%D6%B4%D7%A4%D6%B0%D7%A2%D6%B7%D7%AA>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Yifat> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Fournoi_Korseon>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ikaria> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Alva_Adams>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Colorado> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lizzie>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Zilzie> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Pieria>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greece> , <http://dbpedia.org/resource/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Miami>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Florida> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gellibrand_River>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Otway> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Martin_Shaw>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2009> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Yaroslavl_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Russia> .
+
+<http://dbpedia.org/resource/Adelaide_Hills>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Australia> .
+
+<http://dbpedia.org/resource/Yaroslavl_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> , <http://dbpedia.org/resource/European_Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Chelyabinsk_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bingara_Gorge>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Delfin> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bishop>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Fleming> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lippe>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/one> .
+
+<http://dbpedia.org/resource/Fleurieu_Peninsula>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/South_Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/County>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/George> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Moscow>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/William>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Montgomerie> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Nassau_County,_New_York> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Casterton>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Cumbria> .
+
+<http://dbpedia.org/resource/John_Adams>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/County> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Railton>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ayacucho>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Province> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Tayk>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Sophene> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Carnegie_Gold_Project>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Swan_Hill,_Victoria> .
+
+<http://ns.aksw.org/scms/annotations/stanford/42.2_%25>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ayan> .
+
+<http://dbpedia.org/resource/Puerto_Rico>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ramos> .
+
+<http://dbpedia.org/resource/Hispania_Tarraconensis>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Tarragona> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Arkhangelsk_Viceroyalties>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Novgorod_Republic> .
+
+<http://ns.aksw.org/scms/annotations/stanford/the_nineteenth_century>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/John_Strachan> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Palkinsky>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/District> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Asotin_County>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Washington> .
+
+<http://ns.aksw.org/scms/annotations/stanford/238>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Burrawang> .
+
+<http://dbpedia.org/resource/Sanjak>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Didymoteicho> .
+
+<http://dbpedia.org/resource/United_States>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Henry_Clay> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Grand_Lake>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Noonan> .
+
+<http://dbpedia.org/resource/Allegheny_Mountains>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Ohio_River> .
+
+<http://dbpedia.org/resource/Krasnoyarsk_Krai>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Epirus>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greece> .
+
+<http://dbpedia.org/resource/Khabarovsk_Krai>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> , <http://dbpedia.org/resource/European_Russia> .
+
+<http://dbpedia.org/resource/Allegany_County,_New_York>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Allegheny_County,_Pennsylvania> .
+
+<http://ns.aksw.org/scms/annotations/stanford/German>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Leudelingen> .
+
+<http://dbpedia.org/resource/Tomsk_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> , <http://dbpedia.org/resource/European_Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/M%C3%B8re>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/county> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Attica>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Greek>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Kofinas> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gondal>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/India> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Khanty-Mansi_Autonomous_Okrug>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://dbpedia.org/resource/New_Delhi>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Delhien> .
+
+<http://dbpedia.org/resource/Richard_Montgomery_High_School>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/American_Revolutionary_War> .
+
+<http://dbpedia.org/resource/Bryansk_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/European_Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/%C3%98stfold_county>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Norway,_Maine> .
+
+<http://dbpedia.org/resource/Novosibirsk_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Belgica_II>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Belgica> .
+
+<http://dbpedia.org/resource/Shefford_%28electoral_district%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Waterloo,_Ontario> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Monkey_Mia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Pool> .
+
+<http://dbpedia.org/resource/Homebush,_New_South_Wales>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/following> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Quebec>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Canada> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Steve_Neuhaus>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/County> .
+
+<http://ns.aksw.org/scms/annotations/stanford/221>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mercer> .
+
+<http://dbpedia.org/resource/West_Macedonia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ulster.Ulster_County>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Irish_people> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lake>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Tindale> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Nannine>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Small> .
+
+<http://dbpedia.org/resource/Chalkidiki>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Delaware>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/County> .
+
+<http://dbpedia.org/resource/Beaverton,_Oregon>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Tigard,_Oregon> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Senate>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/County> .
+
+<http://ns.aksw.org/scms/annotations/stanford/West_Portland_Park>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Markham,_Ontario> .
+
+<http://dbpedia.org/resource/Port_Harcourt>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Central_Queensland> .
+
+<http://dbpedia.org/resource/French_Upper_Volta>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Burkina> .
+
+<http://ns.aksw.org/scms/annotations/stanford/710>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Vlach%C3%A1ta> .
+
+<http://dbpedia.org/resource/Smolensk_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Russia> , <http://dbpedia.org/resource/Russia> .
+
+<http://dbpedia.org/resource/Henry_Clay>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/U.S.> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/United_States_Senate> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Berri>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Riverland> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ravil_Geniatulin>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Chita_Oblast> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Fenn>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Currently> .
+
+<http://dbpedia.org/resource/Matthew_Paris>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Bourges> .
+
+<http://ns.aksw.org/scms/annotations/stanford/summer>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Bridport> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Baron_Baltimore>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2nd> .
+
+<http://dbpedia.org/resource/Vilnius>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Polish_language> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1831_to_1997>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Michels> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Australia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Wingecarribee_Shire> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Shikoku>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Japan> .
+
+<http://dbpedia.org/resource/Coolgardie,_Western_Australia>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/800> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Pastaza>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Ecuador> .
+
+<http://ns.aksw.org/scms/annotations/stanford/John>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Nazareth> .
+
+<http://dbpedia.org/resource/United_States_Geological_Survey>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Witt> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Chonrima>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2004> .
+
+<http://ns.aksw.org/scms/annotations/stanford/first>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Lewis> , <http://ns.aksw.org/scms/annotations/stanford/Rytkheu> , <http://dbpedia.org/resource/Saint_Stephen> , <http://dbpedia.org/resource/Cape_York_Peninsula> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Robert_Fulton> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Cairns>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mulgrave> , <http://ns.aksw.org/scms/annotations/stanford/Queensland> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1936_to_1947>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Sindh> .
+
+<http://dbpedia.org/resource/Blue_Mountains_railway_line>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Shrub> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ecclesiastical>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Lindiensis> , <http://ns.aksw.org/scms/annotations/stanford/Kahama%C3%ABnsis> , <http://dbpedia.org/resource/Hradec_Kr%C3%A1lov%C3%A9> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Legislative_Assembly_of_Yukon>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Canada> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Roman_Catholic>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Clavarensis> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Leticia>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Eastern_Catholic_Churches> .
+
+<http://dbpedia.org/resource/Chao_Phraya_River>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Central_Thailand> .
+
+<http://dbpedia.org/resource/Central_Macedonia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Henry_Dangar>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Dangarsleigh> .
+
+<http://dbpedia.org/resource/German_wine>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Hessin> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Pambula_Beach>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Towamba> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bishopsbourne>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Bracknell> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mar%C3%ADa>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Santiago> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lur%C3%ADn_District>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Lurinen> .
+
+<http://dbpedia.org/resource/Pretoria>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/South_Africa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hastings>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/County> .
+
+<http://dbpedia.org/resource/Arkhangelsk_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Eastern_Cape>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Africa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Greensburg>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Pennsylvania> .
+
+<http://ns.aksw.org/scms/annotations/stanford/November_2009>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ya%27akov> .
+
+<http://dbpedia.org/resource/Nathanael_Greene>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/American_Revolutionary_War> .
+
+<http://ns.aksw.org/scms/annotations/stanford/57.7_%25>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Uyar> .
+
+<http://dbpedia.org/resource/Ibadan>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Nigeria> .
+
+<http://ns.aksw.org/scms/annotations/stanford/10%3A10_%2B12>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Joshua> .
+
+<http://dbpedia.org/resource/Province_of_Quebec_%281763%E2%80%931791%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Canadian> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mary>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/George> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Stuart_Town>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Council> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Willow_Vale>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Welby> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Daejeon>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Korea> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Buryatia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://dbpedia.org/resource/Pope_Benedict_XVI>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2009> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Alaca_Hisar>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Turkish> .
+
+<http://dbpedia.org/resource/Kaifeng>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ciumatienen> .
+
+<http://dbpedia.org/resource/Polish_language>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Gubernialna> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Canadian>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Victoriensis> .
+
+<http://dbpedia.org/resource/Yorke_Peninsula>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/South_Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Wialki>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Wheatbelt> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Legislative_Assembly_of_Alberta>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Canada> .
+
+<http://dbpedia.org/resource/Wagga_Wagga>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Sydney> .
+
+<http://dbpedia.org/resource/San_Mart%C3%ADn_Region>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Peru> .
+
+<http://dbpedia.org/resource/Ionian_Islands>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Dagestan>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russian_Soviet_Federative_Socialist_Republic> , <http://dbpedia.org/resource/Russia> .
+
+<http://dbpedia.org/resource/Volgograd_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bezirk_Waidhofen>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Thaya> .
+
+<http://ns.aksw.org/scms/annotations/stanford/David_Johnson>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Party> .
+
+<http://dbpedia.org/resource/Novgorod_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/European_Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/University_of_Maryland>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/County> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Henry_Clay>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Mexican-American_War> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bel%C3%A9m>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Santaremensis> .
+
+<http://dbpedia.org/resource/Selby>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1939> .
+
+<http://dbpedia.org/resource/Drummondville>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Drummond> .
+
+<http://dbpedia.org/resource/Louisiana_Purchase>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Napoleon> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Wagga_Wagga>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Shires> .
+
+<http://dbpedia.org/resource/Far_North_Queensland>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Australia_%28continent%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Frederick>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Maryland> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ell>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Luxembourg> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Diocletian>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/twelve> .
+
+<http://dbpedia.org/resource/Docklands,_Victoria>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Market> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bryansk_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Avdon>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Evron> .
+
+<http://ns.aksw.org/scms/annotations/stanford/PA_Micropolitan_Statistical_Area>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/County> .
+
+<http://dbpedia.org/resource/Altai_Krai>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Adelaide>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Fran%C3%A7ois_Charles_Garnier>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/December> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Uthai_Thani>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/2001> .
+
+<http://dbpedia.org/resource/John_Quincy_Adams>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/U.S.> .
+
+<http://dbpedia.org/resource/Tasmania>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Marrawah> .
+
+<http://dbpedia.org/resource/Kamchatka_Krai>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Oppland_county>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Norway> .
+
+<http://dbpedia.org/resource/Kaluga_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/south_west_New_South_Wales>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Robert_R._Livingston>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/County> .
+
+<http://dbpedia.org/resource/Salaberry-de-Valleyfield>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Saint-Jean-Longueuil> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Cajamarca>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Peru> .
+
+<http://dbpedia.org/resource/Malone_%28village%29,_New_York>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Franklin_County,_New_York> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Herzegovina>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Italy> .
+
+<http://dbpedia.org/resource/Ulyanovsk_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> , <http://dbpedia.org/resource/European_Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Moira>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Australia> .
+
+<http://dbpedia.org/resource/Ayacucho_Region>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Caraveliensis> .
+
+<http://ns.aksw.org/scms/annotations/stanford/James_A._Kowalski>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Church> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Shannon_Brook>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Tenterfield> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mount_Gilboa>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Merav> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mezhdurechensky_District>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Sokolsky> .
+
+<http://dbpedia.org/resource/Penza_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Wannamal>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Midland> .
+
+<http://dbpedia.org/resource/Voronezh_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/European_Russia> , <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/The_Riverland>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/months>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Drouin> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hill>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1914> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kfar_Ahim>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/HaRif> .
+
+<http://dbpedia.org/resource/Irkutsk_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Legislative_Assembly_of_New_Brunswick>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Canada> .
+
+<http://dbpedia.org/resource/Michael_%28archangel%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Israel> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kibbutz_Moran>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1977> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Voronezh_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Vincent_Crisanti>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Toronto_City_Council> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Corfu>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lafayette>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Louisiana> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Victoria>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hispaniae>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Celtiberians> .
+
+<http://dbpedia.org/resource/Sandringham,_Norfolk>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Norfolk> .
+
+<http://dbpedia.org/resource/Island_of_Montreal>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Paul_Chomedey_de_Maisonneuve> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Philip_Schuyler>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/one> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Eisebon>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greek> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Tatiara_District_Council>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Barker> .
+
+<http://dbpedia.org/resource/Lipetsk_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://dbpedia.org/resource/Bunbury,_Western_Australia>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Road> .
+
+<http://dbpedia.org/resource/Maryborough,_Queensland>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Fraser_Island> .
+
+<http://dbpedia.org/resource/Nenets_Autonomous_Okrug>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/European_Russia> .
+
+<http://dbpedia.org/resource/Venezuela>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Truxillensis> .
+
+<http://dbpedia.org/resource/Jackson,_Mississippi>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Colorado_River_%28Texas%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Yated>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1982> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Buln_Buln>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/one> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jantzen_Beach>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1970> .
+
+<http://dbpedia.org/resource/Picardy_%28region%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Hainaut_%28province%29> .
+
+<http://dbpedia.org/resource/Pennsylvania>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/George> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Cala>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Tsomo> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gettysburg>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/John> .
+
+<http://ns.aksw.org/scms/annotations/stanford/2006>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Araluen> .
+
+<http://dbpedia.org/resource/Omsk_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> , <http://dbpedia.org/resource/European_Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1499>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Sanjak> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Magnesia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Clarksville>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Tennessee> .
+
+<http://dbpedia.org/resource/Johannesburg>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/South_Africa> .
+
+<http://dbpedia.org/resource/Bremen-Verden>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Stade_%28region%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Chep%C3%A9n>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Chep%C3%A9n> .
+
+<http://dbpedia.org/resource/Hanmer_Springs>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Amuri> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Aboriginal>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Bates> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Lowanna> .
+
+<http://dbpedia.org/resource/Cyclades>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://dbpedia.org/resource/Belgorod_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Guadalupe_Hidalgo>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/California> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Marath%E1%B9%93n>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Katharevousa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kontum>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/VI> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Old_Goolhi_Station>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mullaley> .
+
+<http://ns.aksw.org/scms/annotations/stanford/King_Amaziah>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Judah> .
+
+<http://dbpedia.org/resource/North_Rhine-Westphalia>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1946> .
+
+<http://ns.aksw.org/scms/annotations/stanford/one>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Uqllu> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Yarrawonga> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Toth> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Brisbane>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Makdougall> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Yorkshire>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/England> .
+
+<http://dbpedia.org/resource/Barquisimeto>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Philippi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Campbell_Newman>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Party> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gramos>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Sidironero> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Portland>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Oregon> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Khosrau>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Sasanian> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Peloponnese>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gene_Robinson>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2000s> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Stephen_Robson>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/9> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Queensland>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Australia> .
+
+<http://dbpedia.org/resource/Zabaykalsky_Krai>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Morgan_Lewis>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/York> .
+
+<http://dbpedia.org/resource/South_East_Queensland>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Emsley_Nimmo>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Canon_%28priest%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/New_Democrat>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Karagianis> .
+
+<http://ns.aksw.org/scms/annotations/stanford/James_Rouse>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1967> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lynn>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/46%2C000> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Shire_of_Central_Goldfields>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Maryborough,_Victoria> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Murray>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/City_of_Adelaide> .
+
+<http://dbpedia.org/resource/Chile>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Angelorum> , <http://ns.aksw.org/scms/annotations/stanford/Philippi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mount_Isa>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Queensland> .
+
+<http://dbpedia.org/resource/Alexander_the_Great>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/BC> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Clinton_County>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/York> .
+
+<http://ns.aksw.org/scms/annotations/stanford/currently>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Stephen_Harper> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mycenaean_Greek>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Pulos> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Garonne>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Landes_%28department%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gangnam-gu>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Samseong-Dong> , <http://ns.aksw.org/scms/annotations/stanford/Seoul> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kenedy_County>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Texas> .
+
+<http://dbpedia.org/resource/Wichita_Falls,_Texas>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Frank> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Well_District_Area_School>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Brown> .
+
+<http://ns.aksw.org/scms/annotations/stanford/230%2C30>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ceil%C3%A2ndia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/North_Aegean>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Cherchell>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/now> .
+
+<http://dbpedia.org/resource/Anqing>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Wade%E2%80%93Giles> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Pope_Benedict_XVI>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mexico> .
+
+<http://ns.aksw.org/scms/annotations/stanford/George_II>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Britain> .
+
+<http://dbpedia.org/resource/Salamis_Island>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Baron_De_La_Warr>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Virginia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lloyd_Lowndes>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Allegany_County,_New_York> .
+
+<http://dbpedia.org/resource/Peloponnese_Periphery>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Zamora>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Mexico> .
+
+<http://ns.aksw.org/scms/annotations/stanford/John_Chedid>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Liberal_Party_of_Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hadid>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1949> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Central_Ranges.Shooters_Hill_Post_Office>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Hill> .
+
+<http://dbpedia.org/resource/Nizhny_Novgorod_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/European_Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/567>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Buln> .
+
+<http://ns.aksw.org/scms/annotations/stanford/current>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Brad_Wall> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Respublik%C3%A6_Ts%C3%A6gat_Iryston-Alani>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Galatas>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/3%2C986> .
+
+<http://dbpedia.org/resource/Maranh%C3%A3o>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Tocantins_River> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Wilmington>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/County> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kapel>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Valkenburg_aan_de_Geul> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Blayney>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Council> .
+
+<http://ns.aksw.org/scms/annotations/stanford/third>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Jefferson> .
+
+<http://ns.aksw.org/scms/annotations/stanford/James_II>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/England> .
+
+<http://dbpedia.org/resource/Spain>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Zamora> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1905>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Louisa.A> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Cashel>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/six> .
+
+<http://dbpedia.org/resource/Tula_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/George_Arthur>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Association> .
+
+<http://dbpedia.org/resource/Ankara>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Anatolia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Debra_A._Preston>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/current> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Civil_War>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Palestine> .
+
+<http://ns.aksw.org/scms/annotations/stanford/St._Joseph>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Missouri> .
+
+<http://dbpedia.org/resource/Central_Greece>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Central_Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Spain>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Burgos> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ein_Vered>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1930> .
+
+<http://dbpedia.org/resource/Hurricane_Frances>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/February> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Milagros>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Ourense> .
+
+<http://dbpedia.org/resource/Thessaly>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Tula_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/David_Somerville>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1976> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jesus>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Hidalgo.Tacuba> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Neve_Yam>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2009> .
+
+<http://dbpedia.org/resource/Orenburg_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/European_Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Colo_Rivers>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Rivers> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Glasgow>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Andrew> .
+
+<http://ns.aksw.org/scms/annotations/stanford/New_South_Wales>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Miguel_Hidalgo>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ju%C3%A1rez> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Joseph>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Lucknow> .
+
+<http://dbpedia.org/resource/Kherson_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Ukraine> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Geelong>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Drysdale> .
+
+<http://dbpedia.org/resource/Castiglione_del_Lago>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Benedict_of_Nursia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Narungga_Aboriginal_Progress_Association.Maitland>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Maitland,_New_South_Wales> .
+
+<http://dbpedia.org/resource/Forbes_400>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2011> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lumbard%C3%A9a>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Italy> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Thomas_Hart_Benton>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Missouri_River> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jessup>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/County> .
+
+<http://ns.aksw.org/scms/annotations/stanford/65.9_%25>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Yefremov> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Wolfe>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Richmond> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Sirkin>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Nachman> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Grani%C5%A3a_Militar%C4%83_Transilv%C4%83nean%C4%83>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Ethnic_Germans> .
+
+<http://dbpedia.org/resource/Dutch_people>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Leeman> .
+
+<http://dbpedia.org/resource/Euboea>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/%D7%9B%D7%99%D7%A9%D7%95%D7%A8>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Kishor> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Darling_Downs>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Queensland> .
+
+<http://dbpedia.org/resource/City_of_Playford>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/South_Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/British_School>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Athens> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Simos>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Nissia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Essehof_III>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Thedinghausen> .
+
+<http://dbpedia.org/resource/John_Sullivan>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Revolutionary> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Alsace-Lorraine>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Lorraine> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Legislative_Assembly_of_British_Columbia>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Canada> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Breizh>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/French> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Puno>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Lampa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/William_Andrews_Clark>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Montana> .
+
+<http://ns.aksw.org/scms/annotations/stanford/fourth>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Madison> .
+
+<http://dbpedia.org/resource/East_Attica>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Seventh>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/North_Yemen> .
+
+<http://dbpedia.org/resource/Rhodes>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Sporades> .
+
+<http://dbpedia.org/resource/East_Jerusalem>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Yaakov> .
+
+<http://dbpedia.org/resource/Menominee,_Michigan>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Marie> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Velasco>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Texas> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Scarborough>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/York> .
+
+<http://ns.aksw.org/scms/annotations/stanford/3.0.18>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Primrose> .
+
+<http://dbpedia.org/resource/Samara_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/European_Russia> .
+
+<http://dbpedia.org/resource/Metropolitan_Borough_of_Stockport>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Cheshire> .
+
+<http://dbpedia.org/resource/Kemerovo_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mark_Greenhill>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Labour_Party_%28UK%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Dayton>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ohio> .
+
+<http://dbpedia.org/resource/Peloponnese>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Shires>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Hastings,_Victoria> .
+
+<http://dbpedia.org/resource/Crete>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/French_Royal_House>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/County> .
+
+<http://dbpedia.org/resource/Tyumen_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/European_Russia> , <http://ns.aksw.org/scms/annotations/stanford/Russia> , <http://dbpedia.org/resource/Russia> .
+
+<http://dbpedia.org/resource/Torres_Strait_Islands>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Torres> .
+
+<http://dbpedia.org/resource/Sandie_Shaw>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Shaw> .
+
+<http://dbpedia.org/resource/Saratov_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://dbpedia.org/resource/Joe_Clark>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Harcourt> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bal%C3%A1zs_B%C3%A1bel>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1999> .
+
+<http://dbpedia.org/resource/Roman_Catholic_%28term%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Suessana> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Daegu>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Korea> .
+
+<http://dbpedia.org/resource/Presbyterianism>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Saint_Andrew> .
+
+<http://dbpedia.org/resource/Oryol_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/European_Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Yarensky_Uyezd>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Yarensk> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Thrace>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Crete>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greece> .
+
+<http://dbpedia.org/resource/Thesprotia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/fifth>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Monroe> .
+
+<http://dbpedia.org/resource/Eyre_Peninsula>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/South_Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Francis_Fulford>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Oxford_Movement> .
+
+<http://dbpedia.org/resource/W%C3%BCrttemberg-Baden>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1952> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Colin_Johnson>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ontario> .
+
+<http://dbpedia.org/resource/Elis_%28peripheral_unit%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Battle_of_Greece> .
+
+<http://dbpedia.org/resource/Richard_Montgomery>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/American_Revolutionary_War> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Congress>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Texas> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Chester>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/New_England> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Sussex_County>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Delaware> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1966>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Johnson> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Milton>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mollymook> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Vergadeika>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Kiparrissi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Yisrael>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Institute> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ein_Gev>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2002> .
+
+<http://ns.aksw.org/scms/annotations/stanford/St._George>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/United_States> .
+
+<http://dbpedia.org/resource/Sverdlovsk_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ziria>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1998> .
+
+<http://dbpedia.org/resource/Luhansk>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Ukrainians> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Drinska>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Yugoslavia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Natan_Peled>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Sadeh> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ben_Bullen>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Cowra,_New_South_Wales> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Pierre_Van_Cortlandt>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Kingston,_New_York> .
+
+<http://ns.aksw.org/scms/annotations/stanford/10%3A22>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Ammihud> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Sarona>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1878> .
+
+<http://dbpedia.org/resource/Tver_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/European_Russia> , <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/39.7_%25>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Anna_University> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lents>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Woodstock,_Illinois> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kara_Kara>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/one> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mildura>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Victoria> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Thessaloniki>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greece> .
+
+<http://dbpedia.org/resource/Humber_River_%28Ontario%29>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Etobicoke_North> .
+
+<http://ns.aksw.org/scms/annotations/stanford/second>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/John_Adams> .
+
+<http://dbpedia.org/resource/Piedmont_%28United_States%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Colorado> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Joseph_C._Yates>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/York> .
+
+<http://dbpedia.org/resource/Kurgan_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Victoria_Mill>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Ingham,_Queensland> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Arachthos>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Xerovouni> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Khmelnytskyi_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ukraine> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Tver_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Musk>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Victoria> .
+
+<http://dbpedia.org/resource/Tambov_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/European_Russia> , <http://dbpedia.org/resource/Russia> , <http://ns.aksw.org/scms/annotations/stanford/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Boyd>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Wongan_Hills,_Western_Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Athanasios_Diakos>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Greeks> .
+
+<http://dbpedia.org/resource/Greece>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Cyclades> .
+
+<http://dbpedia.org/resource/Metropolitan_Borough_of_Solihull>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Sandwell> .
+
+<http://dbpedia.org/resource/Perm_Krai>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/297>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Diocletian> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Killara_Station>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Killara> .
+
+<http://dbpedia.org/resource/Apulia>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Southern_Italy> .
+
+<http://dbpedia.org/resource/Krasnodar_Krai>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Beltana>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Adelaide> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Telfer>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Pilbara> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lechaina>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greece> .
+
+<http://dbpedia.org/resource/Liga_Veneta>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Lega_Nord> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Andrey_Bogdanov>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/2008> .
+
+<http://dbpedia.org/resource/Achaea>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> , <http://ns.aksw.org/scms/annotations/stanford/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/DeWitt_Clinton.Clinton_County>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Lansing> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Tasmania>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Australia> .
+
+<http://dbpedia.org/resource/Philippi,_West_Virginia>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1844> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Queen_Anne>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Eastern_Shore_of_Maryland> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Montenotte>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Republic> .
+
+<http://ns.aksw.org/scms/annotations/stanford/66>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Chuong> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ontario>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Canada> .
+
+<http://dbpedia.org/resource/Ivanovo_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> .
+
+<http://dbpedia.org/resource/Ryazan_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russia> , <http://dbpedia.org/resource/European_Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Zakynthos>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greece> .

@@ -1,0 +1,3267 @@
+<http://ns.aksw.org/scms/annotations/stanford/Peggy_Mann>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Reed> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jack_Johnson>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Pangaea> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Henri-Bernard_Dabadie>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Paris> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Strictly_Inc>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Hues> .
+
+<http://ns.aksw.org/scms/annotations/stanford/the_mid-1950s>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Rondeau> .
+
+<http://dbpedia.org/resource/Brittany>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Africa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Joe_Schermie>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Night> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bikutsi>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Makossa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Litania>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Heloise> .
+
+<http://dbpedia.org/resource/Nauen>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Drews> .
+
+<http://ns.aksw.org/scms/annotations/stanford/August_23_%2C_1900>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Adaskin> .
+
+<http://ns.aksw.org/scms/annotations/stanford/California>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Parker> , <http://ns.aksw.org/scms/annotations/stanford/Orsi> , <http://ns.aksw.org/scms/annotations/stanford/McBroom> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Formonn>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Nirmon> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Buddy_Rich>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Zip> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1_December_1925>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Clarke> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kristine_Smith-Morasso>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Edison_Records> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Le_Knight_Club>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Chedeville> .
+
+<http://ns.aksw.org/scms/annotations/stanford/January_1982>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/McKnight> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Santa_Monica>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/California> .
+
+<http://dbpedia.org/resource/Stockholm_County>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Mary_Magdalene> .
+
+<http://ns.aksw.org/scms/annotations/stanford/January_12_%2C_1930>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Yarbrough> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Preussischer_Kulturbesitz>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Berlin> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Rossini_Conservatory>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Pesaro> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Coraz%C3%B3n_Duro>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1999> .
+
+<http://dbpedia.org/resource/Bob_the_Builder>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2009> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Sampedro>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2010> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hariprasad_Chaurasia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Banerjee> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Donkey_Kong>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Banjo-Tooie> .
+
+<http://ns.aksw.org/scms/annotations/stanford/October_26_%2C_1977>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/G%C3%B6kyoku%C5%9F> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1939>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Brasseur> .
+
+<http://dbpedia.org/resource/Melle_Mel>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Bee> .
+
+<http://dbpedia.org/resource/University_of_Cambridge>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Morris> .
+
+<http://dbpedia.org/resource/Germany>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Bongartz> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jun_Sakurada>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Rozen_Maiden> .
+
+<http://dbpedia.org/resource/Babatunde_Olatunji>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Nigerian> .
+
+<http://ns.aksw.org/scms/annotations/stanford/St._Louis>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Missouri> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lewisburg>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Pennsylvania> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gaucelm_Faidit>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Rodez> .
+
+<http://ns.aksw.org/scms/annotations/stanford/three>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Babb> .
+
+<http://ns.aksw.org/scms/annotations/stanford/February_17_%2C_1932>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Popovici> .
+
+<http://dbpedia.org/resource/Caetano_Veloso>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Skylab.He> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Marseille>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/France> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mel_Bonis>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Paris> .
+
+<http://ns.aksw.org/scms/annotations/stanford/%C3%85lesund>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Norway> .
+
+<http://dbpedia.org/resource/Peshawar>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Alam> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Besh_O_Drom>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Kings_of_Leon> .
+
+<http://ns.aksw.org/scms/annotations/stanford/ninth>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Dimitriou> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Chernivtsi>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ukraine> .
+
+<http://ns.aksw.org/scms/annotations/stanford/75th>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Jones> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Orrin_Tucker>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1950s> .
+
+<http://ns.aksw.org/scms/annotations/stanford/September_17_%2C_1991>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Minako> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Port_Townsend>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Washington> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Merseyside>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/England> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hans_Zender>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Frankfurt> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Salako>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2002> .
+
+<http://ns.aksw.org/scms/annotations/stanford/6_December_1969>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Grandi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/August_7_%2C_1967>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Bonnel> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Pennsylvania>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/United_States> .
+
+<http://ns.aksw.org/scms/annotations/stanford/S.E.S.>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Bada> .
+
+<http://ns.aksw.org/scms/annotations/stanford/2_February_1964>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Charlemagne> .
+
+<http://dbpedia.org/resource/Scottish_people>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Innes> , <http://ns.aksw.org/scms/annotations/stanford/Waterson> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Nicosia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Cyprus> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mike_Batt>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1984> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Alexander_Alexandrovich_Kopylov>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Russian_Empire> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Alexander_Siloti>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Sergei_Rachmaninoff> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hagley_Road>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Edgbaston> .
+
+<http://ns.aksw.org/scms/annotations/stanford/David_Letterman>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Orchestra> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Norway>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Henriksen> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hefti>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Orchestra> .
+
+<http://dbpedia.org/resource/The_Australian>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Katz> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kaalpurush>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2008> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Croydon>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Montgomery_Ward> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Nikaia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://dbpedia.org/resource/Amsterdam>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Leo_%28constellation%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Philharmonic_Orchestra>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/London> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1966>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/McFadden> .
+
+<http://dbpedia.org/resource/Elliott_Smith>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Heatmiser> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ofschaaid_Zunder_Woorden>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Plessis> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Domenico>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Longo> .
+
+<http://dbpedia.org/resource/Kurt_Cobain>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Leonard_Cohen> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1934>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ramani> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Elektra>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Noelle> .
+
+<http://ns.aksw.org/scms/annotations/stanford/today>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Artois> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Fujikawa_Masaharu>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/%E8%97%A4%E5%B7%9D> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Susanna>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mozart> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jimmy_Wayne>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Perry> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Retani>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Neswanji> .
+
+<http://dbpedia.org/resource/Romanian_language>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Belle> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jay-Jay_Johanson>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/11> .
+
+<http://ns.aksw.org/scms/annotations/stanford/George_Alexander_Macfarren>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1846> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ana_Rezende>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Paulo> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Dinarama>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Alaska> .
+
+<http://ns.aksw.org/scms/annotations/stanford/28_January_1977>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Gibb> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Chinmaya_Dunster>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Sarod> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Latvian>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Adaskins> .
+
+<http://dbpedia.org/resource/Eastman_School_of_Music>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1980> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Columbia_Artists_Management>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/New_York> .
+
+<http://ns.aksw.org/scms/annotations/stanford/currently>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Borrell> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Gatas> , <http://ns.aksw.org/scms/annotations/stanford/Crocco> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bayswater_Road>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/London_Records> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lafayette>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Colorado> .
+
+<http://dbpedia.org/resource/Richie_Kotzen>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Dave_Weckl> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Moncton>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Brunswick> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Matt_Toka>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/May> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Antonis_Papadakis>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Cretan> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Matt_Warren>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Indigenous_Australians> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jack_Poels>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Giesen> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ana_Bella_Ben%C3%ADtez>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/February> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Paul_Barman>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/October> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Cordell_Jackson>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/first> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1961>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/David_MacDonald_%28director%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Dmitri_Bashkirov>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Bilson> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hofbauer>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Vienna> .
+
+<http://ns.aksw.org/scms/annotations/stanford/August_12_%2C_1938>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Tourangeau> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Maria_Theresa>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Empress> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bernard_James_Naylor>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Canada> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Los_Angeles>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/California> .
+
+<http://dbpedia.org/resource/Chris_Cagle>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2002> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Christoph_Alex>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2011> .
+
+<http://ns.aksw.org/scms/annotations/stanford/April_18_%2C_1930>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Guillou> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Melbourne>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Australia> .
+
+<http://dbpedia.org/resource/Atlantic_City_%281980_film%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Lynn> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Cologne>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Wunderlich> .
+
+<http://dbpedia.org/resource/BBC_Television>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Ian_Woosnam> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Frykdahl>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Rathbun> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mathias_F%C3%A4rm>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/two> .
+
+<http://dbpedia.org/resource/Pyotr_Ilyich_Tchaikovsky>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/November> .
+
+<http://dbpedia.org/resource/Vietnam_War>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Nona_Gaye> .
+
+<http://ns.aksw.org/scms/annotations/stanford/January_28_%2C_1992>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Sungkar> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Santiago_%26_Bushido>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Teenwolf> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Morgan>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2004> .
+
+<http://dbpedia.org/resource/French_people>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Leclerc> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Egotrippi>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Harry_Connick,_Jr.> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hannes_Wader>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Lechtenbrink> .
+
+<http://dbpedia.org/resource/Los_Angeles>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/United_States> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Royalton_Kisch>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Wellington_College,_Berkshire> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Western>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Attenoux> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mbaye_Dieye_Faye>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Senegal> .
+
+<http://dbpedia.org/resource/Vennesla>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Norway> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Greg_Gilmore>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Minute> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Christian>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mainer> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Coventry>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/England> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Asexuals>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Kastner> .
+
+<http://ns.aksw.org/scms/annotations/stanford/June_15_%2C_1962>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Rost> .
+
+<http://dbpedia.org/resource/Mario_Castelnuovo-Tedesco>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Paco_de_Luc%C3%ADa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Dayton>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ohio> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Royal_Court_Opera>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Neumann> .
+
+<http://ns.aksw.org/scms/annotations/stanford/March_22_%2C_1984>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Johnson> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Vittorio_Baldini>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Luzzaschi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Brady>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Hannah_Montana:_The_Movie> .
+
+<http://dbpedia.org/resource/Robert_Plant>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Bon_Scott> .
+
+<http://dbpedia.org/resource/Death_Row_Records>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Lawrence_v._Texas> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Tandyn_Almer>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/John> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jerico>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/England> .
+
+<http://ns.aksw.org/scms/annotations/stanford/June_14_%2C_1988>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Kevin_McHale_%28actor%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ansch%C3%BCtz>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Leipzig> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Oslo>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Norway> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Adam>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Fulda> .
+
+<http://dbpedia.org/resource/The_Picture_of_Dorian_Gray>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2009> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jeanne_Beker>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Television> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Martin_Carthy>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Waterson> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Streetly>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Talbot> .
+
+<http://ns.aksw.org/scms/annotations/stanford/J%C3%B3zef_Koffler>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/November> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Iitti>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Finland> .
+
+<http://dbpedia.org/resource/East_Berlin>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Dehn> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ross_Robinson>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Clemmons> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gozzo>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Nestico> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Larne>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Semple> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ryde>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Wight> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Morning>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Robinson> .
+
+<http://ns.aksw.org/scms/annotations/stanford/March_17_%2C_1963>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Hiroto> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Stan_Greig>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Leake> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jour>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1969> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Browne>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Waterman> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1955>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Dunne> , <http://ns.aksw.org/scms/annotations/stanford/MacIsaac> .
+
+<http://ns.aksw.org/scms/annotations/stanford/12_July_1880>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Baptiste> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Glasgow-based>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Speirs> .
+
+<http://dbpedia.org/resource/William_Henry_Jackson>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Exeter> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Elmwood_Village>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/University_at_Buffalo,_The_State_University_of_New_York> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Wolves>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Odin> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1923>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Nagasawa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Antje_Weithaas>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Berlin> .
+
+<http://dbpedia.org/resource/George_Shearing>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1959> .
+
+<http://ns.aksw.org/scms/annotations/stanford/March_2_%2C_1963>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Pieczonka> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Marie-Claire_Alain>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Heiller> .
+
+<http://dbpedia.org/resource/Jennifer_Lopez>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Icon> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Joan_Chalmers>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Amesbury> .
+
+<http://dbpedia.org/resource/Jean-Bertrand_Aristide>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Manno> .
+
+<http://ns.aksw.org/scms/annotations/stanford/July_5_%2C_1961>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Banai> .
+
+<http://dbpedia.org/resource/Algiers>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Assia> .
+
+<http://dbpedia.org/resource/Fukui_Prefecture>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Japanese_people> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Minneapolis>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Minnesota> .
+
+<http://dbpedia.org/resource/DJ_Krush>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Japan> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mervil>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Centre> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Yefimovich_Pyatnitsky>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Supreme_Soviet_of_Russia> .
+
+<http://dbpedia.org/resource/Madrid>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Calvo-Manzano> .
+
+<http://dbpedia.org/resource/Edward_Elgar>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Gerontius> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gary_Moore>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Elf> .
+
+<http://ns.aksw.org/scms/annotations/stanford/once>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/George_Dalaras> , <http://ns.aksw.org/scms/annotations/stanford/Collins> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hendon>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/London> .
+
+<http://ns.aksw.org/scms/annotations/stanford/C%C3%A9gep_Saint-Laurent>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Montreal_Symphony_Orchestra> .
+
+<http://dbpedia.org/resource/English_people>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Young> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ben_Rogers>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Columbia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Moscow_Oblast>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Russia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Liz_Harris>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Oregon> .
+
+<http://ns.aksw.org/scms/annotations/stanford/January_25_%2C_1925>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/George> .
+
+<http://ns.aksw.org/scms/annotations/stanford/An-Shi_Rebellion>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Xuanzong> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Devin_Townsend>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Zappa> .
+
+<http://dbpedia.org/resource/Bermondsey>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/London_Records> .
+
+<http://dbpedia.org/resource/John_Power>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2001> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Centennial>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Don_Pasquale> .
+
+<http://ns.aksw.org/scms/annotations/stanford/December_21_%2C_1964>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/III> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Abshire>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Balfa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Rouen>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Corrette> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Caffarelli>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Porpora> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Canray_Fontenot>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Louisiana_Creole_people> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Spean_Bridge>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Scotland_national_football_team> .
+
+<http://dbpedia.org/resource/Havana>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Castro> .
+
+<http://ns.aksw.org/scms/annotations/stanford/2_January_1968>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/West> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Louis_Aubert>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1720-1783> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Verdi>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/French> .
+
+<http://dbpedia.org/resource/Dolly_Parton>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/George_Jones> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Amey>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Made_in_Canada> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Milwaukee>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Sklar> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Wisconsin> .
+
+<http://ns.aksw.org/scms/annotations/stanford/James_Gabriel_Leo_Lavelle>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1974> .
+
+<http://dbpedia.org/resource/Helen_Gallagher>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Kay_Francis> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Wallenstein>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1941> .
+
+<http://ns.aksw.org/scms/annotations/stanford/12_December_1970>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Horne> .
+
+<http://ns.aksw.org/scms/annotations/stanford/9_March_1972>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Fellner> .
+
+<http://dbpedia.org/resource/1928_Summer_Olympics>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Smit> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Suckling>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2012> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jodi>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2014> .
+
+<http://dbpedia.org/resource/North_London>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/England> .
+
+<http://dbpedia.org/resource/Lata_Mangeshkar>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mahmood> .
+
+<http://ns.aksw.org/scms/annotations/stanford/19_November_1985>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/%C3%81lvarez> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Fran%C3%A7ois_Lupien_Grenet>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/second> .
+
+<http://ns.aksw.org/scms/annotations/stanford/John_Connelly>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/New_York> .
+
+<http://ns.aksw.org/scms/annotations/stanford/ISIS>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Sunn> .
+
+<http://dbpedia.org/resource/Ewan_MacColl>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Kirsty> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ottawa>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ontario> .
+
+<http://dbpedia.org/resource/Pete_Seeger>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Pete_Seeger> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Joe_Grushecky>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/1990_FIFA_World_Cup> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Aberystwyth>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Edwards> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Andris_Nelsons>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Berlin> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Houser>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Skerik> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Natalie_Cole_Natalie>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Rod_Stewart> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Calvary_Episcopal_Church>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Pittsburgh> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Italian>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Fatovich> .
+
+<http://ns.aksw.org/scms/annotations/stanford/ONE>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Theofanous> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Clyde_Bernhardt>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/decade> .
+
+<http://ns.aksw.org/scms/annotations/stanford/DJ_Knol_Tate>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Tate> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1995>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Ace> , <http://dbpedia.org/resource/Jethro_Tull_%28band%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Aliyah_Rabia>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Muslim> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Nordell>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/One> .
+
+<http://dbpedia.org/resource/Martin_Smith_%28songwriter%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/one> .
+
+<http://dbpedia.org/resource/Tamil_cinema>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Varalaxmi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Chae_Yeon>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/December> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1963>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Davis> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bill_Berry>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Florence> .
+
+<http://ns.aksw.org/scms/annotations/stanford/John>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Square> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Annette_Campagne>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Avoine> .
+
+<http://ns.aksw.org/scms/annotations/stanford/6_July_1972>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Gasser> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Thiessen>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/K> .
+
+<http://ns.aksw.org/scms/annotations/stanford/11_December_1968>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/L%C3%A9vy> .
+
+<http://ns.aksw.org/scms/annotations/stanford/November_18_%2C_1988>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Banai> .
+
+<http://dbpedia.org/resource/Warner_Music_Group>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Stein> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Louise_Attaque>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Roussel> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Edda>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Hungarian_people> .
+
+<http://dbpedia.org/resource/Blessed_Sacrament>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Aquinas> .
+
+<http://ns.aksw.org/scms/annotations/stanford/13_March_1956>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Frandsen> .
+
+<http://dbpedia.org/resource/Abby_Aldrich_Rockefeller>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Brooklyn> .
+
+<http://dbpedia.org/resource/Rick_Rock>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Shop> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Thessaloniki>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greece> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Baron_Airedale.The>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2nd> .
+
+<http://ns.aksw.org/scms/annotations/stanford/November_20_%2C_1975>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Jeffrey_Lewis> .
+
+<http://ns.aksw.org/scms/annotations/stanford/14_November_1981>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Steinbacher> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Philadelphia>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Aicher> .
+
+<http://ns.aksw.org/scms/annotations/stanford/David_Hallyday>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/University_of_California,_Berkeley> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gim%C3%A9nez>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1896> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mannville>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Alberta> .
+
+<http://ns.aksw.org/scms/annotations/stanford/2011>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Joe_Elliott> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Tommy> .
+
+<http://dbpedia.org/resource/James_Lavelle>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2003> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bentonia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mississippi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/W._Brett_Wilson>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Canadians> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Aberdeen>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Burgess> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jean-Delphin_Alard>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Paris> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Dickon_Edwards>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/March> .
+
+<http://dbpedia.org/resource/Johnson_%28composer%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/United_States> .
+
+<http://dbpedia.org/resource/Benjamin_Britten>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Gioachino_Rossini> .
+
+<http://dbpedia.org/resource/Christian_music>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Digital.He> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Nikos_Papazoglou>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/United_States> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Iakovos_Nafpliotis>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Nafpliotis> .
+
+<http://ns.aksw.org/scms/annotations/stanford/West_End>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/London> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Johnny_Ace>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/B.B._King> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Milan>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mussi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Richard_Stanley>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Morner> .
+
+<http://dbpedia.org/resource/Keith_Rowe>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2001> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Keil_Isles>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Rudolf> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Fixer>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Fisher_%28animal%29> .
+
+<http://dbpedia.org/resource/Duane_Eddy>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Marvin> .
+
+<http://dbpedia.org/resource/San_Francisco_State_University>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Calif.> .
+
+<http://dbpedia.org/resource/Dragonette>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/11> .
+
+<http://dbpedia.org/resource/Richard_Thompson_%28musician%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Maddy_Prior> .
+
+<http://ns.aksw.org/scms/annotations/stanford/New_York_City>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Williams> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Michael_%26_Ashley>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/2AM> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Riverside>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/California> .
+
+<http://dbpedia.org/resource/Jive_%28dance%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/1998> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Archanes_Crete>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Greece> .
+
+<http://dbpedia.org/resource/Tunisia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/North_Africa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Nashville_Songwriters_Hall_of_Fame>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Don_Schlitz> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Turku>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Finland> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Finnish>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Elomaa> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Kervinen> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Anamosa>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Iowa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/four>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/The_Hills> , <http://ns.aksw.org/scms/annotations/stanford/Flynt> .
+
+<http://ns.aksw.org/scms/annotations/stanford/November_28_%2C_1978>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Resther> .
+
+<http://dbpedia.org/resource/Don_Pasquale>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Gaetano_Donizetti> .
+
+<http://ns.aksw.org/scms/annotations/stanford/November_17_%2C_1977>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Lines> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Two>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Kristian> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jeff_Richardson>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Cover> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Forlag_Malling_Beck>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Denmark> .
+
+<http://ns.aksw.org/scms/annotations/stanford/English>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ronson> , <http://ns.aksw.org/scms/annotations/stanford/Hill> , <http://ns.aksw.org/scms/annotations/stanford/Tucker> , <http://ns.aksw.org/scms/annotations/stanford/Martin> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Harold_Wilson> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Caruso>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Mario_Lanza> .
+
+<http://ns.aksw.org/scms/annotations/stanford/British>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Brown> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Wycoff>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1980s> .
+
+<http://dbpedia.org/resource/Big_Audio_Dynamite>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Williams_College> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mowrey>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1993> .
+
+<http://ns.aksw.org/scms/annotations/stanford/The_Nashville_Network>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Chase> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jesus_Christ>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Vrba> .
+
+<http://ns.aksw.org/scms/annotations/stanford/State_University_of_New_York>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Purchase> .
+
+<http://ns.aksw.org/scms/annotations/stanford/post-Stone_Roses>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Squire> .
+
+<http://ns.aksw.org/scms/annotations/stanford/30_October_1974>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Henriksson> .
+
+<http://ns.aksw.org/scms/annotations/stanford/William_Vickers>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/century> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gutawa>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Post> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Palma>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Majorca> .
+
+<http://dbpedia.org/resource/Lesley_Garrett>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Rowe> .
+
+<http://ns.aksw.org/scms/annotations/stanford/October_1_%2C_1950>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Karayiannopoulou> .
+
+<http://ns.aksw.org/scms/annotations/stanford/previously>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Berglund> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Scott_Henderson> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Casal>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2011> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lucia_di_Lammermoor>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Devereux> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Cordier>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1978> .
+
+<http://ns.aksw.org/scms/annotations/stanford/86_years_old>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Bonino> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Albertet>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Albigeois> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Peirol> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Dey>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1946> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ghetts>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Currently> .
+
+<http://ns.aksw.org/scms/annotations/stanford/September_27_%2C_1958>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Battistini> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Duke_Maximilian>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Bavaria> .
+
+<http://dbpedia.org/resource/Raekwon>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Xzibit> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Rondinelli>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/July> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Katerina_Izmaylova>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Shostakovich> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Australian>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Heald> .
+
+<http://ns.aksw.org/scms/annotations/stanford/8_August_1958>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Abineri> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Virginia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Miss_USA> .
+
+<http://dbpedia.org/resource/South_Korea>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Hyo-jin> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bologna>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Italy> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1984>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Smit> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Max_and_Moritz> , <http://ns.aksw.org/scms/annotations/stanford/Carl> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Frankfort>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Kentucky> .
+
+<http://dbpedia.org/resource/Ebbw_Vale>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/New_South_Wales> .
+
+<http://ns.aksw.org/scms/annotations/stanford/G%C3%BClcan_Kamps>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Fernandes> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Eugene_Conley>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/California> .
+
+<http://dbpedia.org/resource/Igor_Stravinsky>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Sheet_music> .
+
+<http://ns.aksw.org/scms/annotations/stanford/August_12_%2C_1929>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/J%C5%8Dji> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Westlake_Village>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/California> .
+
+<http://dbpedia.org/resource/Brian_Tyler_%28composer%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2010> .
+
+<http://dbpedia.org/resource/Humphrey_Lyttelton>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Nixons> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Roy_Loney>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1971> .
+
+<http://ns.aksw.org/scms/annotations/stanford/January_9_%2C_1940>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Lane> .
+
+<http://ns.aksw.org/scms/annotations/stanford/9_June_1952>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ersoy> .
+
+<http://dbpedia.org/resource/Peter_Greenaway>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/BBC> .
+
+<http://ns.aksw.org/scms/annotations/stanford/New_Canaan>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Connecticut> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Signet_Society_Medal>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Bodky> .
+
+<http://dbpedia.org/resource/Eddie_the_Head>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Banana> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Isola_Jones>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Janowski> .
+
+<http://dbpedia.org/resource/Kirk_Acevedo>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Objetivo_Fama> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kavadarci>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Republic> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Maria_Padilla>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Calais> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Worcester>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Massachusetts> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Rogers>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/thirty-seven> .
+
+<http://ns.aksw.org/scms/annotations/stanford/May_8_%2C_1959>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ikue> .
+
+<http://dbpedia.org/resource/Valentin_Serov>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Russian_language> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Masato_Ochi>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/August> .
+
+<http://ns.aksw.org/scms/annotations/stanford/years>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Reno,_Nevada> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Peoria>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Illinois> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Barrett>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Stan_Rogers> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Zi%C4%99bice>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Poland> .
+
+<http://ns.aksw.org/scms/annotations/stanford/January_21_%2C_1965>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Crockett> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Sean>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Cait> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Nansi_Richards_Harp>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/annual> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Copenhagen>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Rajovi%C4%87> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Denmark> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Risley> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1790>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Jakob> .
+
+<http://ns.aksw.org/scms/annotations/stanford/October_26_%2C_1971>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Chiaki> .
+
+<http://dbpedia.org/resource/Charlie_Barnet>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1947> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ramon_Ayala>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Argentina> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Eugene_Record>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/The_Chi-Lites> .
+
+<http://dbpedia.org/resource/Lloyd_in_Space>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Cox> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Yoshi>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Wii> .
+
+<http://dbpedia.org/resource/History_of_the_Jews_in_Russia>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Schuster> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Novi_Sad>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Yugoslavia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Leonardo>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Paul_Mac> .
+
+<http://ns.aksw.org/scms/annotations/stanford/LONDON>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/D%27Priest> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Serbia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Belgrade> , <http://dbpedia.org/resource/Yugoslavia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/October_4_%2C_1959>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Hitonari> .
+
+<http://ns.aksw.org/scms/annotations/stanford/13_March_1972>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Bergset> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Altschuler>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/War> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Amsterdam>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Netherlands> .
+
+<http://ns.aksw.org/scms/annotations/stanford/28_September_1985>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ibragimova> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Fausto_Amodei>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Italian_people> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Boris>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1990s> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Joseph_Dell>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Petra_%28band%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Muzika_Esperanto-Ligo>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2006> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Olteni%C5%A3a>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/C%C4%83l%C4%83ra%C5%9Fi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/22_June_1961>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Maniapoto> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Argentine>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Morello> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Naples>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Manna> .
+
+<http://ns.aksw.org/scms/annotations/stanford/U.S.A.>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Washington> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Andalusian>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Malka> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mick_Brown>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Dokken> .
+
+<http://dbpedia.org/resource/Jim_Weatherly>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/University> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Thukhamein_Hlaing>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/mid-1980s> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1978>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Koffler> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Korokke> .
+
+<http://ns.aksw.org/scms/annotations/stanford/February_2000>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Smith> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Alonia>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Papasideris> .
+
+<http://ns.aksw.org/scms/annotations/stanford/George_LaMond>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Miss_USA> .
+
+<http://dbpedia.org/resource/Benjamin_Franklin>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Diefenbaker.His> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Russian>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Alfeyev> .
+
+<http://dbpedia.org/resource/Ned_Rorem>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Jacob_Druckman> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Johannes_Moller>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Cimbria> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Pape_Diouf>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mbaye> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Fred_Jamison>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Lummi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/North_Hampstead>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Gowen> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1992>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Chiaki_Kuriyama> .
+
+<http://ns.aksw.org/scms/annotations/stanford/The_City>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Andy_Bown> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Oklahoma_City>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Oklahoma> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1960>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Karam> .
+
+<http://dbpedia.org/resource/Ryan_Sidebottom>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/West> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Third>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Cooper_Union> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Federico_Mompou>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/3> .
+
+<http://ns.aksw.org/scms/annotations/stanford/9_October_1945>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Amjad_Ali_Khan> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Paris>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/France> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Aage_Samuelsen>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1915-1987> .
+
+<http://dbpedia.org/resource/Lorne_Michaels>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Lorne_Michaels> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Dakar>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Senegal> .
+
+<http://ns.aksw.org/scms/annotations/stanford/August_19_%2C_1955>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/The_Browns> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Julius>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Conus> .
+
+<http://ns.aksw.org/scms/annotations/stanford/March_27_%2C_1963>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Dave_Koz> .
+
+<http://ns.aksw.org/scms/annotations/stanford/24_January_1948>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Barres> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Chapdelaine>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Andr%C3%A9s_Segovia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kansas>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Schoonover> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Belle>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Bonne> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Cristie>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/31> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bohuslav_Martinu>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/US> .
+
+<http://ns.aksw.org/scms/annotations/stanford/7_May_1973>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Lundin> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Klaus_Huber>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Tempora> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Alsace>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/France> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kyoto>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Japan> .
+
+<http://ns.aksw.org/scms/annotations/stanford/January_17_%2C_1976>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Robinson> .
+
+<http://ns.aksw.org/scms/annotations/stanford/S%C3%B6dermalm>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Stockholm> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Giacomo_Aragall>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/6> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Teo_Bishop>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2012> .
+
+<http://ns.aksw.org/scms/annotations/stanford/November_28_%2C_1948>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Nicolescu> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1959>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Josephs> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Stamford_Hill>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Moore> .
+
+<http://ns.aksw.org/scms/annotations/stanford/300>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Pustjens> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Chiang_Mai>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Thailand> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Colin_Carr>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Jacqueline_du_Pr%C3%A9> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Santiago_Feli%C3%BA>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Cuba> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Austin>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Texas> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jaufre_de_Pons>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/one> .
+
+<http://dbpedia.org/resource/Tarascon>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Gilles> .
+
+<http://dbpedia.org/resource/Altamont_Free_Concert>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Dale_Crover> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Manfred_Mann>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Thompson> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ruth>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1847> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Berlin>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Germany> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Osceola>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Arkansas> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gaudet>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1991> .
+
+<http://ns.aksw.org/scms/annotations/stanford/14%2F2%2F1961>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Marcus_Allen> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Doug_Carn>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Records> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hermann-Christoph_M%C3%BCller>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Howard_Skempton> .
+
+<http://ns.aksw.org/scms/annotations/stanford/des_Nibelungen>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ring> .
+
+<http://dbpedia.org/resource/Chuck_Berry>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Yates> .
+
+<http://dbpedia.org/resource/Tribes:_Vengeance>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Brosius> .
+
+<http://dbpedia.org/resource/Molly_Hatchet>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Oregon> .
+
+<http://dbpedia.org/resource/Phil_Woods>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Al_Cohn> .
+
+<http://ns.aksw.org/scms/annotations/stanford/James_Yorkston>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Scottish_people> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Aldea>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Germany> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Santiago>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Timchenko> , <http://ns.aksw.org/scms/annotations/stanford/Republic> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Holon>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Israel> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Poitiers>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/France> .
+
+<http://ns.aksw.org/scms/annotations/stanford/January_1_%2C_1969>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Paul> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mark_Pember>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Katie> .
+
+<http://dbpedia.org/resource/Copenhagen_%28play%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Shermann.Denner> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Cambridge>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Massachusetts> .
+
+<http://ns.aksw.org/scms/annotations/stanford/University_of_Minnesota>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Minneapolis> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Telramund>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Joan_Sutherland> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Tudor>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Oryx> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Robert_Fulton>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Anna_Sokolow> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lawrence_Power>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Glasgow> .
+
+<http://dbpedia.org/resource/Frankfurt>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Buchberger> .
+
+<http://dbpedia.org/resource/Philadelphia_International_Records>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/DiSipio> .
+
+<http://dbpedia.org/resource/East_Prussia>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Fredersdorf> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Langtry>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Texas> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Sinaloa>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/P%C3%A9rez> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Frederick_Albrecht>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Anhalt-Bernburg> .
+
+<http://ns.aksw.org/scms/annotations/stanford/September_1965>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/McCallum> .
+
+<http://ns.aksw.org/scms/annotations/stanford/24_December_1971>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Alkaios> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Franco_Lo_Giudice>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Beauharnais> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Claes>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Great_Britain> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1954>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Kremer> .
+
+<http://dbpedia.org/resource/2006_Commonwealth_Games>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mannix> .
+
+<http://dbpedia.org/resource/Tokyopop>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Heavens> .
+
+<http://dbpedia.org/resource/Van_Cliburn>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Leeds> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Sikkil_Gurucharan>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Carnatic_music> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Carola>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1984> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mandi_Lampi>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Pok%C3%A9mon:_The_First_Movie> .
+
+<http://dbpedia.org/resource/Toby_Gad>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Jens> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Taunton>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Massachusetts> .
+
+<http://dbpedia.org/resource/Janie_Fricke>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Indiana> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gibbs>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Gottenberg> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ryan_Cohan>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Rodby> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Yves_Goulais>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/French> .
+
+<http://ns.aksw.org/scms/annotations/stanford/May_22_%2C_1972>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Burke> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Katie>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/28> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Dave_Edwardson>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/California> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Pantin>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Paris> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Tournai>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Belgium> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Yannis_Theodoridis>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Modern_Greek> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Cabimas>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Zulia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Raimondo_Boucheron>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1879> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Boston>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Massachusetts> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ernest_MacMillan>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/year> .
+
+<http://dbpedia.org/resource/Susaye_Greene>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/100> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Evening>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Mikutavi%C4%8Dius> .
+
+<http://dbpedia.org/resource/Lepa_Brena>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Yugoslavian> .
+
+<http://dbpedia.org/resource/1968_Summer_Olympics>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Order_of_Canada> .
+
+<http://dbpedia.org/resource/Jai_Johanny_Johanson>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/July> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Spooner>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Midwestern> .
+
+<http://ns.aksw.org/scms/annotations/stanford/2002>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Betsy> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1999>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Dagmusic> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Grick>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/August> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Artistry_Entertainment>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Soule> .
+
+<http://dbpedia.org/resource/Hanns_Eisler>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/West_Berlin> .
+
+<http://dbpedia.org/resource/Joseph_Stalin>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Union> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jos%C3%A9_Luis_Feliciano_Vega>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Puerto_Rican_people> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Popal>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2006> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Russ_Courtenay>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Twenty> .
+
+<http://ns.aksw.org/scms/annotations/stanford/London>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Jeremy_Sams> .
+
+<http://ns.aksw.org/scms/annotations/stanford/March_24_%2C_1955>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Dagmar> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Funabashi>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Prefecture> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Silver_City>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mexico> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1981>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Moyal> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Michael_Mann_%28director%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bentonville>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Arkansas> .
+
+<http://ns.aksw.org/scms/annotations/stanford/New_Zealand>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Keil> .
+
+<http://dbpedia.org/resource/Riblja_%C4%8Corba>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Yugoslav> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Zohaib_Kazi>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Pakistan> .
+
+<http://ns.aksw.org/scms/annotations/stanford/13_May_1977>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Lange> .
+
+<http://ns.aksw.org/scms/annotations/stanford/New_South_Wales>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Australia> , <http://dbpedia.org/resource/Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/James_Thornton.Lawlor>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/York> .
+
+<http://dbpedia.org/resource/Japanese_people>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Miwa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Stewart_Mostofsky>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Hampden> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Vilnius>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Lithuania> .
+
+<http://ns.aksw.org/scms/annotations/stanford/February_22_%2C_1948>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/LaBarbera> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gary_Williams>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Brazil> .
+
+<http://dbpedia.org/resource/Greeks>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Zachariou> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Roger_Mancuso>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/1980s> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Keyfax_NewMedia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Colbeck> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lorain>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ohio> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Sheffield>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/England> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Switzerland>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Celine_Dion> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Douglas_John>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/lenz> .
+
+<http://ns.aksw.org/scms/annotations/stanford/National_Comedy_Hall_of_Fame>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Petersburg> .
+
+<http://dbpedia.org/resource/Gouda>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Loman> .
+
+<http://ns.aksw.org/scms/annotations/stanford/January_10_%2C_1961>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Salerno-Sonnenberg> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Watson>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Cabaret_Voltaire_%28band%29> .
+
+<http://dbpedia.org/resource/London_Records>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Bailey> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Manchester>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/England> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Johannesburg>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Africa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1_November_1948>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Russell> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bob>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1985> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Caroline_M%C3%BCller>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Sweden> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Chydenius>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2001> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ulk_Knudsen>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Holoien> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Donald_Douglas_Lamond>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/August> .
+
+<http://ns.aksw.org/scms/annotations/stanford/City_Wolf>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Stephens> .
+
+<http://dbpedia.org/resource/Suzanne_Vega>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Joni_Mitchell> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bronx_County>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/York> .
+
+<http://dbpedia.org/resource/Lage_Raho_Munna_Bhai>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2003> .
+
+<http://dbpedia.org/resource/Gustavo_Cerati>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Argentine> .
+
+<http://ns.aksw.org/scms/annotations/stanford/30>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Price> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Tamgha-e-Imtiaz>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Hilal-i-Imtiaz> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Florida>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Brandon> .
+
+<http://ns.aksw.org/scms/annotations/stanford/September_13_%2C_1965>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Echeverri> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Montreal>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Quebec> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Paul_Brandoli>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Tokyo> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Torsten_Stenzel>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1992> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lancashire>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/England> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Wycliffe_Gordon_Head>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2002> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Madrigali>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1610> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hamilton>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Zealand> , <http://ns.aksw.org/scms/annotations/stanford/Ontario> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Providence>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Island> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Liszt_School_of_Music_Weimar>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Jena> .
+
+<http://ns.aksw.org/scms/annotations/stanford/6_March_1921>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Julius_Rudel> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Herwen>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Veen> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Morgana>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Alcina> .
+
+<http://dbpedia.org/resource/Carrie_Bradshaw>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/2013> .
+
+<http://dbpedia.org/resource/Malachi_Favors>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Henry_Grimes> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bernard_Peiffer>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/October> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Breukhoven>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Jan> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Musica_Sacra>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/current> .
+
+<http://ns.aksw.org/scms/annotations/stanford/2010>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Skinwalker> , <http://ns.aksw.org/scms/annotations/stanford/Allen> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Wesley_Huff>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Durham> .
+
+<http://ns.aksw.org/scms/annotations/stanford/A%C5%9Fk_Alev_Ald%C4%B1>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2010> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Catherine>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Brussels> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Travis>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Foundation> .
+
+<http://dbpedia.org/resource/Neal_McCoy>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Phil_Vassar> .
+
+<http://dbpedia.org/resource/Terrence_Malick>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Days> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1975>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Diabat%C3%A9> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/U.K.> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Eddie_Foy>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Templeton> .
+
+<http://ns.aksw.org/scms/annotations/stanford/August_25_%2C_1991>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Smith> .
+
+<http://dbpedia.org/resource/Killiney>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/County_Dublin> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mesa>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Arizona> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1911>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mendon%C3%A7a> .
+
+<http://ns.aksw.org/scms/annotations/stanford/July_26_%2C_1970>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Joan_Wasser> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Viscardi>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/May> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kieran_Kane>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1990> .
+
+<http://ns.aksw.org/scms/annotations/stanford/each_year>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Serre-Milan> .
+
+<http://dbpedia.org/resource/Boulogne-sur-Mer>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/France> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Maceo>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Kentucky> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Paul_Butterfield>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/McCoy> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Shibuya>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Tokyo> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lois_Weatherup.De_Quiroz>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/January> .
+
+<http://dbpedia.org/resource/Pop_%28U2_album%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Paulo> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Arel>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Setauket> .
+
+<http://ns.aksw.org/scms/annotations/stanford/mid-1980s>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Waldron> .
+
+<http://ns.aksw.org/scms/annotations/stanford/George_Brooks>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/recently> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Christian_Music_Hall_of_Fame>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Staton> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Montemezzi>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Virginie> .
+
+<http://dbpedia.org/resource/David_Johansen>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Boston_%28band%29> .
+
+<http://dbpedia.org/resource/Russians>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Rovner> , <http://ns.aksw.org/scms/annotations/stanford/Kedrov> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jeff_Modisett>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Indiana> .
+
+<http://ns.aksw.org/scms/annotations/stanford/March_6_%2C_1939>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Naylor> .
+
+<http://ns.aksw.org/scms/annotations/stanford/26_October_1903>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/John> .
+
+<http://ns.aksw.org/scms/annotations/stanford/one>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Markus> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Rockerilla> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Maxine_Sullivan> , <http://dbpedia.org/resource/Mexico_City> , <http://ns.aksw.org/scms/annotations/stanford/Hristov> , <http://dbpedia.org/resource/Walker,_Texas_Ranger> , <http://dbpedia.org/resource/Merrill_Lynch> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Joe_Yamanaka>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/%E3%82%B8%E3%83%A7%E3%83%BC%E5%B1%B1%E4%B8%AD> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gulfport>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mississippi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Padma_Shri>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Samman> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Holender>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/State> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Madigan_Rachel_Ruth_Shive>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Francisco> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Davis_Henry>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/two> .
+
+<http://ns.aksw.org/scms/annotations/stanford/East_Yorkshire>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Hull> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1956>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Diabat%C3%A9> , <http://ns.aksw.org/scms/annotations/stanford/Andersson> .
+
+<http://ns.aksw.org/scms/annotations/stanford/June_28_%2C_1988>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Or%C5%82owska> .
+
+<http://ns.aksw.org/scms/annotations/stanford/last_year>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Lef%C3%A8vre> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Occident>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mungiu> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Portland>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Oregon> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Joseph>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Cro-Mags> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Atari_POKEY>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Price> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Fremont>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Nebraska> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Baku>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Azerbaijan> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Vivian>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Carter> .
+
+<http://dbpedia.org/resource/Fort_Wainwright>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2004> .
+
+<http://ns.aksw.org/scms/annotations/stanford/30_June_1946>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Swayne> .
+
+<http://dbpedia.org/resource/Ludwig_van_Beethoven>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Trenton> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Clapton>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2013> .
+
+<http://dbpedia.org/resource/Chandos_Records>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Alban_Berg> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jesse>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Katsopolis> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Fabiana>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/One> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Izler_Solomon>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1952> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Salt_Lake_City>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Utah> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hoodie_Allen>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/August> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Straker>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mansfield> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ackles>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Phil_Collins> .
+
+<http://ns.aksw.org/scms/annotations/stanford/May_9_%2C_1951>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Joy_Harjo> .
+
+<http://dbpedia.org/resource/Niccol%C3%B2_Antonio_Zingarelli>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Italian> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Giovanni_Bernardino_Nanino>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Roman> .
+
+<http://dbpedia.org/resource/George_Beverly_Shea>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Crusades> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Castej%C3%B3n>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Province> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Aymar>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2009> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bunky%C5%8D>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Tokyo> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Vancouver>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Canada> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Honolulu>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Hawai%27i> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Glyndebourne>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/England> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lake_Tahoe>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Harvey> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Rotana>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Najwa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hugh_Roberton>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Australian> .
+
+<http://dbpedia.org/resource/Carousel_%28musical%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Broadway> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Amandeep_Singh_Hayer>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Bhangra> .
+
+<http://dbpedia.org/resource/Buck_Owens>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Raye> .
+
+<http://ns.aksw.org/scms/annotations/stanford/16_May_1964>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Mary_Anne_Hobbs> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Stephen_Adams>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Motts> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Cavazzoni>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Hieronimo> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Eduardo_Mata>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mackerras> .
+
+<http://ns.aksw.org/scms/annotations/stanford/first>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Doheny> , <http://ns.aksw.org/scms/annotations/stanford/Freddie> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Jenssens> , <http://ns.aksw.org/scms/annotations/stanford/Papadakis> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lamoureux>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Paris> .
+
+<http://dbpedia.org/resource/Anton_Arensky>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Conus> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Louis_Fran%C3%A7ois_Marie_Aubert>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Ille-et-Vilaine> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1905>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Kedrov> .
+
+<http://dbpedia.org/resource/Elliott_Murphy>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Jim_McCarty> .
+
+<http://ns.aksw.org/scms/annotations/stanford/The_Chamber_Music_Society_of_Lincoln_Center>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Gy%C3%B6rgy_Ligeti> .
+
+<http://ns.aksw.org/scms/annotations/stanford/24_June_1945>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Blunstone> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Basel>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Switzerland> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bruce_Brubaker>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/University_of_Iowa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1951>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Cohen> .
+
+<http://ns.aksw.org/scms/annotations/stanford/The_Jay_Hodgson_Group>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Girdland> .
+
+<http://dbpedia.org/resource/Voltaire>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/2000s_%28decade%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Vanessa_Chinitor>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/year> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Finley>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/recently> .
+
+<http://ns.aksw.org/scms/annotations/stanford/New_Asian>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Lee> .
+
+<http://dbpedia.org/resource/Cameron_Diaz>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Colin_Firth> .
+
+<http://dbpedia.org/resource/Jim_Bohannon>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/March> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bj%C3%B6rk>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Sylvian> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Richard_Strauss>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Swiss> .
+
+<http://dbpedia.org/resource/Northeast_Region,_Brazil>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Valenca> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Thomas_Dolby>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Five> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Beverly_Center>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Burton> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Istanbul>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Turkey> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Dauphin%C3%A9>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/France> .
+
+<http://dbpedia.org/resource/Americas>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Paine> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Nikolovski>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Canberra> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Rivnya>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Yaremchuk> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Eckert>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1848> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Washington>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/DC> , <http://ns.aksw.org/scms/annotations/stanford/D.C.> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Great_Yarmouth>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Norfolk> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Serbian_Cyrillic_%D0%95%D1%80%D0%B0_%D0%9E%D1%98%D0%B4%D0%B0%D0%BD%D0%B8%D1%9B>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Andrija> .
+
+<http://ns.aksw.org/scms/annotations/stanford/World_of_Warcraft_%3A_Cataclysm>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/III> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kreutzer>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Beethoven> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1996>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Jeroen> .
+
+<http://ns.aksw.org/scms/annotations/stanford/January_11_%2C_1967>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Pint%C3%A9r> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Miami>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Florida> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Vic_Firth>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Drums> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1964>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Charest> , <http://ns.aksw.org/scms/annotations/stanford/McHugh> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Capuchin>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Metallo> .
+
+<http://dbpedia.org/resource/The_Twilight_Singers>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Helsinki> .
+
+<http://dbpedia.org/resource/Riverdale,_Bronx>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Hest> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mary>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Scotland> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Romania>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Popovici> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Peterborough>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Cambridgeshire> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Atlanta>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Georgia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Opera_Lafayette>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Washington> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hawaii>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Remington_Steele> .
+
+<http://ns.aksw.org/scms/annotations/stanford/March_13_%2C_1951>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Eales> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Tonight>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ross> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Letterman> .
+
+<http://dbpedia.org/resource/India>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Rajan> .
+
+<http://ns.aksw.org/scms/annotations/stanford/18>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Esparza> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Johann_Agrell>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Aggrell> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jesse_Otto>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Carrig> .
+
+<http://dbpedia.org/resource/Dino_Risi>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Gennaro> .
+
+<http://ns.aksw.org/scms/annotations/stanford/San_Paolo_Maggiore>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Naples> .
+
+<http://dbpedia.org/resource/Sopot>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Komeda> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1844>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Davidsson> .
+
+<http://dbpedia.org/resource/Warren_Wilson_College>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Grammy_Award> .
+
+<http://ns.aksw.org/scms/annotations/stanford/the_1970s>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Charlemagne> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1812>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Giannina> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jan_Josef_Abert>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Czech> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Glastonbury_Festivals>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Rutland_Boughton> .
+
+<http://ns.aksw.org/scms/annotations/stanford/30_December_1977>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Cosgrave> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Futtsu>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Chiba> .
+
+<http://dbpedia.org/resource/Joe_Henderson>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Orchestra> .
+
+<http://dbpedia.org/resource/Gustave_Dor%C3%A9>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/century> .
+
+<http://ns.aksw.org/scms/annotations/stanford/2012>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Scott> .
+
+<http://ns.aksw.org/scms/annotations/stanford/August_14_%2C_1978>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ili%C4%87> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Yamaha>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Balbex> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1977>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/James> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Da_Ya_Think>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Rod_Stewart> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bene>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Venice> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Punk_Rock_Karaoke>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Little> .
+
+<http://dbpedia.org/resource/Utrecht_University>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Wagenaar> .
+
+<http://ns.aksw.org/scms/annotations/stanford/29_August_1943>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Collins> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hallo_Venray>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Netherlands> .
+
+<http://ns.aksw.org/scms/annotations/stanford/V%C3%ADctor>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Miguel> .
+
+<http://ns.aksw.org/scms/annotations/stanford/November_9_%2C_1972>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Tucker> .
+
+<http://dbpedia.org/resource/Mexican_people>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Schweinfurth> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/Joan_Sebastian> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Eric>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Island> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Peter_McDonald>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Anne> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lauretta>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Schicchi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Malm%C3%B6>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Sweden> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Paterson>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Jersey> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Knoxville>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Tennessee> .
+
+<http://dbpedia.org/resource/English_language>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Watson> .
+
+<http://ns.aksw.org/scms/annotations/stanford/29_October_1933>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Martino> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Joe>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1945> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Fredericksburg>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Adegbalola> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Boulet>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/December> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lilya_Zilberstein>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Sudbin> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Brioschi>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Galimberti> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Irish>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Coughlan> .
+
+<http://ns.aksw.org/scms/annotations/stanford/El_Morro>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Puerto_Rico> .
+
+<http://dbpedia.org/resource/Kelly_Clarkson>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/San_Francisco> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Laura_Taylor>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/MTV_Brasil> .
+
+<http://dbpedia.org/resource/Thin_Lizzy>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mann> .
+
+<http://ns.aksw.org/scms/annotations/stanford/April_17_%2C_1954>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/McKnight> .
+
+<http://ns.aksw.org/scms/annotations/stanford/France>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Canada> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Evanston>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Illinois> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Windsor>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ontario> .
+
+<http://ns.aksw.org/scms/annotations/stanford/twelve>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Hinouchi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/February_14_%2C_1954>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Tanaka> .
+
+<http://dbpedia.org/resource/County_Galway>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Mary_Coughlan_%28singer%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Royal_Academy_of_Music>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/London> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Abby_Scott>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/May> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Berkshire_Opera>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Dobriansky> .
+
+<http://dbpedia.org/resource/Maria_Mena>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/January> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1926>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Brindley> .
+
+<http://ns.aksw.org/scms/annotations/stanford/English_Opera_Project>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Smith> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Graham>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2004> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Brooklyn>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Aaronson> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Masuda>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Keiko> .
+
+<http://ns.aksw.org/scms/annotations/stanford/3_January_1806>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Henriette> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Grant_MacEwan_College>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Edmonton> .
+
+<http://dbpedia.org/resource/Zhongshan>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Guangdong> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Betty>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/The_Magic_School_Bus> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ann_Arbor>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Michigan> .

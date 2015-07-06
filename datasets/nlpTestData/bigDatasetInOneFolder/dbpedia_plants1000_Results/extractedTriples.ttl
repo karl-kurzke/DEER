@@ -1,0 +1,833 @@
+<http://ns.aksw.org/scms/annotations/stanford/George_Bentham>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1865> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Pterocarpus>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/recently> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Plumas_County>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/California> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bourreria>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Miers> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Malaysia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Nigeria> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mount_Kaye>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Grevillea> .
+
+<http://dbpedia.org/resource/Hazel>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/China> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Babai>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Kiribati> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Wilson>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1913> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Carl_Friedrich_Philipp_von_Martius.In>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Brasiliensis> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Koda>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Leyte>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Visayas> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kompong_Chhnang>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Cambodian> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gossamer_Wattle>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Wattle> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Sakata_Seed_Company_of_Yokohama>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Japan> .
+
+<http://ns.aksw.org/scms/annotations/stanford/60>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Melica> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Tylecodon>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Dudleya> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Philipp_Vincent_Wells>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1968> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jim_Willis>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Muelleria> .
+
+<http://ns.aksw.org/scms/annotations/stanford/India>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/East_Africa> .
+
+<http://dbpedia.org/resource/Joseph_Maiden>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1912> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Boerhavia>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/five> .
+
+<http://dbpedia.org/resource/Gilbert_White>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/England> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Yunnan_Province>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/China> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kitembilla>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ceylon> .
+
+<http://dbpedia.org/resource/Richard_Anthony_Salisbury>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1866> .
+
+<http://ns.aksw.org/scms/annotations/stanford/N._G._Marchant>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1992> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Argentario_DOC>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Val> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jopoy>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mayan> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Dipterocarpaceae>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Gilg> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Touriga_Nacional>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Franca> .
+
+<http://dbpedia.org/resource/California>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Pentagramma> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Loisel>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Kreutz> .
+
+<http://ns.aksw.org/scms/annotations/stanford/New_South_Wales>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Canada>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mexico> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Asia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Malaysia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jos%C3%A9_Salazar_y_Larregui>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Mexico> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Pineda>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Pacific> .
+
+<http://ns.aksw.org/scms/annotations/stanford/North_America>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Aristida> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mike_Crisp>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1991> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Manos>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/North_America> .
+
+<http://ns.aksw.org/scms/annotations/stanford/three>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Africa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Franz_Carl_Mertens>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/German> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Straw_Lily>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Dogberry> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Flora_Boreali-Americana>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/1803> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Henry_Nicholas_Bolander>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/California> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Carlo>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Italian_wine> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Leo_J._Hickey>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Department> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Pullea>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Gibbs> .
+
+<http://dbpedia.org/resource/Lyndley_Craven>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Herbarium> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Henri_Ernest_Baillon>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1858> .
+
+<http://ns.aksw.org/scms/annotations/stanford/present>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Bolander> .
+
+<http://dbpedia.org/resource/Kevin_Thiele>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Banksia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Cornelis_Gijsbert_Gerrit_Jan_van_Steenis>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1937> .
+
+<http://dbpedia.org/resource/Graham_Land>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Trinidad> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Dart>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Buddleja> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Richard_Schodde>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/2000> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Nutt>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Salix> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Henry_Nicholas>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Ambrosia> .
+
+<http://dbpedia.org/resource/Papua_New_Guinea>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Malaysia> .
+
+<http://dbpedia.org/resource/Nuevo_Le%C3%B3n>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Oaxaca> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jonas_C._Dryander.They>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Swedish> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Queensland>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Trott>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Western> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Yepachic>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Chihuahua_%28state%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Isaac_Bayley_Balfour>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/century> .
+
+<http://ns.aksw.org/scms/annotations/stanford/previously>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Senecio> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Odoardo_Beccari>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Italian> .
+
+<http://ns.aksw.org/scms/annotations/stanford/John_Clayton>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/English-born> .
+
+<http://dbpedia.org/resource/Asia>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Lepidosperma> .
+
+<http://dbpedia.org/resource/John_Torrey>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1846> .
+
+<http://ns.aksw.org/scms/annotations/stanford/United_States>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/California> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Crassula>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Crassula> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Whitney>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/San_Clemente_Island> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Julius_Boos>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/first> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ando>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Shanghai> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Tecoma>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Bignonia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/24>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Clytostoma> .
+
+<http://ns.aksw.org/scms/annotations/stanford/New_Zealand>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Veronica_%28plant%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hieronymus_Bock>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/century> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Diederich_Franz_Leonhard_von_Schlechtendal>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1856> .
+
+<http://dbpedia.org/resource/Kalimantan>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Sumatra> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Yunnan>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/China> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Suaklu>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Zomi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1850>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Linnaeus> .
+
+<http://ns.aksw.org/scms/annotations/stanford/10th>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Acland> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Tasmania>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1971>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Feddema> .
+
+<http://dbpedia.org/resource/Nathaniel_Wallich>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1830> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Sabah>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Malaysia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mudgee>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/California_wine> .
+
+<http://ns.aksw.org/scms/annotations/stanford/M.X._Nie>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1981> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Michel_Adanson>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1763> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Joseph_Banks>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1778> .
+
+<http://ns.aksw.org/scms/annotations/stanford/one>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Bruckenthalia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ortega>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/German_wine> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mantiqueira>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Serra> .
+
+<http://ns.aksw.org/scms/annotations/stanford/William_Vernon>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://dbpedia.org/resource/American_English> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Africa>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Asia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Solanum>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Solanum> .
+
+<http://dbpedia.org/resource/Neoregelia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Fost> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Dalbergia>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/recently> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Hampshire>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/England> .
+
+<http://dbpedia.org/resource/Silvaner>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/German_wine> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jubaea>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Campana> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Weston>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Massachusetts> .
+
+<http://dbpedia.org/resource/Chili_pepper>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Phil> .
+
+<http://dbpedia.org/resource/Klamath_Mountains>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/California> , <http://ns.aksw.org/scms/annotations/stanford/Oregon> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Morio>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Samo> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Metastelma>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Benth> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Banksia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Dryandra> ;
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Western_Australia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Fritillaria>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/California> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Fiji>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Palm> .
+
+<http://dbpedia.org/resource/Phalaenopsis>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Philippines> .
+
+<http://dbpedia.org/resource/Limpopo>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/South_Africa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Cameraria>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Nathaniel_Lord_Britton> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Richard_Neville_Parker>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1920> .
+
+<http://dbpedia.org/resource/Guzmania>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Luna> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ribeira>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/two> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Picrasma>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Picrasma> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Green>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Ulmus> .
+
+<http://dbpedia.org/resource/Cattleya>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Laelia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Riverside>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/California> .
+
+<http://ns.aksw.org/scms/annotations/stanford/New_Mexico>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Utah> .
+
+<http://ns.aksw.org/scms/annotations/stanford/B.L._Burtt>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Monophyllaea> .
+
+<http://ns.aksw.org/scms/annotations/stanford/San_Bernardino_County>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/California> .
+
+<http://dbpedia.org/resource/Crataegus>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/U.S.> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Dawsonia>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/%7E> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Para%C3%ADba_River>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Brazil> .
+
+<http://ns.aksw.org/scms/annotations/stanford/American>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Hamelia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/2010>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Denbies> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1969>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Eugenia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Daniel_Oliver>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1859> , <http://ns.aksw.org/scms/annotations/stanford/1865> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Maurice_Hovelacque>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1889%2F1890> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Carnarvon_Range>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Queensland> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Ridl>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Scaphium> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Marsh_Orchid>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Pugsley> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Crow>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Aletris> .
+
+<http://dbpedia.org/resource/Tracy_Barlow>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Tracy_Barlow> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Mauria>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mauria> .
+
+<http://dbpedia.org/resource/Bolivia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Costa_Rica> .
+
+<http://dbpedia.org/resource/Mexico>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/North_America> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Bartle_Frere>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Queensland> .
+
+<http://ns.aksw.org/scms/annotations/stanford/John_Gerard>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1545-1611%2F2> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Tokyo_Botanical_Magazine>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Matsumura> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Rosa>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Rosa> .
+
+<http://dbpedia.org/resource/Sierra_Nevada_%28U.S.%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Lemmon> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/California> .
+
+<http://dbpedia.org/resource/John_Lindley>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1839> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Wurdack_Leandra>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Leandra> .
+
+<http://ns.aksw.org/scms/annotations/stanford/San_Mateo_County>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/California> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Detroit>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Michigan> .
+
+<http://dbpedia.org/resource/Guatemala>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mexico> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Galicia>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Spain> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Koenig>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Indonesia> .
+
+<http://dbpedia.org/resource/Guyana>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/sessilifolia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Sticky_Jacob>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Jacob> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Australia>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Luzula> , <http://ns.aksw.org/scms/annotations/stanford/Floyd> , <http://ns.aksw.org/scms/annotations/stanford/Melaleuca> .
+
+<http://dbpedia.org/resource/Baja_California_Sur>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Mexico> .
+
+<http://dbpedia.org/resource/Kohl%27s>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Germany> .
+
+<http://dbpedia.org/resource/Puya_%28genus%29>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Bromeliaceae> , <http://dbpedia.org/resource/Puya_%28genus%29> ;
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/clava-herculis> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Diervilla>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Georgia_%28U.S._state%29> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Quintana_Roo>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mexico> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Jacques_Labillardi%C3%A8re>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1806> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Blume>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Reinw> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Chichester_Hall>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Rawreth> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Nothofagus>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Island> .
+
+<http://ns.aksw.org/scms/annotations/stanford/M.E._Jones>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Hedeoma> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Sonoma_County>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/California> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Adrian_Hardy_Haworth>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/British> .
+
+<http://ns.aksw.org/scms/annotations/stanford/%E2%86%91>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Ekman> .
+
+<http://dbpedia.org/resource/Ferdinand_von_Mueller>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/first> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Navia>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Navia> .
+
+<http://dbpedia.org/resource/Carl_Sigismund_Kunth>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1818> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Wister_Gardens>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mississippi> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Lemmon>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Puccinellia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Crocker_Range>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/four> .
+
+<http://ns.aksw.org/scms/annotations/stanford/African>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Napier> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Osaka_Prefecture>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Japan> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Sumatra>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Malaysia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/James_Drummond.It>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Australiensis> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Stephan_Endlicher>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Enumeratio> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Kasunda>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Baner> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Linnaeus>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1753> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Baja_California>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mexico> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Otto_Stapf>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/1889> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Masdevallia>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://dbpedia.org/resource/Colombia> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1772-1775>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/James_Cook> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Napa_County>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/California> .
+
+<http://ns.aksw.org/scms/annotations/stanford/1917>
+        <http://ns.aksw.org/scms/annotations/stanford/OrgBased_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Druce> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Dendrosenecio>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Mountains> .
+
+<http://dbpedia.org/resource/Americas>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Asia> .
+
+<http://dbpedia.org/resource/Honduras>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Caribbean> .
+
+<http://dbpedia.org/resource/Astarte>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Greek> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Gerhard_August_Honckeny>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/German> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Douglas>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/California> .
+
+<http://ns.aksw.org/scms/annotations/stanford/coreana_Nakai>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://dbpedia.org/resource/Korea> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Burkina_Faso>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Africa> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Psoralea>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/America> .
+
+<http://dbpedia.org/resource/Cape_Fear_River>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Pender_County,_North_Carolina> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Guangdong>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Yunnan> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Morea>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://ns.aksw.org/scms/annotations/stanford/African> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Atlantic>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Spartina> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Tanaka>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/3> .
+
+<http://dbpedia.org/resource/South_America>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/caven> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Nathaniel_Wallich>
+        <http://ns.aksw.org/scms/annotations/stanford/Work_For>
+                <http://ns.aksw.org/scms/annotations/stanford/Danish> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Traminer_Zierfandler>
+        <http://ns.aksw.org/scms/annotations/stanford/Live_In>
+                <http://ns.aksw.org/scms/annotations/stanford/Rotgipfler> .
+
+<http://ns.aksw.org/scms/annotations/stanford/Pink_French>
+        <http://ns.aksw.org/scms/annotations/stanford/Located_In>
+                <http://dbpedia.org/resource/Horn_of_Africa> .
